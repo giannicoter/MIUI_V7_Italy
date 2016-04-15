@@ -182,8 +182,11 @@ Dimensione aggiornamento delta: %2$s"</string>
 2.\u0009Entra nelle impostazioni di Mi Talk e seleziona \"Backup contatti su Account Mi\"</string>
     <string name="import_from_xiaomi_account_hint2">Nota: Vai al prossimo punto se il backup è già esistente</string>
     <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per il backup dei contatti su dispositivi di altre marche</string>
-    <string name="guarded_mode_dialog_title">Modalità Guard</string>
-    <string name="guarded_mode_dialog_message">Impossibile eseguire backup e ripristino in modalità Guard</string>
+    <string name="guarded_mode_dialog_title">Sei in modalità Ospite</string>
+    <string name="guarded_mode_dialog_backup_message">I backup non sono ocnsentiti in modalità Ospite</string>
+    <string name="guarded_mode_dialog_transfer_message">Impossibile utilizzare Mi Mover in modalità Ospite</string>
+    <string name="multi_user_mode_dialog_title">Sei in modalità Multi-utente</string>
+    <string name="multi_user_mode_dialog_message">Non puoi utilizzare Mi Mover in modalità Multi-utente. Disttiva la modalità Multi-utente per contnuare.</string>
     <string name="multi_select_title">Selezionati %1$s elemento(i)</string>
     <string name="enable_encrypt_title">Crittografia abilitata</string>
     <string name="disable_encrypt_title">Crittografia disabilitata</string>

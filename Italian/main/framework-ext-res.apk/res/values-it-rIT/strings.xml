@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_toggle_ac">Controllo accesso</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_auto_brightness">Lumin. Auto</string>
     <string name="status_bar_toggle_data">Dati</string>
@@ -21,9 +20,6 @@
     <string name="status_bar_toggle_quiet_mode">Non disturb.</string>
     <string name="status_bar_toggle_paper_mode">Mod. Lettura</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
-    <string name="screen_rotation_freeze_message">Rotazione automatica disattivata.</string>
-    <string name="screen_button_disabled_message">Tasti di navigazione disattivati. Per riattivarli tocca Home ed il tasto accensione contemporaneamente.</string>
-    <string name="screen_button_enabled_message">Tasti navigazione attivati.</string>
     <string name="miui">MIUI</string>
     <string name="perm_send_push_dspt">Consenti messaggi Mi push</string>
     <string name="perm_send_push_lab">Invia messagio push</string>
@@ -74,6 +70,7 @@ Per attivare questa funzione, vai in Impostazioni > Sistema > Tasti"</string>
     <string name="sim_added_reboot_confirm">Riavvia</string>
     <string name="softap_notifif_title">Hotspot \"%s\" attivo</string>
     <string name="softap_notifif_summary">%d connesso</string>
+    <string name="turn_off">Spegni</string>
     <string name="unknown_caller">Numero sconosciuto</string>
     <string name="handy_mode_title">Uso con una mano</string>
     <string name="handy_mode_summary">Tocca lo spazio vuoto per chiudere</string>

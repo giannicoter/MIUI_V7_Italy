@@ -349,6 +349,12 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="action_menu_text_snapshot">Salva pagina</string>
     <string name="action_menu_text_fullscreen">Schermo intero</string>
     <string name="action_menu_text_download">Download</string>
+    <string name="action_menu_account_not_login">Non accedere</string>
+    <string name="action_menu_account_not_login_hint">Utilizza le impostazioni cloud quando accedi</string>
+    <string name="action_menu_toolbox">Strumenti</string>
+    <string name="action_menu_bookshelf">Libreria</string>
+    <string name="action_menu_useful_page">Aggiungi utilità</string>
+    <string name="action_menu_useful_page_added">Utilità aggiunta</string>
     <string name="start_save_page_capture">Salvataggio screenshot…</string>
     <string name="save_page_capture_to_camera">Screenshot salvato</string>
     <string name="save_page_capture_tip">Apri il pannello delle notifiche per vedere lo screenshot.</string>
@@ -709,7 +715,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="no_space_alert_text">Spazio di archiviazione non sufficiente</string>
     <string name="no_space_alert_cancel">Più tardi</string>
     <string name="no_space_alert_clean">Libera spazio</string>
-    <string name="no_space_clean_failed">NOn è possibile liberare spazio sul dispositivo​</string>
+    <string name="no_space_clean_failed">Non è possibile liberare spazio sul dispositivo​</string>
     <string name="more_option">Altre opzioni</string>
     <string name="action_menu_current_version">Versione attuale</string>
     <string name="current_version_pad">Tablet</string>
@@ -771,4 +777,14 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="download_memory_info_total">" totale ​%s"</string>
     <string name="go_supermarket_button">Vai</string>
     <string name="go_supermarket_title">"Altre app, maggiore velocità e riduzione dell'utilizzo dati nellì'app Store"</string>
+    <string name="login_failed_toast">Accesso fallito, aggiornare.</string>
+    <string name="custom_head_card_text">"Pensa sempre che qualcosa di stupendo
+sta per accadere"</string>
+    <string name="custom_head_card_text_incognito">"Solo tu conosci questa
+finestra riservata​"</string>
+    <string name="comment_menu">commenti</string>
+    <string name="comment_app_menu">commenti</string>
+    <string name="send_comment_button">invia</string>
+    <string name="reply_comment_title">risposta: %s</string>
+    <string name="send_comment_title">commenti</string>
 </resources>

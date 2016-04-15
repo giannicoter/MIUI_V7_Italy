@@ -48,6 +48,8 @@
     <string name="cancel_download_buton_text">Annulla</string>
     <string name="boot_recovery">Riavvia in Recovery</string>
     <string name="cancel_download">Interrompere il download di questo aggiornamento?</string>
+    <string name="continue_update_positive_btn">Interrompi</string>
+    <string name="continue_update_negative_btn">Continua</string>
     <string name="update_success_reboot_immediately">Dispositivo aggiornato</string>
     <string name="download_success_reboot_immediately">"Riavvia per applicare l'aggiornamento"</string>
     <string name="update_success">Aggiornamento dispositivo</string>

@@ -81,6 +81,11 @@
         <item>Medio</item>
         <item>Alto</item>
     </string-array>
+    <string-array name="roaming_network_type">
+        <item>Sempre</item>
+        <item>Solo per le eccezioni</item>
+        <item>Mai</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Dopo 1 minuto</item>
         <item>Dopo 5 minuti</item>

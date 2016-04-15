@@ -52,6 +52,7 @@
     <string name="pref_title_expand_cache_group">Espandi i gruppi della cache</string>
     <string name="pref_summary_expand_cache_group">I gruppi nella lista cache saranno espansi in automatico</string>
     <string name="pref_category_title_auto_clean_settings">Ottimizza automaticamente</string>
+    <string name="pref_section_auto_clean_and_alert">Pulisci automaticamente</string>
     <string name="pref_title_auto_clean_and_alert">Ottimizza automaticamente</string>
     <string name="pref_summary_auto_clean_and_alert">"Imposta l'ottimizzazione automatica"</string>
     <string name="pref_category_title_other_clean_settings">Impostazioni aggiuntive</string>
@@ -253,9 +254,9 @@
     <string name="mainbtn_text_quick_cleanup">Pulisci %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Pulisci</string>
     <string name="pref_title_open_optimizer_memory_scan">Pulizia memoria</string>
-    <string name="pref_summary_open_optimizer_memory_scan">Controlla e ottimizza automaticamente la memoria</string>
     <string name="toast_select_white_need_remove">Seleziona gli elementi da rimuovere</string>
-    <string name="pref_title_auto_deepclean_and_alert">Notifica app non utilizzate</string>
+    <string name="pref_title_auto_deepclean_and_alert">Pulizia profonda</string>
+    <string name="pref_summary_auto_deepclean_and_alert">Notifica app non tulizzate</string>
     <string name="notification_summary_of_apps_cleanup">Le app non utilizzate occupano %s di spazio</string>
     <string name="notification_title_of_apps_cleanup">App non utilizzate</string>
     <string name="pref_title_apps_check_time">Frequenza</string>
@@ -314,6 +315,8 @@
     <string name="buy_immediately">Acquista</string>
     <string name="title_of_auto_launch_manage">Avvio automatico</string>
     <string name="tips_of_auto_launch_manage">"Previene l'avvio automatico delle app utilizzate raramente"</string>
+    <string name="title_of_app_manage">Applicazioni</string>
+    <string name="tips_of_app_manage">Elimina app utilizzate raramente per risparmire spazio</string>
     <string name="title_of_traffic_notification">Statistiche dati nelle notifiche</string>
     <string name="tips_of_traffic_notification">Mostra le statistiche dei dati nel pannello delle notifiche</string>
     <string name="title_of_package_set">Impostazioni piano dati</string>
@@ -381,4 +384,7 @@
     <string name="dialog_title_stop_scan">Interrompi scansione</string>
     <string name="dialog_msg_stop_scan">Interrompere la scansione prima della fine?</string>
     <string name="recommend_the_following">Esegui le seguenti azioni per ottenere il massimo dal tuo dispositivo</string>
+    <string name="news_change">Cambia</string>
+    <string name="long_click_dialog_title">Avviso</string>
+    <string name="long_click_dialog_summary">Tieni premuto per aggiungere eccezioni.</string>
 </resources>

@@ -878,6 +878,8 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
     <string name="preference_key_shortcut_network_speed_detail">key_shortcut_network_speed_detail</string>
     <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
+    <string name="category_key_power_usage_details">key_power_usage_details</string>
+    <string name="category_key_power_usage_packages">key_power_usage_packages</string>
     <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
     <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
     <string name="preference_key_module_network_assistant">key_network_assistant</string>
@@ -1240,6 +1242,8 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="toast_virus_cloudscan">La scansione virus utilizzerà il database online</string>
     <string name="toast_cleaner_cloudscan">Lo Strumento di pulizia utilizzerà il database online</string>
     <string name="toast_garbage_lib">Aggiornamenti automatici attivati per lo Strumento di pulizia</string>
+    <string name="title_app_lock_disable">Blocca app</string>
+    <string name="summary_app_lock_disable">Blocca le applicazioni per proteggere la tua privacy</string>
     <string name="info_and_call">Chiamate e messaggi</string>
     <string name="SMS_and_MMS">SMS e MMS</string>
     <string name="permission_with_SMS_and_MMS">Permessi SMS ed MMS</string>
@@ -1350,4 +1354,8 @@ o inserisci la password"</string>
     <string name="confirm_fingerprint_msg">Posiziona il dito sul lettore di impronta</string>
     <string name="fingerprint_identify_msg">Scansione impronta…</string>
     <string name="fingerprint_not_identified_msg">Per sbloccare il dispositivo, inserisci la tua password.</string>
+    <string name="lockscreen_access_pattern_start">Sequenza avviata</string>
+    <string name="lockscreen_access_pattern_cleared">Sequenza cancellata</string>
+    <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
+    <string name="lockscreen_access_pattern_detected">Sequenza completata</string>
 </resources>

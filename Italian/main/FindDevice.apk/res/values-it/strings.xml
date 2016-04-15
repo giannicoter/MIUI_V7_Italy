@@ -16,8 +16,6 @@
     <string name="find_device_storage_corrupted">Memoria Trova telefono corrotta. IL tuo dispositivo adesso non è sicuro.</string>
     <string name="time_correction_success">Orario corretto</string>
     <string name="time_correction_failure">"Impossibile corregere l'orario (%s)"</string>
-    <string name="time_correction_failure_no_ntp">Server NTP non disponibile</string>
-    <string name="time_correction_failure_network">Errore di rete</string>
     <string name="find_device_stop_noise">Tocca OK per silenziare</string>
     <string name="find_device_noise_title">Suono di localizzazione dispositivo</string>
     <string name="find_device_success_title">Trova dispositivo</string>
@@ -72,6 +70,7 @@ Vai su id.mi.com e prova a sbloccare il dispositivo da qui"</string>
     <string name="passport_notification_processing">Elaborazione…</string>
     <string name="passport_notification_need_unlock_again">Prova a sbloccare ancora</string>
     <string name="device_lost">Questo dispositivo è stato smarrito</string>
+    <string name="device_locked">Questo dispositivo è bloccato</string>
     <string name="default_lock_msg_words_with_phone">Ciao! Ho smarrito questo telefono. Potresti contattarmi? Grazie!</string>
     <string name="default_lock_msg_words">Ciao! Ho smarrito questo telefono. Ti contatterò al più presto. Grazie per la tua collaborazione!</string>
     <string name="lock_msg_phone">Informazioni di contatto: %s</string>
