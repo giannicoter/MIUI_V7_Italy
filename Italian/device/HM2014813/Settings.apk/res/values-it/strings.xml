@@ -2953,7 +2953,6 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="pref_button_light_summary">Retroilluminazione tasti Menu, Home e Indietro</string>
     <string name="button_light_timeout">Retroilluminazione tasti</string>
 	<string name="battery_light_title">Led quando sei in carica</string>
-    <string name="battery_light_title">Luce batteria</string>
     <string name="sim_change_failed_enable_sim_lock">Abilita blocco SIM per modificare il PIN</string>
     <string name="sim_lock_change_not_supported">Impossibile modificare il blocco SIM. La SIM non lo supporta.</string>
     <string name="apn_new">"Nuovo punto d'accesso"</string>
