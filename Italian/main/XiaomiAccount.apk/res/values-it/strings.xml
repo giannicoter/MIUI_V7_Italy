@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="passport_login_prompt">Un Mi Account. Tutti i servizi Mi.</string>
+    <string name="passport_login_using_other_ways"><u>Altre modalità di accesso</u></string>
+    <string name="passport_find_device_activate_account">Attiva account</string>
+    <string name="passport_reg_prompt">"Non hai un Mi Account? Creane uno gratuitamente."</string>
+    <string name="passport_uplink_reg">Usa il numero di telefono</string>
+    <string name="passport_uplink_slot1_reg">Usa SIM 1</string>
+    <string name="passport_uplink_slot2_reg">Usa SIM 2</string>
+    <string name="passport_reg_using_other_phone"><u>Usa numero alternativo</u></string>
+    <string name="passport_reg_btn_using_other_phone">sa numero alternativo</string>
+    <string name="passport_downlink_reg">Crea account utilizzando il numero di telefono</string>
+    <string name="passport_select_reg_ways_title">Altre modalità di accesso</string>
+    <string name="passport_auto_generate_pwd">Genera password di sicurezza</string>
+    <string name="passport_pwd_generating">Creazione…</string>
+    <string name="passport_pwd_generate_failure">Impossibile generare la password</string>
+    <string name="passport_use_generated_pwd_title">Non dimenticare la password!</string>
+    <string name="passport_use_generated_pwd_message">Non dimenticare la password. Puoi utilizzarla per accedere ad altri servizi Mi.</string>
+    <string name="i_know">Ho capito</string>
     <string name="passport_account_hint_text">Email o numero di telefono</string>
     <string name="passport_phone_num_hint_text">Numero di telefono</string>
     <string name="passport_login">Accedi con un account esistente</string>
-    <string name="passport_login_short">Accedi</string>
     <string name="passport_login_with_email_or_id"><u>Accedi con email o Mi Account ID</u></string>
     <string name="passport_email_or_id_hint_text">Email o Mi Account ID</string>
     <string name="passport_verify">Verifica</string>
@@ -28,7 +44,6 @@
     <string name="passport_reg_type_email">"Registrati con l'email"</string>
     <string name="passport_reg_using_phone_number_prompt">Registrati con il numero di telefono</string>
     <string name="passport_reg_using_other_phone_number_prompt">Registrati con il numero di telefono</string>
-    <string name="passport_reg_using_other_phone">Registrati con un altro numero di telefono</string>
     <string name="passport_reg_via_sms_alert">"L'SMS di attivazione è soggetto ai costi legati al tuo operatore."</string>
     <string name="passport_reg_sms_send_prompt">Invia il codice di verifica a %s</string>
     <string name="passport_password_req_notice">La password deve essere di 8-16 caratteri ed includere numeri e lettere (case sensitive).</string>
@@ -77,8 +92,11 @@ Per attivare il tuo account, segui il
     <string name="passport_confirm">Conferma</string>
     <string name="passport_login_notice">Accesso in corso…</string>
     <string name="passport_login_check_find_device">Verifica stato Trova Dispositivo…</string>
-    <string name="passport_login_check_find_device_failed">"Impossibile verificare Trova Dispositivo. Verifica la connessione di rete."</string>
-    <string name="passport_login_find_device_bind">Questo dispositivo è già associato ad un Mi Account ID (%s). Accedi per attivare questo dispositivo.</string>
+    <string name="passport_login_check_find_device_failed_title">Impossibile verificare lo stato di Trova Telefono</string>
+    <string name="passport_login_check_find_device_failed_message">Controlla la tua connessione.</string>
+    <string name="passport_login_find_device_bind">Questo dispositivo è associato ad un Mi Account esistente  ID (%s). Accedi epr attivar eil dispositivo.</string>
+    <string name="passport_retry">Retry</string>
+    <string name="passport_back">Back</string>
     <string name="passport_failed_to_send_activate_email">"Impossibile inviare l'email di attivazione"</string>
     <string name="passport_access_denied">Accesso negato</string>
     <string name="passport_reging">Creazione account…</string>
@@ -97,10 +115,6 @@ Per attivare il tuo account, segui il
     <string name="passport_license_host_unreachable">"Impossibile connettersi alla rete. Puoi vedere questa pagina a %s."</string>
     <string name="passport_skip_setup_account_title">Salta configurazione</string>
     <string name="passport_skip_setup_account_msg">Puoi impostare un Mi Account più tardi nelle Impostazioni.</string>
-    <string name="passport_xiaomi_account_dspt">Utilizza il tuo Mi Account per accedere da qualsiasi dispositivo a Mi Cloud, MIUI Theme Store ed altri servizi.</string>
-    <string name="passport_xiaomi_account_sec_dspt"/>
-    <string name="passport_xiaomi_account_sec_dspt2">Per accedere al tuo Mi Account è necessaria una connessione internet. Inoltre, la geolocalizzazione e Mi Cloud verranno attivati automaticamente.</string>
-    <string name="passport_xiaomi_account_sec_dspt2_vip">Per accedere al tuo Mi Account è necessaria una connessione internet. Inoltre, la geolocalizzazione, Mi Cloud e MI VIP verranno attivati automaticamente.</string>
     <string name="passport_remove_unactivated_account_notice">Il tuo account non è stato attivato</string>
     <string name="passport_remove_confirm">Esci</string>
     <string name="passport_find_password_on_web_msg">Visita <b>account.mi.com</b> per reimpostare la password.</string>
@@ -154,14 +168,6 @@ Per attivare il tuo account, segui il
     <string name="app_name">Mi Account</string>
     <string name="account">Account</string>
     <string name="micloud_account_name">Mi Account</string>
-    <string name="account_dspt_provision">Utilizza un solo account per tutti i nostri prodotti.</string>
-    <string name="account_dspt_provision2">Leggi altro</string>
-    <string name="provision_skip_login"><u>Salta il passaggio</u></string>
-    <string name="account_learn_more_title">Crea un Mi Account</string>
-    <string name="cloud_service_dspt">Sincronizza foto, contatti, note, app e molto altro su tutti i tuoi dispositivi.</string>
-    <string name="theme_store">MIUI Themes Store</string>
-    <string name="theme_store_dspt">Scegli il tuo look. Centinaia di temi gratuiti e personalizzabili per rendere unico il tuo dispositivo.</string>
-    <string name="mi_account_dspt_provision">"Accedi a Mi Cloud, MIUI Theme Store ed altri servizi Mi da qualunque posizione."</string>
     <string name="logout_failed">Impossibile uscire</string>
     <string name="timeout_retry">Richiesta scaduta, riprova.</string>
     <string name="no_response_retry">Nessuna risposta, riprova.</string>
@@ -338,8 +344,9 @@ Assicurati di ricordare le risposte."</string>
     <string name="get_device_list_failed">Impossibile recuperare la lista dispositivi</string>
     <string name="delete_device_failed">Impossibile rimuovere il dispositivo</string>
     <string name="empty_device_list_notice">Nessun dispositivo</string>
-    <string name="internet_statement_title">Termini di utilizzo</string>
-    <string name="internet_statement_message">"Toccando OK, concordi con la possibilità che l'app acceda ad internet."</string>
-    <string name="agree_add_continue">OK</string>
-    <string name="exit">Esci</string>
+    <string name="cta_declaration_title">Termini di utilizzo</string>
+    <string name="cta_declaration_message">"Per accedere al tuo Mi Account, devi collegarti ad internet, localizzare il tuo dispositivo e attivare Mi Cloud. Per effettuar eil backup dei tuoi dati, questa app devve accedere ai contatti, agli SMS/MMS, al registro chiamate e alle registrazioni. Non utilizzeremo queste informazioni per scopi commerciali e non le condivideremo con terze parti. Dopo aver effettuato l'accesso, Mi Account, Mi VIP e Service number si collegheranno ad internet."</string>
+    <string name="cta_declaration_ignore">Ignora</string>
+    <string name="cta_declaration_agree_and_continue">OK</string>
+    <string name="cta_declaration_exit">Esci</string>
 </resources>

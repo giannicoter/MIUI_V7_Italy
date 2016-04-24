@@ -19,7 +19,8 @@
     <string name="activity_title_apk">Pacchetti</string>
     <string name="activity_title_residual">Residui</string>
     <string name="btn_text_quick_scan">Scansiona</string>
-    <string name="optimizecenter_data_support">Powered by Clean Master</string>
+    <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
+    <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
     <string name="hints_app_uninstall_residual">Rimuovere i dati delle app disinstallate?</string>
     <string name="button_text_cancel">Annulla</string>
     <string name="button_text_known">OK</string>
@@ -135,6 +136,9 @@
     <string name="hints_finish_quick_cleanup_title">Pulizia di %s dal cestino completata</string>
     <string name="dialog_title_load_cleanup_engine_error">Qualcosa è andato storto</string>
     <string name="dialog_msg_load_cleanup_engine_error">Il motore di pulizia è corrotto.</string>
+    <string name="dialog_title_add_white_list_error">Attenzione</string>
+    <string name="dialog_msg_add_white_list_error">"Il fil enon supporta l'aggiunta di eccezioni"</string>
+    <string name="dialog_ok_add_white_list_error">Ho capito</string>
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
     <string name="title_delete_large_file">Rimuovere questo file?</string>
@@ -383,6 +387,10 @@
     <string name="recommend_news">Fonti consigliate</string>
     <string name="dialog_title_stop_scan">Interrompi scansione</string>
     <string name="dialog_msg_stop_scan">Interrompere la scansione prima della fine?</string>
+    <string name="dialog_title_esc_cleanmaster">"Esci dall'app di pulizia"</string>
+    <string name="dialog_msg_esc_cleanmaster">Interrompere la scansione in corso?</string>
+    <string name="pref_category_title_engine_settings">Impostazioni definizione scansione</string>
+    <string name="pref_title_choose_engine">Definizioni</string>
     <string name="recommend_the_following">Esegui le seguenti azioni per ottenere il massimo dal tuo dispositivo</string>
     <string name="news_change">Cambia</string>
     <string name="long_click_dialog_title">Avviso</string>

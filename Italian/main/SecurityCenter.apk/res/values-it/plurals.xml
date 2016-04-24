@@ -84,6 +84,10 @@
         <item quantity="other">Aggiornamento disponibile per %d applicazioni.</item>
         <item quantity="one">Aggiornamento disponibile per %d applicazione.</item>
     </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d app contengono minacce per la privacy</item>
+        <item quantity="one">%d contiene minacce per la privacy</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">La password dovrebbe contenere almeno %d lettere.</item>
         <item quantity="one">"La password dovrebbe contenere almeno 1 lettera. "</item>

@@ -11,6 +11,10 @@
     <string name="dialog_title_attention">Attenzione</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">M/s</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="megabyteShort">MB</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="byteShort">B</string>
     <string name="main_button_normal_traffic">Picco</string>
     <string name="main_button_idel_traffic">Fuori-picco</string>
     <string name="main_toolbar_firewall">Limita utilizzo dati</string>
@@ -413,9 +417,9 @@ For more info check the message you received from your carrier"</string>
     <string name="tc_sms_report_notify_get_failure_body">Impossibile inviare rapporto utilizzo dati. Assicurati di essere connesso ad una rete dati.</string>
     <string name="tc_sms_report_tips_dialog_title">"SMS sull'utilizzo dei dati"</string>
     <string name="tc_sms_report_tips_dialog_message">Utilizzo dati si serve di un SMS con particolare formattazione per recuperare i dati aggiornati dal tuo operatore. Se questa funzione , try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
-    <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
-    <string name="tc_sms_report_get_sms_timeout">Request timed out</string>
-    <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
+    <string name="tc_sms_report_get_sms_failure">Impossibile recuperare SMS con il formato di utilizzo dei dati</string>
+    <string name="tc_sms_report_get_sms_timeout">Richiesta scaduta</string>
+    <string name="tc_sms_report_get_sms_successs">Formato SMS sull'utilizzo dei dati aggiornato</string>
     <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
     <string name="tc_sms_report_toast_text">Getting info…</string>
     <string name="privacy_declare_dialog_title">Terms of Service</string>
@@ -457,6 +461,7 @@ For more info check the message you received from your carrier"</string>
     <string name="roaming_limit_network_notification_body">Tocca per visualizzare le reti disponibili</string>
     <string name="roaming_limit_dialog_message">Limite di dati giornaliero in roaming raggiunto.</string>
     <string name="search_input_txt_na">"<font color="#ff0000">%s</font>"</string>
+ <string name="roaming_allow_network_dialog_title">Consentire il roaming dati su rete mobile?</string>
     <string name="title_limit_traffic_per_day">Limite dati giornaliero</string>
     <string name="daily_limit_and_lock_screen">Limite dati e notifiche</string>
     <string name="pref_title_traffic_limit_number">Dimensione</string>
@@ -483,11 +488,11 @@ For more info check the message you received from your carrier"</string>
     <string name="traffic_setting_open">Attivato</string>
     <string name="traffic_setting_app_count">%d app</string>
     <string name="traffic_warning_purchase_title">Avviso utilizzo dati mobili</string>
-    <string name="traffic_purchase_body">Tap to top up your balance.</string>
-    <string name="traffic_purchse_suggestion">Top up mobile data</string>
-    <string name="traffic_over_purchase_title">Data limit exceeded</string>
-    <string name="traffic_over_purchase_body">Touch to view details.</string>
-    <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.<br/>If you go over your plans data usage limit, your carrier may charge you additional fees.<br/><br/><font color='#ccffffff'><U>Tap to top up your balance.</U></font>"</string>
+    <string name="traffic_purchase_body">Tocca per ricaricare.</string>
+    <string name="traffic_purchse_suggestion">Ricarica dati rete mobile</string>
+    <string name="traffic_over_purchase_title">Limite dati sueprato</string>
+    <string name="traffic_over_purchase_body">Tocca per vedere i dettagli.</string>
+    <string name="traffic_over_purchase_link">"Hai raggiunto il limte del tuo piano dati<br/>Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi.<br/><br/><font color='#ccffffff'><U>Tocca per ricaricare.</U></font>"</string>
     <string name="repair_loading_text">Solo un attimo…</string>
     <string name="network_diagnostics">Verifica la rete</string>
     <string name="btn_start_diagnostic">Verifica la rete</string>
@@ -1124,10 +1129,9 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="manual_item_white_list_title">Eccezioni</string>
     <string name="manual_item_white_list_summary">Non ottimizzare le app selezionate</string>
     <string name="pm_auto_start_by_system">Avvio applicazioni</string>
-    <string name="pm_auto_start_by_other_services">Prova a disattivare questi servizi</string>
-    <string name="pm_auto_start_by_basic_services">Servizi base</string>
-    <string name="pm_auto_start_basic_services_lock">Blocca</string>
-    <string name="pm_auto_start_basic_services_unlock">Sblocca</string>
+    <string name="pm_auto_start_by_system_event">"Consenti l'avvio automatico delle app"</string>
+    <string name="pm_auto_start_by_other">Avvio automatico</string>
+    <string name="pm_auto_start_by_other_app">"Consenti l'avvio delle app tramite altre applicazioni"</string>
     <string name="pm_auto_start_proc_is_running">In esecuzione</string>
     <string name="empty_app">Nessuna app</string>
     <string name="pm_remember_choice">Ricorda la mia scelta</string>
@@ -1255,6 +1259,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="app_name">App lock</string>
     <string name="text_lock_info">Disegna la sequenza di sblocco</string>
     <string name="select_pattern">Scegli sequenza</string>
+    <string name="notification_item">Attiva App lock</string>
     <string name="lockpattern_tutorial_cancel_label">Annulla</string>
     <string name="lockpattern_tutorial_continue_label">Avanti</string>
     <string name="lockpattern_retry_button_text">Disegna di nuovo</string>

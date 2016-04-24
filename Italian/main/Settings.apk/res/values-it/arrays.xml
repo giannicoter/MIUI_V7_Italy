@@ -603,7 +603,7 @@
     <string-array name="msd_pc_system">
         <item>Windows XP e versioni precedenti di Windows</item>
         <item>Windows Vista e versioni più recenti di Windows</item>
-        <item>Mac OS</item>
+        <item>OSX</item>
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
@@ -730,13 +730,19 @@
         <item>4,0\"</item>
         <item>3,5\"</item>
     </string-array>
+    <string-array name="lock_screen_secure_after_timeout_values">
+        <item>0</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+    </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Subito</item>
+        <item>30 secondi</item>
         <item>1 minuto</item>
         <item>2 minuti</item>
         <item>5 minuti</item>
-        <item>15 minuti</item>
-        <item>30 minuti</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Nascondi animazioni di sistema</item>
@@ -787,6 +793,7 @@
         <item>cr</item>
         <item>ci</item>
         <item>cu</item>
+        <item>cz</item>
         <item>dm</item>
         <item>do</item>
         <item>ec</item>
@@ -838,6 +845,7 @@
         <item>py</item>
         <item>pe</item>
         <item>ph</item>
+        <item>pl</item>
         <item>qa</item>
         <item>ro</item>
         <item>ru</item>
@@ -845,6 +853,7 @@
         <item>sa</item>
         <item>sn</item>
         <item>sg</item>
+        <item>sk</item>
         <item>so</item>
         <item>za</item>
         <item>gs</item>
@@ -903,6 +912,9 @@
         <item>TT</item>
         <item>UY</item>
         <item>VE</item>
+    </string-array>
+    <string-array name="ncc_locales">
+        <item>TW</item>
     </string-array>
     <string-array name="common_password_business_keys">
         <item>miui_keyguard</item>

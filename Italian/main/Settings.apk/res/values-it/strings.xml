@@ -2815,6 +2815,7 @@ Se non utilizzi gli annunci personalizzati, il numero di annunci non verrà limi
     <string name="max_cpu6_info">Hexa-core Max</string>
     <string name="device_cpu8_info">Octa-core</string>
     <string name="max_cpu8_info">"Octa-core Max "</string>
+    <string name="device_cpu10_info">Deca-core</string>
     <string name="available_size">%s disponibile</string>
     <string name="total_size">%s totale</string>
     <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
@@ -3720,8 +3721,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="delete_legacy_fingerprint">Elimina</string>
     <string name="keep_legacy_fingerprint">Mantieni</string>
     <string name="add_fingerprint_finished_button_text">Fatto</string>
-    <string name="add_fingerprint_instruction_dialog_msg">"Per aggiungere la tua impronta digitale, appoggia il dito sul sensore.
-Assicurati che il dito copra l'intera superficie del sensore"</string>
+    <string name="add_fingerprint_instruction_dialog_msg">"Per aggiungere la tua impronta digitale, appoggia il dito sul sensore finché non senti una vibrazione."</string>
     <string name="add_fingerprint_toast_text">Appoggia il dito sul sensore adesso</string>
     <string name="onekey_migrate">Trasferisci</string>
     <string name="lock_settings_with_fingerprint">Schermata di blocco e password</string>
@@ -3764,4 +3764,5 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="bootloader_apply_step_5">Devi essere sicuro di sapere come utilizzare la modalità Fastboot prima di attivarla.</string>
     <string name="add_fingerprint_similar_fingerprint_input_error_msg">Cambia la posizione del dito</string>
     <string name="add_fingerprint_failed_retry_text">Impossibile aggiungere impronta digitale, prova di nuovo</string>
+    <string name="lock_secure_after_timeout_click_me_to_change_text">Tocca per modificare</string>
 </resources>
