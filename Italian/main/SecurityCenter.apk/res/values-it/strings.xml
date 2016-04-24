@@ -419,7 +419,7 @@ For more info check the message you received from your carrier"</string>
     <string name="tc_sms_report_tips_dialog_message">Utilizzo dati si serve di un SMS con particolare formattazione per recuperare i dati aggiornati dal tuo operatore. Se questa funzione , try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
     <string name="tc_sms_report_get_sms_failure">Impossibile recuperare SMS con il formato di utilizzo dei dati</string>
     <string name="tc_sms_report_get_sms_timeout">Richiesta scaduta</string>
-    <string name="tc_sms_report_get_sms_successs">Formato SMS sull'utilizzo dei dati aggiornato</string>
+    <string name="tc_sms_report_get_sms_successs">Formato SMS utilizzo dati aggiornato</string>
     <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
     <string name="tc_sms_report_toast_text">Getting info…</string>
     <string name="privacy_declare_dialog_title">Terms of Service</string>
