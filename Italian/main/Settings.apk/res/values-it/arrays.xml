@@ -328,8 +328,12 @@
         <item>Predefinito</item>
         <item>Sans-serif</item>
         <item>Sans-serif condensed</item>
+        <item>Sans-serif monospace</item>
         <item>Serif</item>
-        <item>Monospace</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>Cursive</item>
+        <item>Small capitals</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Molto piccolo</item>
@@ -339,11 +343,15 @@
         <item>Molto grande</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
+        <item>Predefinito</item>
         <item>Nessuno</item>
         <item>Contorno</item>
         <item>Ombreggiatura</item>
+        <item>In rilievo</item>
+        <item>Incavato</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
+        <item>Predefiniti</item>
         <item>Bianco su nero</item>
         <item>Nero su bianco</item>
         <item>Giallo su nero</item>
@@ -429,7 +437,6 @@
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Disattivo</item>
-        <item>Su schermo sotto forma di barre</item>
         <item>Su schermo sotto forma di linee</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
@@ -757,7 +764,7 @@
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
     </string-array>
     <string-array name="screen_resolution_entries">
-        <item>Nativa (2K)</item>
+        <item>Alta (2K)</item>
         <item>Normale (720p)</item>
     </string-array>
     <string-array name="screen_resolution_values">

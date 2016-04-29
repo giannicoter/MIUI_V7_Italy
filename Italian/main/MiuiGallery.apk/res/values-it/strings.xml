@@ -233,6 +233,7 @@
     <string name="add_automatically_alert_title">Aggiungi automaticamente le foto</string>
     <string name="add_automatically_alert_msg">Aggiungere automaticamente le foto da \"%1$s\" a questo album?</string>
     <string name="set_face_image">Imposta un nuovo viso</string>
+    <string name="adding">Inserimento</string>
     <string name="hybrid_check_network">Impostazioni di rete</string>
     <string name="hybrid_try_again">Riprova</string>
     <string name="hybrid_network_unavaliable">Impossibile collegarsi alla rete</string>
@@ -337,6 +338,7 @@
     <string name="photo">Immagine</string>
     <string name="orientation_lock_tip">Rotazione bloccata</string>
     <string name="orientation_unlock_tip">Rotazione automatica attivata</string>
+    <string name="video_edit_file_not_exits_tip">Prima devi scaricare il video</string>
     <string name="must_pick_file">"Seleziona un'immagine"</string>
     <string name="send_multiple_files_hint_format">Invia file (%s)</string>
     <string name="send_too_many_files_error">Impossibile inviare tutti gli elementi (massimo %d elementi).</string>
@@ -569,6 +571,7 @@
     <string name="delete_from_homepage_album">Album visualizzati in home</string>
     <string name="delete_from_devices">Tutti i dispositivi che sincronizzano automaticamente</string>
     <string name="delete_from_devices_album">Tutti i dispositivi che hanno sincronizzato questo album</string>
+    <string name="delete_to_trash_tips">Puoi vedere le foto cancellate di recente nelle impostazioni del cestino</string>
     <string name="storage_no_space">Spazio di archiviazione esaurito</string>
     <string name="share_album">Condividi album</string>
     <string name="all_video_album_display_name">Tutti i video</string>

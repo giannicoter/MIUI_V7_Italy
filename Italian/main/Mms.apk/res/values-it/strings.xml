@@ -625,4 +625,9 @@
     <string name="title_red_package">Buona fortuna</string>
     <string name="title_send_red_package">Controlla Pacchetto Rosso</string>
     <string name="title_recv_red_package">Ottieni Pacchetto Rosso</string>
+    <string name="delete_wild_sims">Elimina numeri</string>
+    <string name="delete_wild_sims_title">Elimina numeri selezionati</string>
+    <string name="delete_wild_sims_confirm">Tutti i numeri associati a questo contatto verranno eliminati dal telefono. Puoi ripristinarli su i.mi.com.</string>
+    <string name="add_to_browser_favorite_success">aggiunto</string>
+    <string name="add_to_browser_favorite_failed">non aggiunto</string>
 </resources>

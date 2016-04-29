@@ -244,7 +244,8 @@ Per aggiungere un contatto alla lista dei Preferiti:
     <string name="description_view_contact_detail">Visualizza contatto</string>
     <string name="no_sdcard_message">Nessun archivio trovato.</string>
     <string name="import_from_sdcard">Importa da archivio</string>
-    <string name="export_to_sdcard">Esporta in archivio</string>
+    <string name="export_to_storage">Esporta in archivio</string>
+    <string name="export_to_sdcard">Esporta su SD</string>
     <string name="share_visible_contacts">Condividi contatti visibili</string>
     <string name="import_one_vcard_string">Importa un file vCard</string>
     <string name="import_multiple_vcard_string">Importa più file vCard</string>
@@ -573,6 +574,10 @@ Scegli una delle seguenti opzioni:"</string>
     <string name="dialog_voicemail_airplane_mode_message">Per chiamare la segreteria, disattiva prima la modalità Aereo.</string>
     <string name="action_menu_overflow_description">Altre opzioni</string>
     <string name="yellowpage_search_the_yellowpage">Cerca nella cartella</string>
+    <string name="storage_sd_card">Scheda SD</string>
+    <string name="storage_sd_card_description">Scheda SD</string>
+    <string name="storage_usb_description">Archivio USB</string>
+    <string name="storage_internal_description">Memoria interna</string>
     <string name="import_from_sim">Importa da SIM</string>
     <string name="export_to_sim_title">Esportazione…</string>
     <string name="import_from_sim2">Importa da SIM 2</string>
