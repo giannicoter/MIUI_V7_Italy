@@ -138,7 +138,7 @@
     <string name="dialog_title_load_cleanup_engine_error">Qualcosa è andato storto</string>
     <string name="dialog_msg_load_cleanup_engine_error">Il motore di pulizia è corrotto.</string>
     <string name="dialog_title_add_white_list_error">Attenzione</string>
-    <string name="dialog_msg_add_white_list_error">"Il fil enon supporta l'aggiunta di eccezioni"</string>
+    <string name="dialog_msg_add_white_list_error">"Il file non supporta l'aggiunta di eccezioni"</string>
     <string name="dialog_ok_add_white_list_error">Ho capito</string>
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
