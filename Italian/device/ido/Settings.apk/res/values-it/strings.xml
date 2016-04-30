@@ -2874,8 +2874,8 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="title_font2">Carattere</string>
     <string name="title_font_current2">Carattere di sistema</string>
     <string name="title_layout_current2">Dimensione carattere</string>
-    <string name="handy_mode">Uso cona mano</string>
-    <string name="handy_mode_enter_ask">Chiedi prima di entrare in modalità Uso cona mano</string>
+    <string name="handy_mode">Uso con una mano</string>
+    <string name="handy_mode_enter_ask">Chiedi prima di entrare in modalità Uso con una mano</string>
     <string name="handy_mode_tips">Scorri dal tasto Home verso sinistra o verso destra per ridurre le dimensioni dello schermo e portarlo da un lato.</string>
     <string name="handy_mode_size">Dimensione schermo</string>
     <string name="key_settings_title">Tasti</string>
