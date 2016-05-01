@@ -280,13 +280,13 @@
     <string name="bluetooth_rename_device">Rinomina il dispositivo</string>
     <string name="bluetooth_rename_button">Rinomina</string>
     <string name="bluetooth_disconnect_title">Disconnettere?</string>
-    <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:<br><b>%1$s</b></string>
+    <string name="bluetooth_disconnect_all_profiles">Questa operazione terminerà la connessione con:&lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="bluetooth_empty_list_user_restricted">Non hai i permessi per modificare le impostazioni Bluetooth</string>
     <string name="bluetooth_is_visible_message">%1$s è visibile ai dispositivi nelle vicinanze quando il Bluetooth è attivo.</string>
     <string name="bluetooth_is_disconnect_question">Disconnettere da %1$s?</string>
     <string name="bluetooth_broadcasting">Trasmissione</string>
     <string name="bluetooth_disable_profile_title">Disattivare il profilo?</string>
-    <string name="bluetooth_disable_profile_message">Verrà disattivato:<br><b>%1$s</b><br><br>Da:<br><b>%2$s</b></string>
+    <string name="bluetooth_disable_profile_message">Verrà disattivato:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>From:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_unknown"/>
     <string name="bluetooth_device">Dispositivo Bluetooth senza nome</string>
     <string name="progress_scanning">Ricerca</string>
