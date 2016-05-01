@@ -540,8 +540,8 @@
     <string name="user_agreement4">Informativa sulla Privacy</string>
     <string name="user_agree">Accetto</string>
     <string name="do_not_remind_me">"Non mostrare più"</string>
-    <string name="user_notice_identify_summary_format">Utilizzado questo servizio, acetti %1$s e %2$s di Xiaomi.</string>
-    <string name="user_notice_title">Attention</string>
+    <string name="user_notice_identify_summary_format">Utilizzando questo servizio, acetti %1$s e %2$s di Xiaomi.</string>
+    <string name="user_notice_title">Attenzione</string>
     <string name="secret_album_display_name">Album privato</string>
     <string name="add_to_secret_successful">"Aggiunto all'album nascosto"</string>
     <string name="add_to_secret_fail">"Inserimento nell'album nascosto fallito"</string>

@@ -16,7 +16,7 @@
         <item>2 minuti</item>
         <item>5 minuti</item>
         <item>10 minuti</item>
-        <item>30 minuti</item>
+        <item>Mai</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Mai</item>
@@ -93,12 +93,6 @@
         <item>Bloccato</item>
         <item>Al momento vengono evitate connessioni deboli</item>
     </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pulsante di comando</item>
         <item>PIN del dispositivo peer</item>
@@ -143,12 +137,6 @@
         <item>Conteggio avvii</item>
         <item>Nome applicazione</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Nessuno</item>
         <item>MSCHAPV2</item>
@@ -168,11 +156,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Nessuno</item>
         <item>Manuale</item>
-    </string-array>
-    <string-array name="emergency_tone_entries">
-        <item>Disattivo</item>
-        <item>Avviso</item>
-        <item>Vibrazione</item>
+        <item>Proxy Auto Config.</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Nessuno</item>
@@ -180,18 +164,13 @@
         <item>CHAP</item>
         <item>PAP o CHAP</item>
     </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
         <item>Non specificato</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>None</item>
+        <item>Nessuno</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
@@ -200,6 +179,14 @@
         <item>Memorizzazione su dispositivo interno</item>
         <item>Scheda SD rimovibile</item>
         <item>Impostazione di sistema</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Posizione</item>
+        <item>Personali</item>
+        <item>Messaggi</item>
+        <item>Contenuti multimediali</item>
+        <item>Dispositivo</item>
+        <item>Avvio</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
@@ -245,6 +232,23 @@
         <item>mantieni attivo</item>
         <item>monitora posizione</item>
         <item>monitora localizzazione a consumo elevato</item>
+        <item>ottieni statistiche uso</item>
+        <item>muto/non muto microfono</item>
+        <item>finestra toast</item>
+        <item>media project</item>
+        <item>attiva VPN</item>
+        <item>cambia wlan</item>
+        <item>cambia bluetooth</item>
+        <item>invia MMS</item>
+        <item>leggi MMS</item>
+        <item>scrivi MMS</item>
+        <item>auto avvio</item>
+        <item>cambia nfc</item>
+        <item>elimina SMS</item>
+        <item>elimina MMS</item>
+        <item>elimina contatti</item>
+        <item>elimina registro chiamate</item>
+        <item>cambia dati</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Posizione</item>
@@ -290,6 +294,23 @@
         <item>Mantieni attivo</item>
         <item>Posizione</item>
         <item>Geolocalizzazione</item>
+        <item>Ottieni statistiche uso</item>
+        <item>Muto/non muto microfono</item>
+        <item>Finestra toast</item>
+        <item>Media project</item>
+        <item>Attiva VPN</item>
+        <item>Cambia wlan</item>
+        <item>Cambia bluetooth</item>
+        <item>Invia MMS</item>
+        <item>Leggi MMS</item>
+        <item>Scrivi MMS</item>
+        <item>Auto avvio</item>
+        <item>Cambia nfc</item>
+        <item>Elimina SMS</item>
+        <item>Elimina MMS</item>
+        <item>Elimina contatti</item>
+        <item>Elimina registro chiamate</item>
+        <item>Cambia dati</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Breve</item>
@@ -315,28 +336,12 @@
         <item>Contorno</item>
         <item>Ombreggiatura</item>
     </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Bianco su nero</item>
         <item>Nero su bianco</item>
         <item>Giallo su nero</item>
         <item>Giallo su blu</item>
         <item>Personalizzato</item>
-    </string-array>
-    <string-array name="select_runtime_titles">
-        <item>Dalvik</item>
-        <item>ART</item>
-        <item>ART (debug)</item>
-    </string-array>
-    <string-array name="select_runtime_summaries">
-        <item>Usa Dalvik</item>
-        <item>Usa ART</item>
-        <item>Usa la build di debug ART</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Non verificare mai</item>
@@ -377,13 +382,13 @@
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
-        <item>720 x 480 mdpi</item>
-        <item>720 x 480 mdpi (opzione sicura)</item>
-        <item>1280 x 720 tvdpi</item>
-        <item>1280 x 720 tvdpi (opzione sicura)</item>
-        <item>1920 x 1080 xhdpi</item>
-        <item>1920 x 1080 xhdpi (opzione sicura)</item>
-        <item>1280 x 720 tvdpi, 1920 x 1080 xhdpi</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (sicuro)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (sicuro)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (sicuro)</item>
+        <item>1280x720 tvdpi e 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nessuna</item>
@@ -435,7 +440,7 @@
     <string-array name="user_content_ratings_entries">
         <item>Essere superiore</item>
         <item>Umano</item>
-        <item>Neanderthaliano</item>
+        <item>Neanderthal</item>
         <item>Scimpanzè</item>
         <item>Scimmia</item>
     </string-array>
@@ -449,13 +454,6 @@
         <item>medio</item>
         <item>basso</item>
         <item>critico</item>
-    </string-array>
-    <string-array name="app_ops_categories">
-        <item>Posizione</item>
-        <item>Personali</item>
-        <item>Messaggi</item>
-        <item>Contenuti multimediali</item>
-        <item>Dispositivo</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
@@ -487,6 +485,14 @@
         <item>8 secondi</item>
         <item>9 secondi</item>
     </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Blu</item>
+        <item>Rosso</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Viola</item>
+        <item>Porpora</item>
+    </string-array>
     <string-array name="led_color_entries">
         <item>Blu</item>
         <item>Rosso</item>
@@ -496,16 +502,15 @@
         <item>Bianco</item>
         <item>Viola</item>
     </string-array>
-    <string-array name="mi1_led_color_entries">
-        <item>Blu</item>
-        <item>Rosso</item>
-        <item>Verde</item>
-        <item>Rosa</item>
-        <item>Viola</item>
-        <item>Porpora</item>
+    <string-array name="wifi_security_only_wapi_cert_entries">
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI esadecimale</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Mostra task manager</item>
+        <item>Mostra applicazioni recenti</item>
         <item>Mostra menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
@@ -514,10 +519,10 @@
         <item>Lancia assistente vocale</item>
         <item>Lancia Google now</item>
         <item>Chiudi applicazione corrente</item>
-        <item>Mostra menu</item>
+        <item>Mostra i menù</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
-        <item>0.5 secondo</item>
+        <item>0.5 secondi</item>
         <item>1 secondo</item>
         <item>1.5 secondi</item>
         <item>2 secondi</item>
@@ -531,12 +536,12 @@
         <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Inizio sessione…</item>
+        <item>Inizio sessione...</item>
         <item>Sessione iniziata</item>
-        <item>Disattivazione…</item>
-        <item>Impossibile avviare sessione</item>
-        <item>Sessione scaduta. Riprovare…</item>
-        <item>DDispositivo collegato</item>
+        <item>Chiusura sessione...</item>
+        <item>Sessione fallita</item>
+        <item>Timeout creazione sessione, nuovo tentativo...</item>
+        <item>Dispositivo collegato</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Alte prestazioni</item>
@@ -548,6 +553,21 @@
         <item>Mac OS</item>
         <item>Linux</item>
     </string-array>
+    <string-array name="msd_pc_system_install_summary">
+        <item>2.Segui le istruzioni</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_linux">
+        <item>Installa lo strumento \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"</item>
+        <item>Crea la cartella \"mkdir\" /media/mtp</item>
+        <item>Conferma permessi gruppo</item>
+        <item>Accedi di nuovo</item>
+        <item>Accesso al dispositivo montato: mtpfs /media/mtp tramite File Explorer; stessa cartella locale</item>
+        <item>"Disinstalla dispositivo fusermount -u /media/mtp
+ Nota: solo per Ubuntu 8.04"</item>
+    </string-array>
     <string-array name="screen_color_title">
         <item>Caldo</item>
         <item>Naturale</item>
@@ -558,13 +578,13 @@
         <item>Normale</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Contrato automatico</item>
-        <item>Contrato aumentato</item>
+        <item>Contrasto automatico</item>
+        <item>Contrasto enfatizzato</item>
         <item>Normale</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Ottimizza il contrasto in base alla luce disponibile</item>
-        <item>Aumenta il contrasto del display</item>
+        <item>Ottimizza il contrasto in base alla luce ambientale</item>
+        <item>Aumenta il contrasto dello schermo</item>
         <item>Il contrasto rimarrà costante</item>
     </string-array>
     <string-array name="perm_hips_action">
@@ -581,11 +601,11 @@
         <item>Nativo</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Riduzione del rumore con microfono singolo</item>
-        <item>Riduzione del rumore con doppio microfono</item>
+        <item>Riduzione rumore a singolo microfono</item>
+        <item>Riduzione rumore a doppio microfono</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>Sblocco con sorriso</item>
+        <item>Sblocca col sorriso</item>
         <item>Sequenza</item>
         <item>PIN</item>
         <item>Password</item>
@@ -594,6 +614,13 @@
         <item>Connetti automaticamente</item>
         <item>Connetti manualmente</item>
         <item>Chiedi sempre</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 minuti</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+        <item>Illimitato</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -623,7 +650,7 @@
         <item>Molto veloce</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>Disattivo</item>
+        <item>Disattivato</item>
         <item>Basso</item>
         <item>Medio</item>
         <item>Alto</item>
@@ -632,13 +659,23 @@
         <item>Rete domestica</item>
         <item>Tutte le reti</item>
     </string-array>
-    <string-array name="install_non_market_app_entries">
-        <item>Chiedi il permesso per le applicazioni a rischio</item>
-        <item>Consenti</item>
+    <string-array name="agps_si_mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
     </string-array>
-	    <string-array name="install_non_market_app_contents">
-        <item>Chiedi il permesso</item>
-        <item>Consenti</item>
+    <string-array name="agps_apn_entries">
+        <item>CMWAP</item>
+        <item>CMNET</item>
+    </string-array>
+    <string-array name="agps_reset_type_entries">
+        <item>HOT</item>
+        <item>WARM</item>
+        <item>COLD</item>
+    </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4,5\"</item>
+        <item>4,0\"</item>
+        <item>3,5\"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Subito</item>
@@ -660,6 +697,114 @@
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
         <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
     </string-array>
+<string-array name="screen_resolution_entries">
+        <item>Nativa (2K)</item>
+        <item>Normale (720p)</item>
+    </string-array>
+    <string-array name="screen_resolution_values">
+        <item>1440</item>
+        <item>720</item>
+    </string-array>
+    <string-array name="organized_locales">
+        <item>dz</item>
+        <item>ao</item>
+        <item>ar</item>
+        <item>bh</item>
+        <item>be</item>
+        <item>bo</item>
+        <item>bw</item>
+        <item>br</item>
+        <item>cm</item>
+        <item>cl</item>
+        <item>co</item>
+        <item>cd</item>
+        <item>cr</item>
+        <item>ci</item>
+        <item>ec</item>
+        <item>eg</item>
+        <item>sv</item>
+        <item>gq</item>
+        <item>et</item>
+        <item>fk</item>
+        <item>fr</item>
+        <item>gf</item>
+        <item>gh</item>
+        <item>gt</item>
+        <item>gy</item>
+        <item>hn</item>
+        <item>hk</item>
+        <item>in</item>
+        <item>id</item>
+        <item>ir</item>
+        <item>iq</item>
+        <item>jo</item>
+        <item>ke</item>
+        <item>kw</item>
+        <item>lb</item>
+        <item>ls</item>
+        <item>ly</item>
+        <item>lt</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mx</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>ni</item>
+        <item>ng</item>
+        <item>om</item>
+        <item>pa</item>
+        <item>py</item>
+        <item>pe</item>
+        <item>ph</item>
+        <item>qa</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sa</item>
+        <item>sn</item>
+        <item>sg</item>
+        <item>za</item>
+        <item>gs</item>
+        <item>kr</item>
+        <item>sr</item>
+        <item>sz</item>
+        <item>ch</item>
+        <item>sy</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tn</item>
+        <item>tr</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>uy</item>
+        <item>ve</item>
+        <item>vn</item>
+        <item>ye</item>
+        <item>zm</item>
+        <item>zw</item>
+    </string-array>
+    <string-array name="common_password_business_keys">
+        <item>keyguard</item>
+        <item>childrenmode</item>
+    </string-array>
+    <string-array name="common_password_business_names">
+        <item>Blocco tastiera</item>
+        <item>Modalità genitore</item>
+		<item>File explorer</item>
+    </string-array>
+    <integer-array name="alarm_repeat_type_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
     <string-array name="alarm_repeat_type">
         <item>Tutti i giorni</item>
         <item>Lun-Ven</item>

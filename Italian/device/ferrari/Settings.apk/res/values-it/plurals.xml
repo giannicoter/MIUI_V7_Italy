@@ -13,8 +13,8 @@
         <item quantity="one">Ti manca %1$d tocco per diventare uno sviluppatore</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">La password deve contenere almeno %d lettere</item>
-        <item quantity="one">La password deve contenere almeno una lettera</item>
+        <item quantity="other">La password deve contenere almeno %d lettere.</item>
+        <item quantity="one">La password deve contenere almeno una lettera.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">La password deve contenere almeno %d lettere minuscole</item>

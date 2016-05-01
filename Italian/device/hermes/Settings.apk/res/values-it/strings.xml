@@ -154,8 +154,8 @@
     <string name="radioInfo_display_asu">asu</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_cid">Sistema di identificazione contenuti</string>
-    <string name="sdcard_unmount">Smonta archivio USB</string>
-    <string name="sdcard_format">Formatta archivio USB</string>
+    <string name="sdcard_unmount">Smonta scheda SD</string>
+    <string name="sdcard_format">Formatta scheda SD</string>
     <string name="small_font">Piccolo</string>
     <string name="medium_font">Medio</string>
     <string name="large_font">Grande</string>
@@ -419,7 +419,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="owner_info_settings_title">Info proprietario</string>
     <string name="security_enable_widgets_title">Abilita widget</string>
     <string name="security_enable_widgets_disabled_summary">"Disattivati dall'amministratore"</string>
-    <string name="owner_info_settings_summary"/>
+    <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">Digita testo da visualizzare sulla Schermata di blocco</string>
     <string name="show_user_info_on_lockscreen_label">Mostra info utente sulla Schermata di blocco</string>
     <string name="user_info_settings_title">Dati utente</string>
@@ -754,8 +754,6 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="wifi_not_in_range">Fuori portata</string>
     <string name="wifi_wps_available_first_item">WPS disponibile</string>
     <string name="wifi_wps_available_second_item">" (WPS disponibile)"</string>
-	<string name="wifi_secured_first_item">Protetta con %1$s</string>
-    <string name="wifi_secured_second_item">, protetta con %1$s</string>
     <string name="wifi_wps_nfc_enter_password">Inserisci la tua password di rete</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
@@ -873,7 +871,6 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="home_settings">Pagina Home</string>
     <string name="display_settings_title">Schermo</string>
     <string name="sound_settings">Audio</string>
-    <string name="ringtone_title">Suoneria</string>
     <string name="ringtone_summary"/>
     <string name="all_volume_title">Volumi</string>
     <string name="musicfx_title">Effetti musicali</string>
@@ -1046,12 +1043,12 @@ Tentativi rimasti :"</string>
     <string name="memory_media_misc_usage">Vari</string>
     <string name="memory_media_cache_usage">Dati memorizzati nella cache</string>
     <string name="sd_eject">Disattiva archivio condiviso</string>
-    <string name="sd_eject_summary">Disattiva archivio USB interno</string>
-    <string name="sd_insert_summary">Inserisci archivio USB da montare</string>
-    <string name="sd_mount">Monta archivio USB</string>
+    <string name="sd_eject_summary">Disattiva scheda SD</string>
+    <string name="sd_insert_summary">Inserisci scheda SD</string>
+    <string name="sd_mount">Monta scheda SD</string>
     <string name="sd_mount_summary"/>
-    <string name="sd_format">Formatta archivio USB</string>
-    <string name="sd_format_summary">"Elimina i dati nell'archivio USB interno come musica e foto"</string>
+    <string name="sd_format">Formatta scheda SD</string>
+    <string name="sd_format_summary">Elimina i dati sulla scheda SD come musica e foto</string>
     <string name="storage_usb">Memoria USB</string>
     <string name="storage_uicc">Memoria UICC</string>
     <string name="usb_eject">Smonta memoria USB</string>
@@ -2572,6 +2569,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="zen_mode_option_off">Interrompi sempre</string>
     <string name="zen_mode_option_important_interruptions">Consenti solo le interruzioni di priorità</string>
     <string name="zen_mode_option_no_interruptions">Non interrompere</string>
+    <string name="ringtone_title">Suoneria</string>
     <string name="notification_ringtone_title">Suoneria notifiche predefinita</string>
     <string name="vibrate_when_ringing_title">Vibra quando squilla</string>
     <string name="notification_section_header">Notifiche</string>
