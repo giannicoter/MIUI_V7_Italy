@@ -4214,7 +4214,7 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="security_encryption_attention_4">"Make sure you remember your lock screen password, otherwise you'll have to complete a full reset and erase all data on the device."</string>
     <string name="security_encryption_close_dialog_title">Go back to default password protection</string>
     <string name="security_encryption_close_dialog_info">Choosing not to encrypt device using lock screen password may make some Google services unavailable.</string>
-    <string name="security_encryption_diaglog_continue">Next</string>
+    <string name="security_encryption_diaglog_continue">Avanti</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Click to change</string>
     <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
     <string name="fingerprint_for_keyguard_disabled">Fingerprint has been disabled by security settings.</string>
