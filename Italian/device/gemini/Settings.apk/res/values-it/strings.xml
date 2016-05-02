@@ -520,7 +520,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="fingerprint_add_max">You can add up to %d fingerprints</string>
     <string name="fingerprint_last_delete_title">Remove all fingerprints?</string>
     <string name="fingerprint_last_delete_message">"You won't be able to use your fingerprints to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-    <string name="fingerprint_last_delete_confirm">SI, rimuovi</string>
+    <string name="fingerprint_last_delete_confirm">Si, rimuovi</string>
     <string name="confirm_fingerprint_icon_content_description">Use your fingerprint to continue.</string>
     <string name="crypt_keeper_settings_title">Crittografia</string>
     <string name="crypt_keeper_encrypt_title">Esegui crittografia dispositivo</string>
@@ -592,7 +592,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Device protection features will not work without your screen lock.
 
 Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-    <string name="unlock_disable_frp_warning_ok">SI, rimuovi</string>
+    <string name="unlock_disable_frp_warning_ok">Si, rimuovi</string>
     <string name="unlock_change_lock_pattern_title">Cambia sequenza di sblocco</string>
     <string name="unlock_change_lock_pin_title">Cambia PIN di sblocco</string>
     <string name="unlock_change_lock_password_title">Cambia password di sblocco</string>
@@ -1176,7 +1176,7 @@ You can reinstall the apps later, but their data stored on this device will be l
     <string name="storage_detail_images">Immagini</string>
     <string name="storage_detail_videos">Video</string>
     <string name="storage_detail_audio">Audio</string>
-    <string name="storage_detail_cached">Cached data</string>
+    <string name="storage_detail_cached">Dati cache</string>
     <string name="storage_detail_other">Altro</string>
     <string name="storage_detail_explore">Esplora ^1</string>
     <string name="storage_detail_dialog_other">"Other includes shared files saved by apps, files downloaded from the Internet or Bluetooth, Android files, and so on. 
