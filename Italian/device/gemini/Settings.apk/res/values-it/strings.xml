@@ -488,7 +488,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="security_settings_fingerprint_enroll_onboard_message">To use your fingerprint to unlock your screen or confirm purchases, you’ll need to:</string>
     <string name="security_settings_fingerprint_enroll_onboard_message_1">Set up your backup screen lock method</string>
     <string name="security_settings_fingerprint_enroll_onboard_message_2">Aggiungi impronta</string>
-    <string name="security_settings_fingerprint_enroll_introduction_title">Sblocca con l'impronta</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">"Sblocca con l'impronta"</string>
     <string name="security_settings_fingerprint_enroll_introduction_message">Just touch the fingerprint sensor to unlock your phone, authorize purchases, or sign in to apps. Be careful whose fingerprints you add - any fingerprints added will be able to do these things.</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_warning">Note: Your fingerprint may be less secure than a strong pattern or PIN.</string>
     <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Learn more</string>
