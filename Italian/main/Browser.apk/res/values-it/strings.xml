@@ -786,5 +786,5 @@ finestra riservata​"</string>
     <string name="comment_app_menu">commenti</string>
     <string name="send_comment_button">invia</string>
     <string name="reply_comment_title">risposta: %s</string>
-    <string name="send_comment_title">test</string>
+    <string name="send_comment_title">commenti</string>
 </resources>
