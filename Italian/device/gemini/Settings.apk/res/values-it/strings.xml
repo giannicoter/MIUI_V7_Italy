@@ -499,7 +499,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Illustration with device and fingerprint sensor location</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Nome</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
-    <string name="security_settings_fingerprint_enroll_dialog_delete">Delete</string>
+    <string name="security_settings_fingerprint_enroll_dialog_delete">Elimina</string>
     <string name="security_settings_fingerprint_enroll_start_title">Let’s start!</string>
     <string name="security_settings_fingerprint_enroll_start_message">Put your finger on the sensor and lift after you feel a vibration</string>
     <string name="security_settings_fingerprint_enroll_repeat_title">Great! Now repeat</string>
