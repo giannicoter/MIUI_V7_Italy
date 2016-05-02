@@ -411,8 +411,8 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
     <string name="cancel">Annulla</string>
     <string name="okay">OK</string>
     <string name="forget">DIMENTICA</string>
-    <string name="save">Save</string>
-    <string name="done">Done</string>
+    <string name="save">Salva</string>
+    <string name="done">Fatto</string>
     <string name="settings_label">Impostazioni</string>
     <string name="settings_label_launcher">Impostazioni</string>
     <string name="settings_shortcut">Scorciatoia Impostazioni</string>
@@ -487,8 +487,8 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="security_settings_fingerprint_enroll_onboard_title">Imposta impronta</string>
     <string name="security_settings_fingerprint_enroll_onboard_message">To use your fingerprint to unlock your screen or confirm purchases, you’ll need to:</string>
     <string name="security_settings_fingerprint_enroll_onboard_message_1">Set up your backup screen lock method</string>
-    <string name="security_settings_fingerprint_enroll_onboard_message_2">Add your fingerprint</string>
-    <string name="security_settings_fingerprint_enroll_introduction_title">Unlock with fingerprint</string>
+    <string name="security_settings_fingerprint_enroll_onboard_message_2">Aggiungi impronta</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Sblocca con l'impronta</string>
     <string name="security_settings_fingerprint_enroll_introduction_message">Just touch the fingerprint sensor to unlock your phone, authorize purchases, or sign in to apps. Be careful whose fingerprints you add - any fingerprints added will be able to do these things.</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_warning">Note: Your fingerprint may be less secure than a strong pattern or PIN.</string>
     <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Learn more</string>
@@ -500,27 +500,27 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Nome</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
     <string name="security_settings_fingerprint_enroll_dialog_delete">Elimina</string>
-    <string name="security_settings_fingerprint_enroll_start_title">Let’s start!</string>
+    <string name="security_settings_fingerprint_enroll_start_title">Iniziamo!</string>
     <string name="security_settings_fingerprint_enroll_start_message">Put your finger on the sensor and lift after you feel a vibration</string>
     <string name="security_settings_fingerprint_enroll_repeat_title">Great! Now repeat</string>
     <string name="security_settings_fingerprint_enroll_repeat_message">Move your finger slightly to add all the different parts of your fingerprint</string>
-    <string name="security_settings_fingerprint_enroll_finish_title">Fingerprint added!</string>
+    <string name="security_settings_fingerprint_enroll_finish_title">Aggiungi impronta!</string>
     <string name="security_settings_fingerprint_enroll_finish_message">Whenever you see this icon, you can use your fingerprint for identification or to authorize a purchase.</string>
     <string name="setup_fingerprint_enroll_finish_message">Just touch the fingerprint sensor to wake and unlock your device.</string>
     <string name="setup_fingerprint_enroll_finish_message_secondary">When you see this icon, you can use your fingerprint.</string>
-    <string name="security_settings_fingerprint_enroll_setup_screen_lock">Set up screen lock</string>
-    <string name="security_settings_fingerprint_enroll_done">Done</string>
+    <string name="security_settings_fingerprint_enroll_setup_screen_lock">Imposta blocco schermo</string>
+    <string name="security_settings_fingerprint_enroll_done">Fatto</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_title">Whoops, that’s not the sensor</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Use the fingerprint sensor on your device.</string>
-    <string name="fingerprint_enroll_button_add">Add another</string>
-    <string name="fingerprint_enroll_button_next">Next</string>
+    <string name="fingerprint_enroll_button_add">Aggiungi</string>
+    <string name="fingerprint_enroll_button_next">Avanti</string>
     <string name="security_settings_fingerprint_enroll_disclaimer">In addition to unlocking your phone, you can also use your fingerprint to authorize purchases and app access. <annotation id="url">Learn more</annotation></string>
     <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Screen lock option disabled. You can still use your fingerprint to authorize purchases and app access. <annotation id="url">Learn more</annotation></string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Lift finger, then touch sensor again</string>
     <string name="fingerprint_add_max">You can add up to %d fingerprints</string>
     <string name="fingerprint_last_delete_title">Remove all fingerprints?</string>
     <string name="fingerprint_last_delete_message">"You won't be able to use your fingerprints to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-    <string name="fingerprint_last_delete_confirm">Yes, remove</string>
+    <string name="fingerprint_last_delete_confirm">SI, rimuovi</string>
     <string name="confirm_fingerprint_icon_content_description">Use your fingerprint to continue.</string>
     <string name="crypt_keeper_settings_title">Crittografia</string>
     <string name="crypt_keeper_encrypt_title">Esegui crittografia dispositivo</string>
@@ -575,7 +575,7 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="unlock_set_unlock_mode_password">Password</string>
     <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings > Security.</string>
     <string name="unlock_disable_lock_title">Disattiva blocco schermo</string>
-    <string name="unlock_disable_frp_warning_title">Remove device protection?</string>
+    <string name="unlock_disable_frp_warning_title">Rimuovere la protezione dispositivo?</string>
     <string name="unlock_disable_frp_warning_content_pattern">Device protection features will not work without your pattern.</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Device protection features will not work without your pattern.
 
@@ -592,7 +592,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Device protection features will not work without your screen lock.
 
 Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-    <string name="unlock_disable_frp_warning_ok">Yes, remove</string>
+    <string name="unlock_disable_frp_warning_ok">SI, rimuovi</string>
     <string name="unlock_change_lock_pattern_title">Cambia sequenza di sblocco</string>
     <string name="unlock_change_lock_pin_title">Cambia PIN di sblocco</string>
     <string name="unlock_change_lock_password_title">Cambia password di sblocco</string>
@@ -859,7 +859,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_network_prefix_length">Lunghezza prefisso</string>
     <string name="wifi_network_prefix_length_hint">24</string>
-    <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
+    <string name="wifi_p2p_settings_title">Wi-Fi Diretto</string>
     <string name="wifi_p2p_device_info">Informazioni dispositivo</string>
     <string name="wifi_p2p_persist_network">Memorizza questa connessione</string>
     <string name="wifi_p2p_menu_search">Cerca dispositivi</string>
@@ -980,11 +980,11 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="brightness_summary">Regola la luminosità dello schermo</string>
     <string name="auto_brightness_title">Luminosità adattiva</string>
     <string name="auto_brightness_summary">Ottimizza il livello di luminosità secondo la luce disponibile</string>
-    <string name="night_mode_title">Theme</string>
+    <string name="night_mode_title">Tema</string>
     <string name="night_mode_summary">%s</string>
     <string name="night_mode_no">Light</string>
-    <string name="night_mode_yes">Dark</string>
-    <string name="night_mode_auto">Automatic</string>
+    <string name="night_mode_yes">Nero</string>
+    <string name="night_mode_auto">Automatico</string>
     <string name="screen_timeout">Sospensione</string>
     <string name="screen_timeout_title">Disattivazione schermo</string>
     <string name="screen_timeout_summary">Dopo %1$s di inattività</string>
@@ -1110,16 +1110,16 @@ Il PIN potrebbe essere errato."</string>
     <string name="sd_ejecting_summary">Disattivazione in corso</string>
     <string name="storage_low_title">Spazio archiviazione in esaurim.</string>
     <string name="storage_low_summary">Alcune funzioni di sistema, come la sincronizzazione, potrebbero non funzionare correttamente. Prova a liberare spazio eliminando o sbloccando elementi, come applicazioni o contenuti multimediali.</string>
-    <string name="storage_menu_rename">Rename</string>
-    <string name="storage_menu_mount">Mount</string>
+    <string name="storage_menu_rename">Rinomina</string>
+    <string name="storage_menu_mount">Monta</string>
     <string name="storage_menu_unmount">Eject</string>
     <string name="storage_menu_format">Format</string>
     <string name="storage_menu_format_public">Format as portable</string>
     <string name="storage_menu_format_private">Format as internal</string>
     <string name="storage_menu_migrate">Migrate data</string>
     <string name="storage_menu_forget">Forget</string>
-    <string name="storage_menu_set_up">Set up</string>
-    <string name="storage_menu_explore">Explore</string>
+    <string name="storage_menu_set_up">Imposta</string>
+    <string name="storage_menu_explore">Esplora</string>
     <string name="storage_title_usb">Connessione computer USB</string>
     <string name="usb_connection_category">Connetti come</string>
     <string name="usb_mtp_title">Dispositivo multimediale (MTP)</string>
@@ -1173,12 +1173,12 @@ You can reinstall the apps later, but their data stored on this device will be l
     <string name="storage_internal_forget_confirm_title">Forget ^1?</string>
     <string name="storage_internal_forget_confirm">All the apps, photos, and data stored on this ^1 will be lost forever.</string>
     <string name="storage_detail_apps">Apps</string>
-    <string name="storage_detail_images">Images</string>
-    <string name="storage_detail_videos">Videos</string>
+    <string name="storage_detail_images">Immagini</string>
+    <string name="storage_detail_videos">Video</string>
     <string name="storage_detail_audio">Audio</string>
     <string name="storage_detail_cached">Cached data</string>
-    <string name="storage_detail_other">Other</string>
-    <string name="storage_detail_explore">Explore ^1</string>
+    <string name="storage_detail_other">Altro</string>
+    <string name="storage_detail_explore">Esplora ^1</string>
     <string name="storage_detail_dialog_other">"Other includes shared files saved by apps, files downloaded from the Internet or Bluetooth, Android files, and so on. 
 
 To see the entire contents of this ^1, touch Explore."</string>
