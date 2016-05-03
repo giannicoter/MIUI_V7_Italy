@@ -521,7 +521,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="fingerprint_last_delete_title">Remove all fingerprints?</string>
     <string name="fingerprint_last_delete_message">"You won't be able to use your fingerprints to unlock your phone, authorize purchases, or sign in to apps with them."</string>
     <string name="fingerprint_last_delete_confirm">Si, rimuovi</string>
-    <string name="confirm_fingerprint_icon_content_description">Use your fingerprint to continue.</string>
+    <string name="confirm_fingerprint_icon_content_description">Usa la tua impronta per continuare.</string>
     <string name="crypt_keeper_settings_title">Crittografia</string>
     <string name="crypt_keeper_encrypt_title">Esegui crittografia dispositivo</string>
     <string name="crypt_keeper_encrypted_summary">Crittografato</string>
