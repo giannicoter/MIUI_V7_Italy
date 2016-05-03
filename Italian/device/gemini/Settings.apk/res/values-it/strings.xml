@@ -514,12 +514,12 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Usa il sensore del tuo dispositivo.</string>
     <string name="fingerprint_enroll_button_add">Aggiungi</string>
     <string name="fingerprint_enroll_button_next">Avanti</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer">In addition to unlocking your phone, you can also use your fingerprint to authorize purchases and app access. <annotation id="url">Learn more</annotation></string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Screen lock option disabled. You can still use your fingerprint to authorize purchases and app access. <annotation id="url">Learn more</annotation></string>
-    <string name="security_settings_fingerprint_enroll_lift_touch_again">Lift finger, then touch sensor again</string>
-    <string name="fingerprint_add_max">You can add up to %d fingerprints</string>
-    <string name="fingerprint_last_delete_title">Remove all fingerprints?</string>
-    <string name="fingerprint_last_delete_message">"You won't be able to use your fingerprints to unlock your phone, authorize purchases, or sign in to apps with them."</string>
+    <string name="security_settings_fingerprint_enroll_disclaimer">"Oltre a sbloccare il telefono, è anche possibile utilizzare le impronte digitali per autorizzare gli acquisti e l'accesso app."<annotation id="url">Per saperne di più</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Opzione blocco schermo disattivata. Puoi comunque utilizzare le impronte digitali per autorizzare gli acquisti e l'accesso app."<annotation id="url">Per saperne di più</annotation></string>
+    <string name="security_settings_fingerprint_enroll_lift_touch_again">Solleva il dito, tocca di nuovo il sensore</string>
+    <string name="fingerprint_add_max">Tu puoi aggiungere fino a %d impronte</string>
+    <string name="fingerprint_last_delete_title">Rimuovi tutte le impronte?</string>
+    <string name="fingerprint_last_delete_message">"Non sarai in grado di utilizzare le impronte digitali per sbloccare il telefono, autorizzare gli acquisti o l'accesso alle app."</string>
     <string name="fingerprint_last_delete_confirm">Si, rimuovi</string>
     <string name="confirm_fingerprint_icon_content_description">Usa la tua impronta per continuare.</string>
     <string name="crypt_keeper_settings_title">Crittografia</string>
