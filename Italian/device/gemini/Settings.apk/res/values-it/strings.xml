@@ -1287,13 +1287,13 @@ Consider using a faster ^1 for better performance."</string>
 "<li>Wi‑Fi</li>"
 "<li>Cellular data</li>"
 "<li>Bluetooth</li></string>
-    <string name="reset_network_button_text">Reset settings</string>
+    <string name="reset_network_button_text">Ripristino impostazioni</string>
     <string name="reset_network_final_desc">Reset all network settings? You can’t undo this action!</string>
-    <string name="reset_network_final_button_text">Reset settings</string>
-    <string name="reset_network_confirm_title">Reset?</string>
+    <string name="reset_network_final_button_text">Ripristino impostazioni</string>
+    <string name="reset_network_confirm_title">Ripristino?</string>
     <string name="network_reset_not_available">Network reset is not available for this user</string>
     <string name="reset_network_complete_toast">Network settings have been reset</string>
-    <string name="device_reset_title">Reset dispositivo</string>
+    <string name="device_reset_title">Ripristino dispositivo</string>
     <string name="master_clear_title">Ripristino dati di fabbrica</string>
     <string name="master_clear_desc">"Questa operazione rimuoverà tutti i dati memorizzati nell'"<b>archivio interno</b>" del dispositivo, compresi:
 
@@ -1431,10 +1431,10 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="lockpassword_pin_set_toast">PIN impostato</string>
     <string name="lockpassword_pattern_set_toast">Sequenza impostata</string>
     <string name="lockpassword_confirm_your_pattern_generic">Use your device pattern to continue.</string>
-    <string name="lockpassword_confirm_your_pin_generic">Enter your device PIN to continue.</string>
-    <string name="lockpassword_confirm_your_password_generic">Enter your device password to continue.</string>
-    <string name="lockpassword_invalid_pin">Wrong PIN</string>
-    <string name="lockpassword_invalid_password">Wrong password</string>
+    <string name="lockpassword_confirm_your_pin_generic">Digitare il PIN per continuare.</string>
+    <string name="lockpassword_confirm_your_password_generic">Digitare la password per continuare.</string>
+    <string name="lockpassword_invalid_pin">PIN errato</string>
+    <string name="lockpassword_invalid_password">Password errata</string>
     <string name="lockpattern_need_to_unlock_wrong">Riprova:</string>
     <string name="lock_settings_title">Sicurezza schermo</string>
     <string name="lockpattern_change_lock_pattern_label">Cambia sequenza sblocco</string>
@@ -1576,7 +1576,7 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="app_install_location_title">Percorso di installazione</string>
     <string name="app_install_location_summary">"Cambia il percorso preferito per l'installazione di nuove applicazioni"</string>
     <string name="app_disable_dlg_title">Disattivare app integrata?</string>
-    <string name="app_disable_dlg_positive">Disable app</string>
+    <string name="app_disable_dlg_positive">Disattiva app</string>
     <string name="app_disable_dlg_text">"Se disattivi un'applicazione integrata, le altre applicazioni potrebbero funzionare in modo anomalo."</string>
     <string name="app_special_disable_dlg_title">"Eliminare i dati e disattivare l'applicazione?"</string>
     <string name="app_special_disable_dlg_text">"Se disattivi un'applicazione incorporata, altre applicazioni potrebbero funzionare in modo anomalo. Verranno inoltre eliminati i tuoi dati."</string>
@@ -1831,8 +1831,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="captioning_preview_text">I sottotitoli verranno visualizzati come segue:</string>
     <string name="captioning_preview_characters">Aa</string>
     <string name="locale_default">Predefinita</string>
-    <string name="color_title">Color</string>
-    <string name="color_unspecified">Default</string>
+    <string name="color_title">Colore</string>
+    <string name="color_unspecified">Predefinito</string>
     <string name="color_none">Nessuno</string>
     <string name="color_white">Bianco</string>
     <string name="color_gray">Grigio</string>
@@ -1907,7 +1907,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_stats_screen_on_label">Schermo acceso</string>
     <string name="battery_stats_gps_on_label">GPS attivato</string>
     <string name="battery_stats_camera_on_label">Camera on</string>
-    <string name="battery_stats_flashlight_on_label">Flashlight on</string>
+    <string name="battery_stats_flashlight_on_label">Torcia on</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Attivato</string>
     <string name="battery_stats_phone_signal_label">Segnale rete cellulare</string>
@@ -1943,7 +1943,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="usage_type_audio">Audio</string>
     <string name="usage_type_video">Video</string>
     <string name="usage_type_camera">Camera</string>
-    <string name="usage_type_flashlight">Flashlight</string>
+    <string name="usage_type_flashlight">Torcia</string>
     <string name="usage_type_on_time">Tempo in attività</string>
     <string name="usage_type_no_coverage">Tempo trascorso senza segnale</string>
     <string name="usage_type_total_battery_capacity">Capacità totale batteria</string>
@@ -1997,14 +1997,14 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="process_stats_type_foreground">In primo piano</string>
     <string name="process_stats_type_cached">Memorizzati nella cache</string>
     <string name="process_stats_os_label">Android OS</string>
-    <string name="process_stats_os_native">Native</string>
+    <string name="process_stats_os_native">Nativo</string>
     <string name="process_stats_os_kernel">Kernel</string>
     <string name="process_stats_os_zram">Z-Ram</string>
     <string name="process_stats_os_cache">Caches</string>
     <string name="process_stats_ram_use">RAM use</string>
     <string name="process_stats_bg_ram_use">RAM use (background)</string>
     <string name="process_stats_run_time">Run-time</string>
-    <string name="processes_subtitle">Processes</string>
+    <string name="processes_subtitle">Processi</string>
     <string name="services_subtitle">Servizi</string>
     <string name="menu_proc_stats_duration">Durata</string>
     <string name="mem_details_title">Dettagli memoria</string>
@@ -2021,8 +2021,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="menu_duration_12h">12 ore</string>
     <string name="menu_duration_1d">1 giorno</string>
     <string name="menu_show_system">Mostra sistema</string>
-    <string name="menu_hide_system">Hide system</string>
-    <string name="menu_show_percentage">Show percentages</string>
+    <string name="menu_hide_system">Nascondi sistema</string>
+    <string name="menu_show_percentage">Mostra percentuali</string>
     <string name="menu_use_uss">Utilizza Uss</string>
     <string name="menu_proc_stats_type">Tipo di statistiche</string>
     <string name="menu_proc_stats_type_background">In background</string>
@@ -2262,9 +2262,9 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="enter_pin">Inizia ad usare Android, inserisci il tuo PIN</string>
     <string name="enter_pattern">Inizia ad usare Android, esegui la sequenza di sblocco</string>
     <string name="cryptkeeper_wrong_pattern">Wrong Pattern</string>
-    <string name="cryptkeeper_wrong_password">Wrong Password</string>
-    <string name="cryptkeeper_wrong_pin">Wrong PIN</string>
-    <string name="checking_decryption">Checking…</string>
+    <string name="cryptkeeper_wrong_password">Password errata</string>
+    <string name="cryptkeeper_wrong_pin">PIN errato</string>
+    <string name="checking_decryption">Verifica…</string>
     <string name="starting_android">Starting Android</string>
     <string name="delete">Elimina</string>
     <string name="misc_files">File vari</string>
@@ -2444,15 +2444,15 @@ Dato che l'utilizzo dei dati è misurato dal tuo dispositivo e che il tuo operat
     <string name="vpn_no_ca_cert">(non eseguire verifica server)</string>
     <string name="vpn_no_server_cert">(ricevuto dal server)</string>
     <string name="vpn_cancel">Annulla</string>
-    <string name="vpn_done">Dismiss</string>
+    <string name="vpn_done">Respingi</string>
     <string name="vpn_save">Salva</string>
     <string name="vpn_connect">Connetti</string>
     <string name="vpn_edit">Modifica profilo VPN</string>
-    <string name="vpn_forget">Forget</string>
+    <string name="vpn_forget">Dimentica</string>
     <string name="vpn_connect_to">Connessione a %s</string>
-    <string name="vpn_disconnect_confirm">Disconnect this VPN.</string>
-    <string name="vpn_disconnect">Disconnect</string>
-    <string name="vpn_version">Version %s</string>
+    <string name="vpn_disconnect_confirm">Disconnetti VPN.</string>
+    <string name="vpn_disconnect">Disconnetti</string>
+    <string name="vpn_version">Versione %s</string>
     <string name="vpn_title">VPN</string>
     <string name="vpn_create">Aggiungi profilo VPN</string>
     <string name="vpn_menu_edit">Modifica profilo</string>
@@ -2568,10 +2568,10 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="nfc_payment_how_it_works">How it works</string>
     <string name="nfc_payment_no_apps">Paga con un tocco</string>
     <string name="nfc_payment_default">Payment default</string>
-    <string name="nfc_payment_default_not_set">Not set</string>
+    <string name="nfc_payment_default_not_set">Non impostato</string>
     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_use_default">Use default</string>
-    <string name="nfc_payment_favor_default">Always</string>
+    <string name="nfc_payment_favor_default">Sempre</string>
     <string name="nfc_payment_favor_open">Except when another payment app is open</string>
     <string name="nfc_payment_pay_with">At a Tap &amp; pay terminal, pay with:</string>
     <string name="nfc_how_it_works_title">Paying at the terminal</string>
