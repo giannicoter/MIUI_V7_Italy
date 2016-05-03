@@ -1430,9 +1430,9 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="lockpassword_password_set_toast">Password impostata</string>
     <string name="lockpassword_pin_set_toast">PIN impostato</string>
     <string name="lockpassword_pattern_set_toast">Sequenza impostata</string>
-    <string name="lockpassword_confirm_your_pattern_generic">Use your device pattern to continue.</string>
-    <string name="lockpassword_confirm_your_pin_generic">Digitare il PIN per continuare.</string>
-    <string name="lockpassword_confirm_your_password_generic">Digitare la password per continuare.</string>
+    <string name="lockpassword_confirm_your_pattern_generic">Usa la tua sequenza per continuare.</string>
+    <string name="lockpassword_confirm_your_pin_generic">Digita il PIN per continuare.</string>
+    <string name="lockpassword_confirm_your_password_generic">Digita la password per continuare.</string>
     <string name="lockpassword_invalid_pin">PIN errato</string>
     <string name="lockpassword_invalid_password">Password errata</string>
     <string name="lockpattern_need_to_unlock_wrong">Riprova:</string>
@@ -2450,7 +2450,7 @@ Dato che l'utilizzo dei dati è misurato dal tuo dispositivo e che il tuo operat
     <string name="vpn_edit">Modifica profilo VPN</string>
     <string name="vpn_forget">Dimentica</string>
     <string name="vpn_connect_to">Connessione a %s</string>
-    <string name="vpn_disconnect_confirm">Disconnetti VPN.</string>
+    <string name="vpn_disconnect_confirm">Disconnetti questo VPN.</string>
     <string name="vpn_disconnect">Disconnetti</string>
     <string name="vpn_version">Versione %s</string>
     <string name="vpn_title">VPN</string>
