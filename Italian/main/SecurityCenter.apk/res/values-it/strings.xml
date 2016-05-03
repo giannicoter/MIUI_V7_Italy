@@ -977,7 +977,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="protection_category_security_title">Puliti (%d)</string>
     <string name="title_virus_no">Virus rilevati</string>
     <string name="title_virus_yes">Nessun virus rilevato</string>
-    <string name="summary_virus">Trovati %2$d virus</string>
+    <string name="summary_virus">Rimuovi i virus per mantenere il dispositivo</string>
     <string name="title_permission_no">Gestore permessi disattivato</string>
     <string name="title_permission_yes">Gestore permessi attivato</string>
     <string name="summary_permission">Proteggi la mia privacy dalle app potenzialmente malevoli</string>
