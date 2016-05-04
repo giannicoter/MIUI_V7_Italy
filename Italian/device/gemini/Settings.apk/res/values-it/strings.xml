@@ -3212,7 +3212,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
     <string name="account_list">Tutti</string>
     <string name="account_add">Aggiungi</string>
-    <string name="xiaomi_account">Account Mi</string>
+    <string name="xiaomi_account">Mi Account</string>
     <string name="sync_settings">Sincronizzazione</string>
     <string name="sms_received_sound_title">Messaggio ricevuto</string>
     <string name="sms_delivered_sound_title">Messaggio inviato</string>
@@ -3231,7 +3231,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="ac_privacy_mode_sum">Richiedi una password per disabilitare la modalità Ospite</string>
     <string name="access_control_password_title">Password</string>
     <string name="access_control_need_to_unlock">Password richiesta:</string>
-    <string name="access_control_reset_by_account">Accedi col tuo Account Mi per reimpostare la password</string>
+    <string name="access_control_reset_by_account">Accedi col tuo Mi Account per reimpostare la password</string>
     <string name="access_control_need_password">"%s è stato protetto
 "</string>
     <string name="access_control_no_back_footer">Tocca [icon] per uscire</string>
@@ -3430,7 +3430,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="factory_reset_summary">Elimina tutti i dati dalla memoria interna del tuo dispositivo</string>
     <string name="erase_sure">Dati personali</string>
     <string name="erase_personal_data">Dati personali</string>
-    <string name="erase_personal_data_description">Elimina il tuo Account Mi, i dati delle app e le impostazioni del sistema</string>
+    <string name="erase_personal_data_description">Elimina il tuo Mi Account, i dati delle app e le impostazioni del sistema</string>
     <string name="erase_sd_data">Format SD card</string>
     <string name="erase_sd_data_description">Formatting will erase all files and data on the SD card</string>
     <string name="erase_optional">Contenuti</string>
@@ -3653,10 +3653,10 @@ Disabilitare le finestre flottanti?"</string>
     <string name="brightness_auto_adjust_off">La luminosità dello schermo rimarrà invariata in ogni condizione di luce</string>
     <string name="brightness_auto_adjust_on">La luminosità dello schermo varierà in base alla luce ambientale</string>
     <string name="private_sms_need_to_unlock">Password richiesta:</string>
-    <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Account Mi</string>
+    <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
     <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>
     <string name="private_gallery_need_to_unlock">Password richiesta:</string>
-    <string name="private_gallery_reset_by_account">Per reimpostare la tua password, accedi al tuo Account Mi</string>
+    <string name="private_gallery_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
     <string name="private_gallery_recording_intro_header">Disegna una sequenza di sblocco:</string>
     <string name="unlock_disable_lock_pin_summary">Rimuovi PIN di sblocco</string>
     <string name="lockpassword_pin_fixed_length">Il PIN deve essere di %d cifre</string>
@@ -3807,7 +3807,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="accessibility_screen_magnification_enable">"Gesti per l'ingrandimento"</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Lo schermo wireless è disattivato perchè il Wi-Fi è spento</string>
     <string name="wifi_required_info_text">Per poter completare la configurazione il dispositivo deve poter accedere ad una rete Wi-Fi. Dopo la configurazione potrai passare dalla connessione dati alla rete Wi-Fi e viceversa.</string>
-    <string name="toast_need_login">Accedi al tuo Account Mi</string>
+    <string name="toast_need_login">Accedi al tuo Mi Account</string>
     <string name="preferred_app_settings">App predefinite</string>
     <string name="preferred_app_settings_default">Predefinita</string>
     <string name="preferred_app_settings_reset">Ripristino predefinite</string>
@@ -3835,8 +3835,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="update_progress_for_updates">Aggiornamento（%s）</string>
     <string name="button_text_reboot_now">Riavvia ora</string>
     <string name="button_text_login">Accesso</string>
-    <string name="dialog_content_login">"L'aggiornamento richiede un Account Mi, vuoi proseguire?"</string>
-    <string name="dialog_title_login">"Accedi all'Account Mi"</string>
+    <string name="dialog_content_login">"L'aggiornamento richiede un Mi Account, vuoi proseguire?"</string>
+    <string name="dialog_title_login">Accedi al tuo Mi Account</string>
     <string name="make_sure_cancel_update">"Vuoi annullare l'aggiornamento?"</string>
     <string name="download_current_rom">"Scarica l'ultima versione di MIUI"</string>
     <string name="install_whole_rom">Scarica ROM (standard)</string>
