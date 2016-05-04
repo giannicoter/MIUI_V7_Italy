@@ -516,7 +516,7 @@
     <string name="cloud_guide_welcome_title">MiCloud</string>
     <string name="welcome_to_micloud">Benvenuto in MiCloud</string>
     <string name="introduce">Esegui automaticamente il backup di foto e video</string>
-    <string name="welcome_to_slim">Welcome to album slimming</string>
+    <string name="welcome_to_slim">"Benvenuto nell'album slim"</string>
     <string name="slim_introduce">Sostituisci le foto/video ad alta risoluzione in locale con versioni ottimizzate dopo il caricamento su Mi Cloud. Le foto ad alta risoluzione resteranno archiviate su Mi Cloud. Puoi risparmiare fino al 90% di spazio(è necessario un account Xiaomi).</string>
     <string name="slim_introduce_with_specific_size">Sostituisci le foto/video ad alta risoluzione in locale con versioni ottimizzate dopo il caricamento su Mi Cloud. Le foto ad alta risoluzione resteranno archiviate su Mi Cloud. Risparmi %1$s (è necessario un account Xiaomi).</string>
     <string name="auto_backup_introduce">Esegui automaticamente il backup di foto e video(è necessario un account Xiaomi)</string>
