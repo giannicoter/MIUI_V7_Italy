@@ -591,7 +591,7 @@ Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai i
     <string name="unlock_disable_frp_warning_content_unknown">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il blocco schermo.</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il blocco schermo.
 
-Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai in grado di sbloccare il telefono, autorizzare gli acquisti o accedere alle app.</string>ice and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
+Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai in grado di sbloccare il telefono, autorizzare gli acquisti o accedere alle app.</string>
     <string name="unlock_disable_frp_warning_ok">Si, rimuovi</string>
     <string name="unlock_change_lock_pattern_title">Cambia sequenza di sblocco</string>
     <string name="unlock_change_lock_pin_title">Cambia PIN di sblocco</string>
