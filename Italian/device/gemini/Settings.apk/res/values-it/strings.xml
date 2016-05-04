@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
+       <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -573,25 +573,25 @@ Per continuare a usare il telefono, hai bisogno di eseguire un ripristino di fab
     <string name="unlock_set_unlock_mode_pattern">Sequenza</string>
     <string name="unlock_set_unlock_mode_pin">PIN</string>
     <string name="unlock_set_unlock_mode_password">Password</string>
-    <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings > Security.</string>
+    <string name="unlock_setup_wizard_fingerprint_details">Una volta impostato il blocco dello schermo, è possibile impostare anche la propria impronta digitale in Impostazioni > Schermata di blocco e password.</string>
     <string name="unlock_disable_lock_title">Disattiva blocco schermo</string>
     <string name="unlock_disable_frp_warning_title">Rimuovere la protezione dispositivo?</string>
-    <string name="unlock_disable_frp_warning_content_pattern">Device protection features will not work without your pattern.</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Device protection features will not work without your pattern.
+    <string name="unlock_disable_frp_warning_content_pattern">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito la sequenza di sblocco.</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito la sequenza di sblocco.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-    <string name="unlock_disable_frp_warning_content_pin">Device protection features will not work without your PIN.</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Device protection features will not work without your PIN.
+Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai in grado di sbloccare il telefono, autorizzare gli acquisti o accedere alle app.</string>
+    <string name="unlock_disable_frp_warning_content_pin">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il tuo PIN.</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il tuo PIN.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-    <string name="unlock_disable_frp_warning_content_password">Device protection features will not work without your password.</string>
-    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Device protection features will not work without your password.
+Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai in grado di sbloccare il telefono, autorizzare gli acquisti o accedere alle app.</string>
+    <string name="unlock_disable_frp_warning_content_password">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito la tua password.</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito la tua password.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-    <string name="unlock_disable_frp_warning_content_unknown">Device protection features will not work without your screen lock.</string>
-    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Device protection features will not work without your screen lock.
+Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai in grado di sbloccare il telefono, autorizzare gli acquisti o accedere alle app.</string>
+    <string name="unlock_disable_frp_warning_content_unknown">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il blocco schermo.</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Le funzionalità di protezione del dispositivo non funzionano senza aver inserito il blocco schermo.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
+Le impronte digitali salvate saranno rimosse da questo dispositivo e non sarai in grado di sbloccare il telefono, autorizzare gli acquisti o accedere alle app.</string>ice and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
     <string name="unlock_disable_frp_warning_ok">Si, rimuovi</string>
     <string name="unlock_change_lock_pattern_title">Cambia sequenza di sblocco</string>
     <string name="unlock_change_lock_pin_title">Cambia PIN di sblocco</string>
