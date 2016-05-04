@@ -48,7 +48,7 @@
     <string name="streamloadingtext">Connessione a %s</string>
     <string name="error_title">Impossibile sincronizzare</string>
     <string name="error_unauthorized">Sincronizzazione disattivata a causa di un numero eccessivo di tentativi di accesso.</string>
-    <string name="error_forbidden">Sincronizzazione disattivata a causa di un problema con il tuo Account Mi.</string>
+    <string name="error_forbidden">Sincronizzazione disattivata a causa di un problema con il tuo Mi Account.</string>
     <string name="error_not_acceptable">Sincronizzazione disattivata.</string>
     <string name="impunity_declaration_title">"Condizioni d'uso"</string>
     <string name="impunity_declaration_content1">"Toccando OK, accetti le condizioni riportate nel nostro "</string>
@@ -205,7 +205,7 @@
     <string name="ultra_high_quality">Migliore</string>
     <string name="normal_quality">Normale</string>
     <string name="download_completed">Scaricati</string>
-    <string name="login_first">Accedi prima al tuo Account Mi</string>
+    <string name="login_first">Accedi prima al tuo Mi Account</string>
     <string name="data_usage_warning">Utilizzo dati</string>
     <string name="data_usage_warning_summary">Lo streaming in alta qualità tramite rete cellulare può aumentare il traffico dati.</string>
     <string name="payment_success">Pagamento completato</string>
@@ -486,8 +486,8 @@ attendere o selezionare Musica Online."</string>
     <string name="miuishare_account_login_cancel">Annulla</string>
     <string name="miuishare_account_login_confirmation">Accesso necessario</string>
     <string name="miuishare_account_activate_confirmation">Attivazione necessaria</string>
-    <string name="miuishare_account_need_login">"La condivisione Weibo richiede che il tuo account Weibo sia collegato all'Account Mi con il quale sei attualmente collegato. Continuare?"</string>
-    <string name="miuishare_account_need_activate">"La condivisione Weibo richiede che il tuo account Weibo sia collegato all'Account Mi che non è attualmente attivato. Continuare?"</string>
+    <string name="miuishare_account_need_login">La condivisione Weibo richiede che il tuo account Weibo sia collegato al tuo Mi Account con il quale sei attualmente collegato. Continuare?</string>
+    <string name="miuishare_account_need_activate">La condivisione Weibo richiede che il tuo account Weibo sia collegato al tuo Mi Account che non è attualmente attivato. Continuare?</string>
     <string name="miuishare_wechat_timeline_title">Timeline Wechat</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuishare_publish">Invia</string>
@@ -502,7 +502,7 @@ attendere o selezionare Musica Online."</string>
     <string name="already_favorited">Già nei Preferiti</string>
     <string name="back_confirm">Tocca ancora per uscire</string>
     <string name="song_offline">Questo brano non è più disponibile.</string>
-    <string name="download_cloud_error_not_auth">Accedi al tuo Account Mi e riprova.</string>
+    <string name="download_cloud_error_not_auth">Accedi al tuo Mi Account e riprova.</string>
     <string name="download_cloud_error_retryable">Errore del server Mi Cloud, riprova più tardi.</string>
     <string name="download_cloud_error_unknow">Non è stato possibile scaricare file da Mi Cloud.</string>
     <string name="cloud_space_full">Spazio di archiviazione insufficiente</string>

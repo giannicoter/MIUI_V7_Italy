@@ -2,8 +2,8 @@
 <resources>
     <string name="episode_name_format">Ep. %1$s</string>
     <string name="app_name">Video</string>
-    <string name="xiaomi_account_type_unsupported">Il sistema non supporta gli Account Mi.</string>
-    <string name="no_login_xiaomi_account">Accedi con il tuo Account Mi per lasciare un commento</string>
+    <string name="xiaomi_account_type_unsupported">Il sistema non supporta gli Mi Account.</string>
+    <string name="no_login_xiaomi_account">Accedi con il tuo Mi Account per lasciare un commento</string>
     <string name="authenticating"><cdata>Verifica in corso </cdata></string>
     <string name="authenticated_failed">Accesso non riuscito</string>
     <string name="authenticating_manually">"Impossibile effettuare l'autenticazione"</string>
@@ -56,7 +56,7 @@
     <string name="dlna_list_name">Dispositivo DLNA</string>
     <string name="myfavorite_onlylocal">Preferiti</string>
     <string name="login_tip_title">Accedi</string>
-    <string name="login_tip_content">Accedi con il tuo Account Mi per sincronizzare e aggiornarti sui contenuti che stai seguendo.</string>
+    <string name="login_tip_content">Accedi con il tuo Mi Account per sincronizzare e aggiornarti sui contenuti che stai seguendo.</string>
     <string name="cancel">Annulla</string>
     <string name="ok">OK</string>
     <string name="qiyi">iQiyi</string>

@@ -406,7 +406,7 @@
     <string name="need_download">Sincronizzazione…</string>
     <string name="found_wild_messages_title">Scarica messaggi</string>
     <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite Mi Cloud. Vuoi scaricarli?</string>
-    <string name="found_wild_messages_guide_cloud_desc">Per sincronizzare i messaggi da Mi Cloud accedi al tuo Account Mi ed attiva la sincronizzazione SMS.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Per sincronizzare i messaggi da Mi Cloud accedi al tuo Mi Account ed attiva la sincronizzazione SMS.</string>
     <string name="found_wild_messages_guide_sync_not_started">Sincronizzazion non ancora avviata</string>
     <string name="found_old_messages_title">Aggiorna Messaggi</string>
     <string name="found_old_messages">Resoconto: %1$s trovati nei vecchi account. Vuoi caricarli nel tuo attuale account: %2$s?</string>

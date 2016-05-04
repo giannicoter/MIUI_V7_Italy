@@ -194,12 +194,12 @@
     <string name="add_new_control">Abbina nuovo telecomando</string>
     <string name="add_control">Abbina telecomando</string>
     <string name="loading_brand">Caricamento…</string>
-    <string name="passport_app_name">Account Mi</string>
+    <string name="passport_app_name">Mi Account</string>
     <string name="passport_account_hint_text">Email o numero di cellulare</string>
     <string name="passport_phone_num_hint_text">Numero di cellulare</string>
     <string name="passport_login">Accesso</string>
     <string name="passport_login_with_email_or_id"><u>Entra con un altro account</u></string>
-    <string name="passport_email_or_id_hint_text">Email Account Mi</string>
+    <string name="passport_email_or_id_hint_text">Email Mi Account</string>
     <string name="passport_verify">Verifica</string>
     <string name="passport_register">Crea un account</string>
     <string name="passport_register_by_email"><u>"Crea un account usando l'indirizzo email"</u></string>
@@ -211,10 +211,10 @@
     <string name="passport_vcode">Codice di verifica</string>
     <string name="passport_bad_authentication">Nome utente o password non corretti</string>
     <string name="passport_welcome_skip_login"><u>Salta</u></string>
-    <string name="passport_dspt_provision">Usa il tuo Account Mi per accedere a Mi Cloud, Store dei temi MIUI e agli altri servizi Xiaomi. </string>
+    <string name="passport_dspt_provision">Usa il tuo Mi Account per accedere a Mi Cloud, Store dei temi MIUI e agli altri servizi Xiaomi. </string>
     <string name="passport_dspt_provision2">Scopri di più</string>
     <string name="passport_provision_skip_login"><u>Salta</u></string>
-    <string name="passport_reg_new">Crea un Account Mi</string>
+    <string name="passport_reg_new">Crea un Mi Account</string>
     <string name="passport_error_empty_username">Inserisci il nome utente</string>
     <string name="passport_error_empty_pwd">Inserisci la password</string>
     <string name="passport_error_invalid_phone_num">Numero di cellulare non valido</string>
@@ -289,8 +289,8 @@
     <string name="passport_loading">Caricamento…</string>
     <string name="passport_license_host_unreachable">Impossibile collegarsi alla rete. Puoi accedere a questa pagina visitando %s.</string>
     <string name="passport_skip_setup_account_title">Salta configurazione</string>
-    <string name="passport_skip_setup_account_msg">Puoi configurare un Account Mi successivamente andando nelle Impostazioni.</string>
-    <string name="passport_xiaomi_account_dspt">Usa il tuo Account Mi per accedere a Mi Cloud e agli altri servizi Xiaomi.</string>
+    <string name="passport_skip_setup_account_msg">Puoi configurare un Mi Account successivamente andando nelle Impostazioni.</string>
+    <string name="passport_xiaomi_account_dspt">Usa il tuo Mi Account per accedere a Mi Cloud e agli altri servizi Xiaomi.</string>
     <string name="passport_xiaomi_account_sec_dspt" />
     <string name="passport_xiaomi_account_sec_dspt2" />
     <string name="passport_remove_unactivated_account_notice">"Il tuo account non è ancora stato attivato."</string>
@@ -306,7 +306,7 @@
     <string name="passport_vcode_prompt_long">"Inserisci il codice di verifica generato con l'app Mi Security"</string>
     <string name="passport_vcode_notification_title">Il codice di verifica inserito non è completo</string>
     <string name="passport_checking_input">Controllo…</string>
-    <string name="passport_login_title">Entra col tuo Account Mi</string>
+    <string name="passport_login_title">Entra col tuo Mi Account</string>
     <string name="passport_get_verify_code">Invia il codice</string>
     <string name="passport_re_get_verify_code">Invia di nuovo il codice</string>
     <string name="passport_getting_verify_code">Invio…</string>

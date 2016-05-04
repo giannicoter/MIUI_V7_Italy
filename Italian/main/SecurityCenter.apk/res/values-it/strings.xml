@@ -1152,7 +1152,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="button_text_ignore_alert_title">Ignorare questo avviso?</string>
     <string name="back">Indietro</string>
     <string name="empty_title_manual_item_white_list">Nessuna eccezione.</string>
-    <string name="title_cloud_account">Account Mi</string>
+    <string name="title_cloud_account">Mi Account</string>
     <string name="summary_cloud_account">Ottieni il massimo dal tuo Dispositivo Mi</string>
     <string name="title_cloud_service">Mi Cloud</string>
     <string name="summary_cloud_service">Sincronizza le foto, i contatti e molto altro su tutti i tuoi dispositivi</string>

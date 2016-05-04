@@ -195,7 +195,7 @@ Sei sicuro di voler abbandonare questa pagina?"</string>
     <string name="video_history_empty">La cronologia è vuota</string>
     <string name="error_title">Impossibile sincronizzare</string>
     <string name="error_unauthorized">Sincronizzazione disattivata a causa di un numero eccessivo di tentativi di accesso.</string>
-    <string name="error_forbidden">Sincronizzazione disattivata a causa di un problema con il tuo account Mi.</string>
+    <string name="error_forbidden">Sincronizzazione disattivata a causa di un problema con il tuo Mi Account.</string>
     <string name="error_not_acceptable">Sincronizzazione disattivata.</string>
     <string name="cloud_tab">Chiudi schede</string>
     <string name="cloud_loading_tips">Trascina in basso per sincronizzare</string>
