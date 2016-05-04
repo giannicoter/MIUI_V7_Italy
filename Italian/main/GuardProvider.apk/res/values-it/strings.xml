@@ -14,7 +14,7 @@
     <string name="tencent_dialog_title">Informativa sulla Privacy di Tencent</string>
     <string name="tencent_dialog_header">"Questa funzione crittografa ed invia l'ID del tuo dispositivo ai server di Tencent (%s)."</string>
     <string name="tencent_dialog_policy">"leggi l'Informativa sulla Privacy"</string>
-    <string name="tencent_dialog_cloudscan">Carica e scansione i nomi delle app d i dettagli utilizzando le definizioni online dei virus.</string>
+    <string name="tencent_dialog_cloudscan">Carica e scansiona i nomi delle app di dettagli utilizzando le definizioni online dei virus.</string>
     <string name="tencent_dialog_dbupdate">Aggiorna automaticamente le definizioni dei virus</string>
     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
     <string name="avl_dialog_title">"Informativa sulla Privacy di AVL"</string>

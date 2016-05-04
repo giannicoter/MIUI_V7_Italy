@@ -53,6 +53,6 @@
     <string name="error_camera_unavailable">"Controlla se un'altra applicazione sta utilizzando la fotocamera."</string>
     <string name="altitude_uncalibrate_tip">"Impossibile calibrare l'altitudine"</string>
     <string name="altitude_uncalibrate_msg">"Impossibile calibrare l'altitudine senza una connessione dati o GPS."</string>
-    <string name="altitude_uncalibrate_refresh">Prova di nuovo</string>
+    <string name="altitude_uncalibrate_refresh">Riprova</string>
     <string name="altitude_uncalibrate_cancel">Annulla</string>
 </resources>

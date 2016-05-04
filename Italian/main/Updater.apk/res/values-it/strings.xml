@@ -48,6 +48,8 @@
     <string name="cancel_download_buton_text">Annulla</string>
     <string name="boot_recovery">Riavvia in Recovery</string>
     <string name="cancel_download">Interrompere il download di questo aggiornamento?</string>
+    <string name="continue_update_positive_btn">Interrompi</string>
+    <string name="continue_update_negative_btn">Continua</string>
     <string name="update_success_reboot_immediately">Dispositivo aggiornato</string>
     <string name="download_success_reboot_immediately">"Riavvia per applicare l'aggiornamento"</string>
     <string name="update_success">Aggiornamento dispositivo</string>
@@ -111,7 +113,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="auto_button_sure_cancel">Annulla</string>
     <string name="auto_update_sum">Cerca automaticamente il momento migliore per scaricare aggiornamenti</string>
     <string name="updater_nonetwork">Connettiti alla rete per recuperare il log</string>
-    <string name="updater_nonetwork_clause">"Collegati ad una rete per leggere l'Informativa sulla Privacy aggiornata"</string>
+    <string name="updater_nonetwork_clause">"Collegato ad una rete per leggere l'Informativa sulla Privacy aggiornata"</string>
     <string name="updater_nolog">Nessun log</string>
     <string name="notification_load_title_alpha">Accedi al tuo Mi Account</string>
     <string name="notification_load_title_dev">Accedi al tuo Mi Account</string>
@@ -147,9 +149,11 @@ http://zhushou.xiaomi.com"</string>
     <string name="update_success_body">Il sistema è stato correttamente aggiornato alla versione %s</string>
     <string name="my_rank">Aggiorna posizione:</string>
     <string name="no_log">Riepilogo non disponibile</string>
+    <string name="notification_fail_msg">Tentativo di download ROM intera</string>
     <string name="log_share">Condividi</string>
+    <string name="notification_restart">Aggiorna di nuovo</string>
     <string name="autosetmode">Impostazioni aggiornamento</string>
-    <string name="on_checking">Cerca aggiornamento</string>
+    <string name="on_checking">Sto cercando…</string>
     <string name="auto_update">Aggiorna automaticamente</string>
     <string name="update_downfull_no_info_title">Impossibile scaricare</string>
     <string name="update_downfull_no_info_sum">Impossibile scaricare, controlla di nuovo con il tasto di aggiornamento.</string>

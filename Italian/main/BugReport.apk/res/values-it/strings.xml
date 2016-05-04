@@ -86,5 +86,5 @@
     <string name="bugreport_dump_complete_notification_summary">Tocca per leggere.</string>
     <string name="plus_one_submit_dialog_content">Il tuo feedback, insieme al log di errore, verrà inviato ai server Xiaomi.</string>
     <string name="plus_one_submit_dialog_not_show_again">Ricorda la scelta</string>
-    <string name="toast_fill_brackets">Si prega di ompilare i campi</string>
+    <string name="toast_fill_brackets">Si prega di compilare i campi</string>
 </resources>

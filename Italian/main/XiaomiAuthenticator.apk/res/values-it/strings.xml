@@ -6,7 +6,7 @@
   <string name="action_settings">Impostazioni</string>
   <string name="activation_page">Token non attivo</string>
   <string name="activation_page_btn_txt">Attiva</string>
-  <string name="activation_page_info">Esegui il login su https://account.xiaomi.com per attivarlo</string>
+  <string name="activation_page_info">Esegui il login su <b>https://account.xiaomi.com</b> per attivarlo</string>
   <string name="add_account_menu_item">Aggiungi account</string>
   <string name="app_name">Mi Authenticator</string>
   <string name="app_name_lockpattern">LockPattern</string>
@@ -30,7 +30,7 @@
   <string name="correct_enter_password">Inserisci una password valida</string>
   <string name="correct_enter_update_password">La password inserita non è corretta</string>
   <string name="counter_pin">Ottieni codice</string>
-  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">"I tuoi dati sono stati importati con successo dalla app deprecata Xiaomi Authecator. Ora si può disinstallare in sicurezza la versione precedente dell'app cliccando qui sotto."</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">"I tuoi dati sono stati importati con successo dalla app deprecata Xiaomi Authenticator. Ora si può disinstallare in sicurezza la versione precedente dell'app cliccando qui sotto."</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Importazione eseguita con successo</string>
   <string name="decoding_exception">Decodifica eccezione in corso</string>
   <string name="details_patternforgotten">"Resetta la password:
@@ -161,10 +161,10 @@ Ecco cosa puoi fare: "</string>
   <string name="title_updatepattern">Aggiornare la sequenza usata come password</string>
   <string name="title_visible_pattern">Rendere visibile la sequenza</string>
   <string name="type_prompt">Tipo di chiave</string>
-  <string name="update_pattern_jump">&lt;u&gt;Chiudi blococ password&lt;/u&gt;</string>
+  <string name="update_pattern_jump">&lt;u&gt;Chiudi blocco password&lt;/u&gt;</string>
   <string name="version_preference_title">Versione</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;Nota: &lt;/font&gt; Non cancellare il tuo token altrimenti non potrai eseguire l'accesso."</string>
   <string name="welcome_page_details">"- proteggi il tuo account da furti.
 - Mantieni il tuo account sicuro."</string>
-  <string name="welcome_page_title">Sicurezza account Xiaomi</string>
+  <string name="welcome_page_title">Sicurezza Mi Account</string>
 </resources>

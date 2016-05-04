@@ -37,16 +37,16 @@
     <string name="some_app_taking">(%1$s sta già utilizzando questa funzione…)</string>
     <string name="reset_function_msg">"La riapertura della funzione interromperà l'operazione di %1$s"</string>
     <string name="notify_device_lose_connection_title">Il dispositivo %1$s si è disconnesso</string>
-    <string name="notify_device_lose_connection_text">%1$s si è disconnesso per un lungo periodo, tocca per disaccoppiare.</string>
-    <string name="unbind_device_alert_title">Disaccoppia dispositivo</string>
-    <string name="unbind_device_alert_content">Il dispositivo %1$s si è disconnesso per un lungo periodo di tempo, disaccoppiandolo migliorerai le prestazioni. Vuoi disaccoppiare?</string>
+    <string name="notify_device_lose_connection_text">%1$s si è disconnesso per un lungo periodo, tocca per dissociare.</string>
+    <string name="unbind_device_alert_title">Dissocia dispositivo</string>
+    <string name="unbind_device_alert_content">Il dispositivo %1$s si è disconnesso per un lungo periodo di tempo, rimuovendolo migliorerai le prestazioni. Vuoi dissociarlo?</string>
     <string name="unbind_device_alert_ok">OK</string>
     <string name="unbind_device_alert_cancel">Annulla</string>
     <string name="miui_transfer_history_title">Trasferimenti Bluetooth</string>
     <string name="miui_transfer_inbound_title">Ricevuti</string>
     <string name="miui_transfer_outbound_title">Inviati</string>
     <string name="permlab_bluetoothShareManager">Accedere al gestore dei download.</string>
-    <string name="permdesc_bluetoothShareManager">"Consente all'applicazione di accedere al gestore BluetoothShare e di utilizzarlo per trasferire file."</string>
+    <string name="permdesc_bluetoothShareManager">"Consente all'applicazione di accedere al gestore BluetoothShare e di utilizzarlo per trasferire i file."</string>
     <string name="permlab_bluetoothWhitelist">"Autorizzazione dell'accesso del dispositivo Bluetooth."</string>
     <string name="permdesc_bluetoothWhitelist">"Consente all'applicazione di autorizzare temporaneamente un dispositivo Bluetooth, permettendo a tale dispositivo di inviare file a questo dispositivo senza la conferma dell'utente."</string>
     <string name="permlab_handoverStatus">Ricezione dei broadcast di trasferimento BT.</string>
@@ -57,7 +57,7 @@
     <string name="airplane_error_title">Modalità aereo</string>
     <string name="airplane_error_msg">Non puoi utilizzare Bluetooth in modalità aereo.</string>
     <string name="bt_enable_title" />
-    <string name="bt_enable_line1">Per utilizzare i servizi Bluetooth, prima è necessario attivare Bluetooth.</string>
+    <string name="bt_enable_line1">Per utilizzare i servizi Bluetooth è necessario attivare il Bluetooth.</string>
     <string name="bt_enable_line2">Attivare Bluetooth adesso?</string>
     <string name="bt_enable_cancel">Annulla</string>
     <string name="bt_enable_ok">Attiva</string>
@@ -105,11 +105,9 @@
     <string name="upload_fail_cancel">Chiudi</string>
     <string name="bt_error_btn_ok">OK</string>
     <string name="unknown_file">File sconosciuto</string>
-    <string name="unknown_file_desc">"Non sono disponibili applicazioni in grado di gestire questo tipo di file. 
-"</string>
+    <string name="unknown_file_desc">"Non sono disponibili applicazioni in grado di gestire questo tipo di file."</string>
     <string name="not_exist_file">Nessun file</string>
-    <string name="not_exist_file_desc">"Il file non esiste. 
-"</string>
+    <string name="not_exist_file_desc">"Il file non esiste."</string>
     <string name="enabling_progress_title">Attendi…</string>
     <string name="enabling_progress_content">Attivazione Bluetooth…</string>
     <string name="bt_toast_1">"Il file verrà ricevuto. Controlla l'avanzamento nel pannello Notifiche."</string>
@@ -138,7 +136,7 @@
     <string name="inbound_history_title">Trasferimenti in entrata</string>
     <string name="outbound_history_title">Trasferimenti in uscita</string>
     <string name="no_transfers">La cronologia di trasferimento è vuota.</string>
-    <string name="transfer_clear_dlg_msg">"Tutti gli elementi verranno cancellati dall'elenco."</string>
+    <string name="transfer_clear_dlg_msg">"Tutti gli elementi verranno rimossi dall'elenco."</string>
     <string name="outbound_noti_title">Condivisione Bluetooth: file inviati</string>
     <string name="inbound_noti_title">Condivisione Bluetooth: file ricevuti</string>
     <string name="noti_caption">%1$s operazioni riuscite, %2$s operazioni non riuscite.</string>

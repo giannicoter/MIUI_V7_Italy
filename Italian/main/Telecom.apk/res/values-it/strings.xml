@@ -10,7 +10,7 @@
     <string name="notification_missedCall_message">Messaggio</string>
     <string name="accessibility_call_muted">Chiamata silenziata.</string>
     <string name="accessibility_speakerphone_enabled">Vivavoce attivato.</string>
-    <string name="respond_via_sms_canned_response_1">Non posso parlare ora. Come va?</string>
+    <string name="respond_via_sms_canned_response_1">Non posso parlare ora. Ci sentiamo dopo.</string>
     <string name="respond_via_sms_canned_response_2">Ti chiamo appena posso</string>
     <string name="respond_via_sms_canned_response_3">Ti chiamo più tardi</string>
     <string name="respond_via_sms_canned_response_4">Non posso parlare ora. Posso chiamarti più tardi?</string>
@@ -32,7 +32,7 @@
     <string name="test_account_3_label">Bay Voice Chat Pro</string>
     <string name="test_account_0_short_description">Account con Q Mobile</string>
     <string name="test_account_1_short_description">Account con Market Wireless</string>
-    <string name="test_account_2_short_description">Parla con tutti della vostra Cerchia!</string>
+    <string name="test_account_2_short_description">Parla con tutti della vostra Cerchia</string>
     <string name="test_account_3_short_description">Chatta con gli utenti di Chat Network</string>
     <string name="handle_restricted">LIMITAZIONI</string>
     <string name="headset_plugin_view_text">Auricolari inseriti.</string>
@@ -41,4 +41,9 @@
     <string name="voice_report_incoming_call">Chiamata</string>
     <string name="voice_report_unknown_num">Numero sconosciuto</string>
     <string name="incall_error_call_failed">Impossibile effettuare la chiamata</string>
+    <string name="dial_vt_fail_prompt">La rete non supporta VoLTE. Effettuare una chiamata normale?</string>
+    <string name="dial_conference_fail_prompt">"Impossibile avviare l'audioconferenza, la rete non supporta la tecnologia VoLTE."</string>
+    <string name="can_not_dial_while_vt_prompt">Impossibile chiamare mentre è in corso una video chiamata</string>
+    <string name="voice_dial_out">Chiamata vocale</string>
+    <string name="notification_missedCall_call_back_miui">Chiama</string>
 </resources>

@@ -22,6 +22,6 @@
     <plurals name="uninstall_result_failed">
         <item quantity="other">Impossibile disinstallare %1$s ed altre %2$d app</item>
         <item quantity="one">Impossibile disinstallare %s</item>
-        <item quantity="two">"Impossibile disinstallare %s ed 1 un'altra app"</item>
+        <item quantity="two">"Impossibile disinstallare %s ed un'altra app"</item>
     </plurals>
 </resources>

@@ -357,7 +357,7 @@ i tuoi amici. Consultalo e aggiornalo
     <string name="loading_image">Download immagine…</string>
     <string name="loading_suspend">Download in pausa: verrà ripreso quando sarà disponibile una connessione Wi-Fi</string>
     <string name="confirm_download_video_title">Scarica video</string>
-    <string name="confirm_download_video_message">Il video richiede il download! Il download verrà ripreso qundo sarà disponibile una connessione Wi-Fi.</string>
+    <string name="confirm_download_video_message">Il video richiede il download! Il download verrà ripreso quando sarà disponibile una connessione Wi-Fi.</string>
     <string name="image_download_item_title">Download immagine (%s)</string>
     <string name="item_not_sync">Questo elemento non può essere sincronizzato in cloud e non può essere scaricato</string>
     <string name="fail_to_download_n_items">Impossibile scaricare %s</string>

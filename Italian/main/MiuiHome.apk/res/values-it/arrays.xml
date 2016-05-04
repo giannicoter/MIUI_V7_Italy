@@ -2,7 +2,7 @@
 <resources>
     <string-array name="transformation_entries">
         <item>Scorrimento classico</item>
-        <item>Scorrimento classico (senza rimbalzo)</item>
+        <item>Scorrimento senza rimbalzo</item>
         <item>Dissolvenza</item>
         <item>Inclinazione</item>
         <item>Pagina</item>
@@ -48,7 +48,7 @@
         <item>Grandinata</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Muovi app.</item>
+        <item>Muovi app</item>
         <item>Widget</item>
         <item>Sfondi</item>
         <item>Transizioni</item>

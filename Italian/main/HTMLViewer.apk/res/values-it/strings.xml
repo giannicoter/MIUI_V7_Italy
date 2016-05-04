@@ -9,7 +9,7 @@
     <string name="license_host_unreachable">"Impossibile collegarsi alla rete. Per leggere queste informazioni adesso, 
 visita %s"</string>
     <string name="permdesc_accessDrm">Consenti alle applicazioni di accedere a contenuti protetti da DRM.</string>
-    <string name="open_wifi_connect_title">Collegati a %1$s</string>
+    <string name="open_wifi_connect_title">Collegato a %1$s</string>
     <string name="open_wifi_connect_summary">Tocca per vedere i dettagli.</string>
     <string name="settings_license_activity_title">Licenza open source</string>
     <string name="settings_license_activity_loading">Caricamento…</string>

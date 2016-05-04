@@ -355,7 +355,7 @@ Si prega di verificare il numero di spedizione."</string>
     <string name="account_order">Ordini</string>
     <string name="account_address">Indirizzi</string>
     <string name="account_title">Profilo</string>
-    <string name="account_type_name">Account XiaoMi</string>
+    <string name="account_type_name">Account Mi</string>
     <string name="account_verify_password">"Si sta utilizzando il servizio su un altro telefono, per motivi di privacy, la password dell'account va verificata"</string>
     <string name="account_updating_device">Aggiornamento…</string>
     <string name="account_updating_device_failed">Accesso fallito,si prega di riprovare più tardi</string>

@@ -25,7 +25,7 @@
     <string name="basic">Pannello base</string>
     <string name="advanced">Pannello avanzato</string>
     <string name="clear_history">Cancella cronologia</string>
-    <string name="text_copied_toast">Testo copiato.</string>
+    <string name="text_copied_toast">Testo copiato</string>
     <string name="leftParenDesc">parentesi aperta</string>
     <string name="rightParenDesc">parentesi chiusa</string>
     <string name="factorialDesc">fattoriale</string>

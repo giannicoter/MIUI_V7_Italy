@@ -7,6 +7,6 @@
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">Nascondere le notifiche di %d app?</item>
-        <item quantity="one">Nascondere le notifiche di %d app?</item>
+        <item quantity="one">Nascondere le notifiche di questa app?</item>
     </plurals>
 </resources>

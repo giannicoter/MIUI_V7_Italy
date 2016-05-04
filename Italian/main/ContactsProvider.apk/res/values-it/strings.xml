@@ -3,7 +3,7 @@
     <string name="sharedUserLabel">Applicazioni di base Android</string>
     <string name="app_label">Archiviazione contatti</string>
     <string name="provider_label">Contatti</string>
-    <string name="upgrade_msg">Upgrade del database dei contatti.</string>
+    <string name="upgrade_msg">Aggiornamento del database dei contatti.</string>
     <string name="upgrade_out_of_memory_notification_ticker">"L'aggiornamento dei contatti richiede più memoria."</string>
     <string name="upgrade_out_of_memory_notification_title">"Aggiornamento dell'archivio dei contatti"</string>
     <string name="upgrade_out_of_memory_notification_text">"Tocca per completare l'aggiornamento."</string>
@@ -16,12 +16,12 @@
     <string name="debug_dump_database_message">"Attenzione: stai per creare una copia di sicurezza di tutte le informazioni di contatto e di tutti i registri chiamate nella memoria interna da inviare tramite email. Ricorda di eliminare la copia in locale non appena ricevi l'email."</string>
     <string name="debug_dump_delete_button">Elimina adesso</string>
     <string name="debug_dump_start_button">Inizia</string>
-    <string name="debug_dump_email_sender_picker">Scegli un programma per inviare il file</string>
+    <string name="debug_dump_email_sender_picker">"Scegli un'app per inviare il file"</string>
     <string name="debug_dump_email_subject">Database dei contatti allegato</string>
     <string name="debug_dump_email_body">In allegato è presente il mio database dei contatti incluse tutte le informazioni. Trattare con cura.</string>
     <string name="pound_search_tip">Inserisci un numero dopo # per cercare nei contatti</string>
     <string name="create_contact">Nuovo contatto</string>
-    <string name="video_call">Video chiamata</string>
+    <string name="video_call">Videochiamata</string>
     <string name="send_sms">Invia messaggio</string>
     <string name="search_the_yellowpage">Cerca nella cartella</string>
     <string name="edit_contact">Aggiungi a contatto</string>

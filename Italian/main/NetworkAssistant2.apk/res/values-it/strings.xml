@@ -11,7 +11,7 @@
     <string name="main_toolbar_statistic">Statistiche</string>
     <string name="main_toolbar_saving">Risparmio</string>
     <string name="main_toolbar_purchase">Ricarica</string>
-    <string name="main_button_usage_adjust">Imposta utilizzo dati</string>
+    <string name="main_button_usage_adjust">Imposta limite di utilizzo dati</string>
     <string name="main_button_usage_adjusting">Modifica…</string>
     <string name="main_button_usage_adjust_manual">Imposta utilizzo dati</string>
     <string name="main_button_usage_package_setting">Imposta utilizzo dati</string>
@@ -182,6 +182,7 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="traffic_setting_fragment_send_num_tips">Inserisci numero di telefono</string>
     <string name="traffic_setting_fragment_sms_content_tips">Scrivi qui il tuo messaggio</string>
     <string name="traffic_setting_fragment_null">Vuoto</string>
+    <string name="traffic_setting_fragment_loacation_alert_nomore">Non mostrare più</string>
     <string name="data_usage_warning_title">Avviso utilizzo dati</string>
     <string name="data_usage_warning_body">"Tocca per vedere i dettagli dell'utilizzo dati."</string>
     <string name="data_usage_mobile_limit_title">I dati su rete mobile sono stati disattivati</string>
@@ -227,17 +228,15 @@ Fascia bassa: %1$s rimanenti | %2$s usati"</string>
     <string name="traffic_correction_success">Utilizzo dati aggiornato</string>
     <string name="traffic_correction_failed">Impossibile recuperare informazioni sui dati utilizzati</string>
     <string name="traffic_correction_success_notify_message">Tocca per vedere i dettagli.</string>
-    <string name="operator_setted_error_notify_title">Errore SIM</string>
-    <string name="operator_setted_error_notify_message">Tocca per modificare la provenienza della SIM.</string>
-    <string name="operator_setted_error_dialog_message">La SIM che stai utilizzando proviene da: %1$s. La nazionalità è diversa da quella impostata manualmente (%2$s). Cambiare la provenienza della SIM con %3$s?</string>
+    <string name="sim_location_error_notify_title">Errore SIM</string>
+    <string name="sim_location_error_notify_message">Tocca per modificare la provenienza della SIM.</string>
+    <string name="sim_location_error_dialog_message">La SIM che stai utilizzando proviene da: %1$s. La nazionalità è diversa da quella impostata manualmente (%2$s). Cambiare la provenienza della SIM con %3$s?</string>
     <string name="package_change_notification_title">Regola automaticamente la soglia dati</string>
     <string name="package_change_notification_summary">Tocca per ulteriori informazioni.</string>
     <string name="package_setted_error_notification_titile">Impossibile impostare il piano dati</string>
     <string name="package_setted_error_notification_summary">"Tocca per mostrare i dettagli sull'utilizzo."</string>
     <string name="traffic_config_alert_title">%s differenze</string>
-    <string name="traffic_config_alert_ok">OK</string>
-    <string name="traffic_config_alert_cancel">Annulla</string>
-    <string name="traffic_config_alert_nomore">Non mostrare più</string>
+    <string name="traffic_config_alert_auto_modify">Aggiorna automaticamente il piano dati</string>
     <string name="traffic_config_alert_body">"Il resoconto dei dati usati fornito dal tuo operatore mostra che ti rimangono %s.
 
 Vuoi aggiornare il limite uso dati locale?"</string>
@@ -373,13 +372,13 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="saving_conflict_dialog_ok">OK</string>
     <string name="saving_conflict_dialog_cancel">Annulla</string>
     <string name="restrictbackground_conflict_saving_msg">Impossibile utilizzare il Risparmio Dati quando i dati in background sono limitati. Disattivare Risparmio Dati e limitare i dati in background?</string>
-    <string name="saving_conflict_restrictbackground_msg">Impossibile utilizzare il Risparmio Dati quando i dati in background sono limitati. Consentire i dati in background ed attivare il RIsparmio Dati?</string>
+    <string name="saving_conflict_restrictbackground_msg">Impossibile utilizzare il Risparmio Dati quando i dati in background sono limitati. Consentire i dati in background ed attivare il Risparmio Dati?</string>
     <string name="traffic_saving_detail">Dettagli</string>
     <string name="traffic_saving_mobile_usage">Utilizzo dati mobili</string>
     <string name="traffic_saving_wifi_usage">Utilizzo Wi-Fi</string>
     <string name="mi_service_framework">Mi Service Framework</string>
     <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
-    <string name="mi_service_traffic_detail">Dettagli framework</string>
+    <string name="mi_service_traffic_detail">Dettagli traffico dati</string>
     <string name="none_mi_service_app_detail">Vuoto</string>
     <string name="show_traffic_dialog_title">Mostra utilizzo nel pannello delle notifiche</string>
     <string name="show_traffic_dialog_message">"Le informazioni sull'utilizzo dei dati verranno mostrate nel pannello delle notifiche. Puoi disattivare questa opzioni in Utilizzo dati -> Impostazioni</string>
@@ -399,7 +398,7 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="tc_sms_report_get_success_notify_title">"Ricevuto SMS sull'utilizzo dei dati"</string>
     <string name="tc_sms_report_get_success_notify_body">Assicurati che sia corretto ed invialo a MIUI.</string>
     <string name="tc_sms_report_upload_success">"SMS sull'utilizzo dei dati inviato. Ci lavoreremo!"</string>
-    <string name="tc_sms_report_upload_when_net">Grazie per il feedback!</string>
+    <string name="tc_sms_report_upload_when_net">Grazie per il feedback</string>
     <string name="tc_sms_report_notify_get_timeout_title">"Impossibile recuperare informazioni sull'utilizzo dei dati"</string>
     <string name="tc_sms_report_notify_get_timeout_body">"Operazione scaduta. Conferma tramite il tuo operatore che il codice di richiesta dell'SMS sia corretto."</string>
     <string name="tc_sms_report_notify_get_failure_title">"Impossibile recuperare informazioni sull'utilizzo dei dati"</string>
@@ -433,10 +432,10 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="dialog_roaming_message">Le applicazioni nella lista delle eccezioni possono collegarsi al servizio dati anche durante il roaming internazionale. Aggiungere questa applicazione alla lista delle eccezioni?</string>
     <string name="add_to_whitelist_button">gestisci eccezioni</string>
     <string name="roaming_not_start_title">Roaming internazionale</string>
-    <string name="roaming_not_start_body">e applicazioni nella lista delle eccezioni possono collegarsi al servizio dati anche durante il roaming internazionale.</string>
+    <string name="roaming_not_start_body">Le applicazioni nella lista delle eccezioni possono collegarsi al servizio dati anche durante il roaming internazionale.</string>
     <string name="roaming_start_title">Roaming internazionale</string>
     <string name="roaming_start_body">Consenti alle app nella lista delle eccezioni di collegarsi al servizio dati anche durante il roaming internazionale.</string>
-    <string name="dialog_app_roaming_title">il roamig internazionale non è attivato per %1$s</string>
+    <string name="dialog_app_roaming_title">Il roaming internazionale non è attivato per %1$s</string>
     <string name="dialog_app_roaming_message">Durante il roaming internazionale, solo le applicazioni che hai aggiunto alla lista delle eccezioni possono utilizzare i servizi dati. %1$s non è stata aggiunta alla lista delle eccezioni. Vedere la lista delle eccezioni?"</string>
     <string name="add_miservice_dialog_title">MIUI service framework</string>
     <string name="add_miservice_dialog_content">"%s richiede l'aggiunta di MIUI service framework alla lista delle eccezioni. Potresti ricevere notifiche da applicazioni MIUI integrate ae da altre app di terze parti."</string>
@@ -478,10 +477,10 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="traffic_setting_app_count">%d applicazioni</string>
     <string name="traffic_warning_purchase_title">Avviso traffico dati mobile</string>
     <string name="traffic_purchase_body">Risparmia il 50% ricaricando adesso.</string>
-    <string name="traffic_purchse_suggestion">"E' il momento di ricaricare"</string>
+    <string name="traffic_purchse_suggestion">È il momento di ricaricare</string>
     <string name="traffic_over_purchase_title">Limite dati superato</string>
     <string name="traffic_over_purchase_body">Tocca per leggere i dettagli.</string>
-    <string name="traffic_over_purchase_link">Hai raggiunto il limite previsto dal tuo piano dati.Se superi il limite previsto dal tuo piano dati il tuo operatore potrebbe addebitarti dei costi aggiuntivi. Ricarica adesso e risparmia il 50%.</string>
+    <string name="traffic_over_purchase_link">Hai raggiunto il limite previsto dal tuo piano dati. Se superi il limite previsto dal tuo piano dati il tuo operatore potrebbe addebitarti dei costi aggiuntivi. Ricarica adesso e risparmia il 50%.</string>
     <string name="repair_loading_text">Caricamento…</string>
     <string name="network_diagnostics">Test di rete</string>
     <string name="btn_start_diagnostic">Avvia</string>
@@ -583,7 +582,7 @@ Contatta il tuo provider di servizi per maggiori informazioni."</string>
     <string name="network_speed_for_apps_title">Dettagli sulla velocità di connessione</string>
     <string name="network_speed_for_apps_total">Velocità di connessione</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Forzare la chiusura di questa app?</string>
-    <string name="network_speed_for_apps_close_system_app_dlg_msg">NOn è possibile forzare la chiusura delle app di sistema</string>
+    <string name="network_speed_for_apps_close_system_app_dlg_msg">Non è possibile forzare la chiusura delle app di sistema</string>
     <string name="network_speed_for_apps_close">Chiusura forzata</string>
     <string name="network_speed_for_apps_others">Altro</string>
 </resources>

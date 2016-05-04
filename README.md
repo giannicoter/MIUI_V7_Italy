@@ -4,7 +4,7 @@
 
 License of this work is covered below, for more information contact info@miui.it
 
-ITALIAN MIUIv6 Strings for MIUI ITALIA (www.miui.it) and MIUIAndroid (www.miuiandroid.com)
+ITALIAN MIUI 7 Strings for MIUI ITALIA (www.miui.it) and used by Xiaomi.eu (www.xiaomi.eu) for multi ROMs
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 

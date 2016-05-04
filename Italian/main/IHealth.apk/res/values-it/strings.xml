@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="com_sina_weibo_sdk_login_with_weibo_account">用微博登录</string>
-    <string name="com_sina_weibo_sdk_login">登录</string>
-    <string name="com_sina_weibo_sdk_logout">注销</string>
+    <string name="com_sina_weibo_sdk_login_with_weibo_account">Login con Weibo</string>
+    <string name="com_sina_weibo_sdk_login">Login</string>
+    <string name="com_sina_weibo_sdk_logout">Logout</string>
     <string name="pull_to_refresh_pull_label">Tira per aggiornare…</string>
     <string name="pull_to_refresh_release_label">Rilascia per aggiornare…</string>
     <string name="pull_to_refresh_refreshing_label">Caricamento…</string>
@@ -62,7 +62,7 @@
     <string name="user_login_signin_toast_222">已发送新的密码到您的手机，请注意查收</string>
     <string name="user_login_signin_toast_444">找回失败，请稍后重试</string>
     <string name="user_login_checkphone">请输入正确的手机号码</string>
-    <string name="user_login_proDia_message_forgotpwd">正在发送新的密码到您的手机上...</string>
+    <string name="user_login_proDia_message_forgotpwd">正在发送新的密码到您的手机上…</string>
     <string name="bpresults_title">继续测血压</string>
     <string name="bpresults_title_family">测量结果详情</string>
     <string name="bpresults_NotMe">不是我</string>
@@ -139,10 +139,10 @@
     <string name="user_register_phone_have_code_ok">提交验证码</string>
     <string name="user_register_phone_code">请输入验证码</string>
     <string name="user_register_phone_have_code_number">秒后可重新获取验证码</string>
-    <string name="user_register_proDia_message_setcode">正在验证...</string>
-    <string name="user_register_proDia_message_getcode">正在发送验证码...</string>
+    <string name="user_register_proDia_message_setcode">正在验证…</string>
+    <string name="user_register_proDia_message_getcode">正在发送验证码…</string>
     <string name="user_register_miid_done_txt">完成</string>
-    <string name="user_register_proDia_message">正在建立...</string>
+    <string name="user_register_proDia_message">正在建立…</string>
     <string name="user_register_signin_toast_203">密码与要求不符</string>
     <string name="user_register_signin_toast_201">账号已被占用</string>
     <string name="user_register_signin_toast_216">昵称为空</string>
@@ -190,8 +190,8 @@
     <string name="user_userinfo_logout_txt">是否确认退出登录？</string>
     <string name="user_userinfo_name_error">使用者名称必须介于 1-32 个字符之间</string>
     <string name="user_userinfo_proDia_title">警告</string>
-    <string name="user_userinfo_proDia_message_update">正在更新...</string>
-    <string name="user_userinfo_proDia_message_upload">正在上传...</string>
+    <string name="user_userinfo_proDia_message_update">正在更新…</string>
+    <string name="user_userinfo_proDia_message_upload">正在上传…</string>
     <string name="user_userinfo_update_toast_201">iHealth ID 已存在.</string>
     <string name="user_userinfo_update_toast_111">更新失败</string>
     <string name="user_userinfo_upload_toast_200">更新成功</string>
@@ -210,9 +210,9 @@
     <string name="user_addfriend_toast_230">好友已经存在,不能重复添加</string>
     <string name="user_addfriend_toast_233">要加的好友不存在</string>
     <string name="user_addfriend_toast_404">添加失败</string>
-    <string name="user_addfriend_toast_222">下载家人信息失败，请稍后重试...</string>
+    <string name="user_addfriend_toast_222">下载家人信息失败，请稍后重试…</string>
     <string name="user_addfriend_toast_405">确定</string>
-    <string name="user_addfriend_dia_title">正在添加，请稍后...</string>
+    <string name="user_addfriend_dia_title">正在添加，请稍后…</string>
     <string name="com.ihealth.aijiakang.utils.log">日志</string>
     <string name="settings">设置</string>
     <string name="set_alias">设置别名</string>
@@ -265,9 +265,9 @@
     <string name="dynamic_family">我家人</string>
     <string name="family_edittext">请输入备注姓名</string>
     <string name="find_family_toast_404">修改失败</string>
-    <string name="find_family_dialog_toast_222">正在修改...</string>
+    <string name="find_family_dialog_toast_222">正在修改…</string>
     <string name="bpresults_WHO_yichang">异常数据</string>
-    <string name="no_phonenember">没有识别到联系人的电话号码...</string>
+    <string name="no_phonenember">没有识别到联系人的电话号码…</string>
     <string name="msg_finddevice">找到设备</string>
     <string name="msg_createlink_success">创建usb连接成功</string>
     <string name="msg_createlink_fail">创建usb连接失败</string>
@@ -286,7 +286,7 @@
     <string name="user_userinfo_changesuccess">修改密码成功</string>
     <string name="user_userinfo_changefailed">修改密码失败</string>
     <string name="user_userinfo_changecancel">修改密码取消</string>
-    <string name="user_userinfo_submit">正在提交...</string>
+    <string name="user_userinfo_submit">正在提交…</string>
     <string name="user_userinfo_six_least">输入至少六位密码</string>
     <string name="user_userinfo_same_newpasswd">与新密码输入一致</string>
     <string name="user_userinfo_error_input">输入信息格式有误</string>
@@ -304,12 +304,12 @@
     <string name="user_bind_text_write_all">请将信息填写完整</string>
     <string name="user_bind_text_six_passwd">密码填写需不少于6位</string>
     <string name="user_bind_failed">绑定失败</string>
-    <string name="user_bind_logining_now">正在登录中...</string>
-    <string name="user_bind_now">绑定中...</string>
+    <string name="user_bind_logining_now">正在登录中…</string>
+    <string name="user_bind_now">绑定中…</string>
     <string name="lovefamily_photo_tag">相亲相爱的一家人</string>
     <string name="get_more">Altro</string>
     <string name="release_to_refresh">Rilascia per aggiornare</string>
     <string name="pull_to_refresh">Trascina per aggiornare</string>
-    <string name="refreshing">Aggiornamento...</string>
+    <string name="refreshing">Aggiornamento…</string>
     <string name="updating">Aggiornamento：</string>
 </resources>

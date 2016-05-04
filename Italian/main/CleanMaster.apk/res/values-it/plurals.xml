@@ -45,4 +45,28 @@
         <item quantity="other">%d gruppi</item>
         <item quantity="one">%d gruppo</item>
     </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Puoi rimuovere dati non importanti da %d app</item>
+        <item quantity="one">Puoi rimuovere dati non importanti da %d app</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d app installate, puoi rimuovere le app utilizzate raramente</item>
+        <item quantity="one">%d app installata, puoi rimuoverla</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Trovati %d file di grandi dimensioni, puoi rimuovere quelli non importanti</item>
+        <item quantity="one">Trovato %d file di grandi dimensioni, puoi rimuoverlo</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Trovate %d foto, puoi rimuovere quelle duplicate o ridondanti</item>
+        <item quantity="one">Trovata %d foto, puoi rimuoverla se duplicata o ridondante</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Trovati %d APK, puoi eliminare quelli non necessari.</item>
+        <item quantity="one">Trovato %d APK, puoi eliminarlo.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Trovati %d video, puoi eliminare quelli non necessari.​</item>
+        <item quantity="one">Trovato %d video, puoi eliminarlo.</item>
+    </plurals>
 </resources>

@@ -283,7 +283,7 @@
     <string name="airplane_mode">Modalità aereo</string>
     <string name="radio_controls_title">Altro…</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
-    <string name="radio_controls_summary">Gestisci Wi‑Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
+    <string name="radio_controls_summary">Gestisci Wi-Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
     <string name="roaming">Roaming dati</string>
     <string name="roaming_enable">Connessione a servizi di dati in roaming</string>
     <string name="roaming_disable">Connessione a servizi di dati in roaming</string>
@@ -523,57 +523,57 @@ Per riprendere a utilizzare il tablet devi effettuare un ripristino dei dati di 
     <string name="android_beam_explained">"Quando questa funzione è attiva, puoi trasferire contenuti di applicazioni su un altro dispositivo che supporta la tecnologia NFC tenendo vicini i due dispositivi. Puoi trasferire, ad esempio, pagine dell'applicazione Browser, video di YouTube, contatti di Persone e altri dati.È sufficiente avvicinare i dispositivi (generalmente mettendo a contatto le due parti posteriori), quindi toccare lo schermo. L'applicazione stabilisce i dati da trasferire."</string>
     <string name="nsd_quick_toggle_title">Rilevamento servizi di rete</string>
     <string name="nsd_quick_toggle_summary">Consenti alle applicazioni su altri dispositivi di scoprire applicazioni su questo dispositivo</string>
-    <string name="wifi_quick_toggle_title">Wi‑Fi</string>
-    <string name="wifi_quick_toggle_summary">Attiva Wi‑Fi</string>
-    <string name="wifi_settings">Wi‑Fi</string>
-    <string name="wifi_settings_category">Impostazioni Wi‑Fi</string>
-    <string name="wifi_settings_title">Wi‑Fi</string>
+    <string name="wifi_quick_toggle_title">Wi-Fi</string>
+    <string name="wifi_quick_toggle_summary">Attiva Wi-Fi</string>
+    <string name="wifi_settings">Wi-Fi</string>
+    <string name="wifi_settings_category">Impostazioni Wi-Fi</string>
+    <string name="wifi_settings_title">Wi-Fi</string>
     <string name="wifi_settings_summary">Configura e gestisci punti di accesso wireless</string>
-    <string name="wifi_setup_wizard_title">Seleziona Wi‑Fi</string>
-    <string name="wifi_starting">Attivazione Wi‑Fi…</string>
-    <string name="wifi_stopping">Disattivazione Wi‑Fi…</string>
+    <string name="wifi_setup_wizard_title">Seleziona Wi-Fi</string>
+    <string name="wifi_starting">Attivazione Wi-Fi…</string>
+    <string name="wifi_stopping">Disattivazione Wi-Fi…</string>
     <string name="wifi_error">Errore</string>
     <string name="wifi_in_airplane_mode">In modalità aereo</string>
     <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
     <string name="wifi_notify_open_networks">Notifica rete</string>
     <string name="wifi_notify_open_networks_summary">Avvisa quando è disponibile una rete aperta</string>
     <string name="wifi_poor_network_detection">Evita connessioni deboli</string>
-    <string name="wifi_poor_network_detection_summary">Non utilizzare una rete Wi‑Fi a meno che non abbia una buona connessione a Internet</string>
+    <string name="wifi_poor_network_detection_summary">Non utilizzare una rete Wi-Fi a meno che non abbia una buona connessione a Internet</string>
     <string name="wifi_scan_always_available">Scansione sempre disponibile</string>
     <string name="wifi_scan_always_available_summary">Consenti al servizio di geolocalizzazione di Google e ad altre app di eseguire la scansione delle reti, anche quando il Wi-Fi non è attivo</string>
     <string name="wifi_install_credentials">Installa certificati</string>
     <string name="wifi_scan_notify_text_location_on">Per una maggiore precisione nella localizzazione e altri motivi, Google e altre app sono in grado di cercare reti nelle vicinanze, anche quando la connessione Wi-Fi è disattivata. Se non desideri consentire tale ricerca, accedi ad Avanzate > Scansione sempre disponibile.</string>
     <string name="wifi_scan_notify_text_location_off">Le app possono cercare reti nelle vicinanze, anche quando la connessione Wi-Fi è disattivata. Se non desideri consentire tale ricerca, accedi ad Advanzate > Scansione sempre disponibile.</string>
     <string name="wifi_scan_notify_remember_choice">Non·mostrare·più</string>
-    <string name="wifi_setting_sleep_policy_title">Tieni attivo Wi‑Fi durante sospensione</string>
+    <string name="wifi_setting_sleep_policy_title">Tieni attivo Wi-Fi durante sospensione</string>
     <string name="wifi_setting_sleep_policy_error">"Si è verificato un problema durante la modifica dell'impostazione"</string>
-    <string name="wifi_suspend_optimizations">Ottimizzazione Wi‑Fi</string>
-    <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando Wi‑Fi è attivo"</string>
+    <string name="wifi_suspend_optimizations">Ottimizzazione Wi-Fi</string>
+    <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando Wi-Fi è attivo"</string>
     <string name="wifi_add_network">Aggiungi rete</string>
-    <string name="wifi_access_points">Reti Wi‑Fi</string>
+    <string name="wifi_access_points">Reti Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">Pulsante di comando WPS</string>
     <string name="wifi_menu_more_options">Altre opzioni</string>
     <string name="wifi_menu_wps_pin">Inserimento PIN WPS</string>
-    <string name="wifi_menu_p2p">Wi‑Fi Direct</string>
+    <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_scan">Scansione</string>
     <string name="wifi_menu_advanced">Avanzate</string>
     <string name="wifi_menu_connect">Connetti alla rete</string>
     <string name="wifi_menu_forget">Elimina rete</string>
     <string name="wifi_menu_modify">Modifica rete</string>
-    <string name="wifi_empty_list_wifi_off">Per visualizzare le reti disponibili, attiva Wi‑Fi.</string>
-    <string name="wifi_empty_list_wifi_on">Ricerca reti Wi‑Fi in corso…</string>
+    <string name="wifi_empty_list_wifi_off">Per visualizzare le reti disponibili, attiva Wi-Fi.</string>
+    <string name="wifi_empty_list_wifi_on">Ricerca reti Wi-Fi in corso…</string>
     <string name="wifi_empty_list_user_restricted">"Non disponi dell'autorizzazione per cambiare la rete Wi-Fi."</string>
     <string name="wifi_other_network">Altra rete…</string>
     <string name="wifi_more">Altro</string>
     <string name="wifi_setup_wps">Configurazione auto (WPS)</string>
-    <string name="wifi_required_info_text">Per poter completare la configurazione, il tablet deve poter accedere a una rete Wi‑Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi‑Fi e viceversa.</string>
+    <string name="wifi_required_info_text">Per poter completare la configurazione, il tablet deve poter accedere a una rete Wi-Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi-Fi e viceversa.</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
-    <string name="wifi_wps_setup_title">Wi‑Fi Protected Setup</string>
+    <string name="wifi_wps_setup_title">Wi-Fi Protected Setup</string>
     <string name="wifi_wps_setup_msg">Avvvio WPS…</string>
-    <string name="wifi_wps_onstart_pbc">Premi il pulsante Wi‑Fi Protected Setup del router. Il pulsante potrebbe essere denominato \"WPS\" o contenere questo simbolo:</string>
-    <string name="wifi_wps_onstart_pin">Inserisci il PIN %1$s sul router Wi‑Fi. Il completamento della configurazione può richiedere fino a due minuti.</string>
+    <string name="wifi_wps_onstart_pbc">Premi il pulsante Wi-Fi Protected Setup del router. Il pulsante potrebbe essere denominato \"WPS\" o contenere questo simbolo:</string>
+    <string name="wifi_wps_onstart_pin">Inserisci il PIN %1$s sul router Wi-Fi. Il completamento della configurazione può richiedere fino a due minuti.</string>
     <string name="wifi_wps_complete">Configurazione WPS riuscita. Connessione alla rete…</string>
-    <string name="wifi_wps_connected">Connesso alla rete Wi‑Fi %s</string>
+    <string name="wifi_wps_connected">Connesso alla rete Wi-Fi %s</string>
     <string name="wifi_wps_in_progress">La configurazione WPS è già in corso e il completamento può richiedere fino a due minuti</string>
     <string name="wifi_wps_failed_generic">Configurazione WPS non riuscita. Riprova tra qualche minuto.</string>
     <string name="wifi_wps_failed_wep">"L'impostazione di sicurezza del router wireless (WEP) non è supportata"</string>
@@ -627,9 +627,9 @@ Consetirlo a tutte le app che vogliono eseguire la ricerca?"</string>
 
 La configurazione del tablet può richiedere notevole attività di rete."</string>
     <string name="wifi_and_mobile_skipped_message">AVVISO. Finché non disporrai di una connessione Internet, il tablet non sarà in grado di verificare che il software sia aggiornato.</string>
-    <string name="wifi_connect_failed_message">Impossibile collegare il tablet alla rete Wi‑Fi.</string>
-    <string name="wifi_advanced_titlebar">Wi‑Fi avanzate</string>
-    <string name="wifi_setting_frequency_band_title">Banda di frequenza Wi‑Fi</string>
+    <string name="wifi_connect_failed_message">Impossibile collegare il tablet alla rete Wi-Fi.</string>
+    <string name="wifi_advanced_titlebar">Wi-Fi avanzate</string>
+    <string name="wifi_setting_frequency_band_title">Banda di frequenza Wi-Fi</string>
     <string name="wifi_setting_frequency_band_summary">Specifica campo di frequenza di funzionamento</string>
     <string name="wifi_setting_frequency_band_error">Errore di impostazione della banda di frequenza.</string>
     <string name="wifi_advanced_mac_address_title">Indirizzo MAC</string>
@@ -647,7 +647,7 @@ La configurazione del tablet può richiedere notevole attività di rete."</strin
     
     <string name="wifi_network_prefix_length">Lunghezza prefisso rete</string>
     
-    <string name="wifi_p2p_settings_title">Wi‑Fi Direct</string>
+    <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_device_info">Informazioni dispositivo</string>
     <string name="wifi_p2p_persist_network">Memorizza questa connessione</string>
     <string name="wifi_p2p_menu_search">Cerca dispositivi</string>
@@ -663,13 +663,13 @@ La configurazione del tablet può richiedere notevole attività di rete."</strin
     <string name="wifi_p2p_cancel_connect_title">"Annullare l'invito?"</string>
     <string name="wifi_p2p_cancel_connect_message">"Vuoi annullare l'invito a connettersi con %1$s?"</string>
     <string name="wifi_p2p_delete_group_message">Eliminare questo gruppo?</string>
-    <string name="wifi_tether_checkbox_text">Hotspot Wi‑Fi portatile</string>
+    <string name="wifi_tether_checkbox_text">Hotspot Wi-Fi portatile</string>
     <string name="wifi_tether_starting">Attivazione hotspot…</string>
     <string name="wifi_tether_stopping">Disattivazione hotspot…</string>
     <string name="wifi_tether_enabled_subtext">Hotspot portatile %1$s attivo</string>
-    <string name="wifi_tether_failed_subtext">Errore hotspot Wi‑Fi portatile</string>
-    <string name="wifi_tether_configure_ap_text">Configura hotspot Wi‑Fi</string>
-    <string name="wifi_tether_configure_subtext">Hotspot Wi‑Fi %1$s %2$s portatile</string>
+    <string name="wifi_tether_failed_subtext">Errore hotspot Wi-Fi portatile</string>
+    <string name="wifi_tether_configure_ap_text">Configura hotspot Wi-Fi</string>
+    <string name="wifi_tether_configure_subtext">Hotspot Wi-Fi %1$s %2$s portatile</string>
     <string name="wifi_tether_configure_ssid_default">HotspotAndroid</string>
     <string name="home_settings">Home page</string>
     <string name="display_settings_title">Display</string>
@@ -798,7 +798,7 @@ Il PIN potrebbe essere errato."</string>
     <string name="status_signal_strength">Intensità segnale</string>
     <string name="status_roaming">Roaming</string>
     <string name="status_operator">Rete</string>
-    <string name="status_wifi_mac_address">Indirizzo MAC Wi‑Fi</string>
+    <string name="status_wifi_mac_address">Indirizzo MAC Wi-Fi</string>
     <string name="status_bt_address">Indirizzo Bluetooth</string>
     <string name="status_serial_number">Numero di serie</string>
     <string name="status_unavailable">Non disponibile</string>
@@ -971,9 +971,9 @@ Per cancellare musica, foto e altri dati dell'utente, è necessario cancellare i
     <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e mobili per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
     <string name="location_loading_injected_setting">Recupero…</string>
-    <string name="location_network_based">Posizione Wi‑Fi e rete mobile</string>
+    <string name="location_network_based">Posizione Wi-Fi e rete mobile</string>
     <string name="location_neighborhood_level">Consenti alle app di usare localizzazione Google per stabilire la tua posizione. Saranno raccolti e inviati a Google dati anonimi.</string>
-    <string name="location_neighborhood_level_wifi">Posizione determinata da Wi‑Fi</string>
+    <string name="location_neighborhood_level_wifi">Posizione determinata da Wi-Fi</string>
     <string name="location_gps">Satelliti GPS</string>
     <string name="location_street_level">Consenti alle applicazioni di utilizzare il GPS del tablet per individuare la tua posizione</string>
     <string name="assisted_gps">Utilizza GPS assistito</string>
@@ -1330,15 +1330,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_system_title">Sistema</string>
     <string name="accessibility_captioning_title">Sottotitoli</string>
     <string name="accessibility_screen_magnification_title">Gesti di ingrandimento</string>
-    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.
-
-Dopo avere aumentato lo zoom puoi:
-"<li><ul>"Eseguire una panoramica: trascina due o più dita sullo schermo.
-"<li>Regolare il livello di zoom: unisci due o più dita come per fare un pizzicotto o allontanale.</li></ul></li>"
-
-Puoi anche ingrandire temporaneamente l'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.
-
-Nota. Il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
+    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.\n\nDopo avere aumentato lo zoom puoi:\n"<ul><li>"Eseguire una panoramica: trascina due o più dita sullo schermo."</li>\n<li>"Regolare il livello di zoom: unisci due o più dita come per fare un pizzicotto o allontanale."</li></ul>\n\n"Puoi anche ingrandire temporaneamente l\'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.\n\nNota. Il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
     <string name="accessibility_global_gesture_preference_title">Collegamento Accessibilità</string>
     <string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
     <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
@@ -1433,12 +1425,12 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_stats_charging_label">In carica</string>
     <string name="battery_stats_screen_on_label">Schermo acceso</string>
     <string name="battery_stats_gps_on_label">GPS attivato</string>
-    <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
+    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Attivato</string>
     <string name="battery_stats_phone_signal_label">Segnale rete mobile</string>
     <string name="awake">Tempo di attività dispositivo</string>
-    <string name="wifi_on_time">Tempo accensione Wi‑Fi</string>
-    <string name="bluetooth_on_time">Tempo accensione Wi‑Fi</string>
+    <string name="wifi_on_time">Tempo accensione Wi-Fi</string>
+    <string name="bluetooth_on_time">Tempo accensione Wi-Fi</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>
     <string name="history_details_title">Dettagli utilizzo batteria</string>
     <string name="details_title">Dettagli di utilizzo</string>
@@ -1446,7 +1438,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="controls_subtitle">Regola consumo alimentazione</string>
     <string name="packages_subtitle">Pacchetti inclusi</string>
     <string name="power_screen">Schermo</string>
-    <string name="power_wifi">Wi‑Fi</string>
+    <string name="power_wifi">Wi-Fi</string>
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_cell">Cellulare in standby</string>
     <string name="power_phone">Chiamate vocali</string>
@@ -1455,7 +1447,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="usage_type_cpu_foreground">CPU in primo piano</string>
     <string name="usage_type_wake_lock">Mantieni attivo</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="usage_type_wifi_running">Wi‑Fi attivo</string>
+    <string name="usage_type_wifi_running">Wi-Fi attivo</string>
     <string name="usage_type_phone">Tablet</string>
     <string name="usage_type_data_send">Dati mobili inviati</string>
     <string name="usage_type_data_recv">Dati mobili ricevuti</string>
@@ -1469,7 +1461,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_action_app_details">Informazioni applicazione</string>
     <string name="battery_action_app_settings">Impostazioni applicazioni</string>
     <string name="battery_action_display">Impostazioni schermo</string>
-    <string name="battery_action_wifi">Impostazioni Wi‑Fi</string>
+    <string name="battery_action_wifi">Impostazioni Wi-Fi</string>
     <string name="battery_action_bluetooth">Impostazioni Bluetooth</string>
     <string name="battery_desc_voice">Batteria utilizzata da chiamate vocali</string>
     <string name="battery_desc_standby">Utilizzo batteria quando il tablet è inattivo</string>
@@ -1477,8 +1469,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_sugg_radio">Passa a modalità in volo per ridurre i consumi nelle aree senza copertura cellulare</string>
     <string name="battery_desc_display">Batteria utilizzata da display e retroilluminazione</string>
     <string name="battery_sugg_display">Riduci la luminosità e/o il timeout dello schermo</string>
-    <string name="battery_desc_wifi">Batteria utilizzata da Wi‑Fi</string>
-    <string name="battery_sugg_wifi">Disattiva Wi‑Fi quando non è in uso o non è disponibile</string>
+    <string name="battery_desc_wifi">Batteria utilizzata da Wi-Fi</string>
+    <string name="battery_sugg_wifi">Disattiva Wi-Fi quando non è in uso o non è disponibile</string>
     <string name="battery_desc_bluetooth">Batteria utilizzata da Bluetooth</string>
     <string name="battery_sugg_bluetooth_basic">Disattiva Bluetooth quando non è in uso</string>
     <string name="battery_sugg_bluetooth_headset">Prova a connetterti a un altro dispositivo Bluetooth</string>
@@ -1572,14 +1564,14 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="tts_engine_preference_section_title">Motore preferito</string>
     <string name="tts_general_section_title">Generali</string>
     <string name="gadget_title">Controllo risparmio energia</string>
-    <string name="gadget_toggle_wifi">Aggiornamento impostazione Wi‑Fi</string>
+    <string name="gadget_toggle_wifi">Aggiornamento impostazione Wi-Fi</string>
     <string name="gadget_toggle_bluetooth">Aggiornamento impostazione Bluetooth</string>
     <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">Attivato</string>
     <string name="gadget_state_off">Disattivato</string>
     <string name="gadget_state_turning_on">Attivazione</string>
     <string name="gadget_state_turning_off">Disattivazione</string>
-    <string name="gadget_wifi">Wi‑Fi</string>
+    <string name="gadget_wifi">Wi-Fi</string>
     <string name="gadget_bluetooth">Bluetooth</string>
     <string name="gadget_location">Posizione</string>
     <string name="gadget_sync">Sincronizzazione</string>
@@ -1632,7 +1624,7 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="local_backup_password_toast_confirmation_mismatch">Le password inserite non corrispondono</string>
     <string name="local_backup_password_toast_validation_failure">Impossibile impostare la password di backup</string>
     <string name="backup_erase_dialog_title" />
-    <string name="backup_erase_dialog_message">Interrompere il backup delle password Wi‑Fi, dei segnalibri, di altre impostazioni e dei dati delle app, oltre a cancellare tutte le copie sui server di Google?</string>
+    <string name="backup_erase_dialog_message">Interrompere il backup delle password Wi-Fi, dei segnalibri, di altre impostazioni e dei dati delle app, oltre a cancellare tutte le copie sui server di Google?</string>
     <string name="device_admin_settings_title">Impostazioni di amministrazione dispositivo</string>
     <string name="active_device_admin_msg">Amministratore dispositivo</string>
     <string name="remove_device_admin">Disattiva</string>
@@ -1648,10 +1640,10 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="sound_category_notification_title">Notifiche</string>
     <string name="sound_category_call_ringtone_vibrate_title">Suoneria e vibrazione chiamata</string>
     <string name="sound_category_system_title">Sistema</string>
-    <string name="wifi_setup_title">Impostazione Wi‑Fi</string>
-    <string name="wifi_setup_title_editing_network">Connetti alla rete Wi‑Fi %s</string>
-    <string name="wifi_setup_title_connecting_network">Connessione alla rete Wi‑Fi %s…</string>
-    <string name="wifi_setup_title_connected_network">Connesso alla rete Wi‑Fi %s</string>
+    <string name="wifi_setup_title">Impostazione Wi-Fi</string>
+    <string name="wifi_setup_title_editing_network">Connetti alla rete Wi-Fi %s</string>
+    <string name="wifi_setup_title_connecting_network">Connessione alla rete Wi-Fi %s…</string>
+    <string name="wifi_setup_title_connected_network">Connesso alla rete Wi-Fi %s</string>
     <string name="wifi_setup_title_add_network">Aggiungi una rete</string>
     <string name="wifi_setup_not_connected">Non connesso</string>
     <string name="wifi_setup_add_network">Aggiungi rete</string>
@@ -1667,17 +1659,17 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="wifi_setup_status_scanning">Ricerca reti…</string>
     <string name="wifi_setup_status_select_network">Tocca una rete per collegarti</string>
     <string name="wifi_setup_status_existing_network">Connetti a rete esistente</string>
-    <string name="wifi_setup_status_unsecured_network">Collegati a rete non protetta</string>
+    <string name="wifi_setup_status_unsecured_network">Collegato a rete non protetta</string>
     <string name="wifi_setup_status_edit_network">Digita configurazione di rete</string>
     <string name="wifi_setup_status_new_network">Connetti a nuova rete</string>
     <string name="wifi_setup_status_connecting">Connessione…</string>
     <string name="wifi_setup_status_proceed_to_next">Vai al passaggio successivo</string>
     <string name="wifi_setup_status_eap_not_supported">EAP non è supportato.</string>
-    <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi‑Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti."</string>
+    <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi-Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti."</string>
     <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto…</string>
     <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per continuare con la configurazione.
 
-Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi‑Fi."</string>
+Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
     <string name="accessibility_sync_enabled">Sincronizzazione abilitata</string>
     <string name="accessibility_sync_disabled">Sincronizzazione disabilata</string>
     <string name="accessibility_sync_error">Errore di sincronizzazione.</string>
@@ -1785,7 +1777,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_menu_roaming">Roaming dei dati</string>
     <string name="data_usage_menu_restrict_background">Limita dati in background</string>
     <string name="data_usage_menu_split_4g">Separa utilizzo 4G</string>
-    <string name="data_usage_menu_show_wifi">Mostra utilizzo Wi‑Fi</string>
+    <string name="data_usage_menu_show_wifi">Mostra utilizzo Wi-Fi</string>
     <string name="data_usage_menu_show_ethernet">Mostra utilizzo Ethernet</string>
     <string name="data_usage_menu_metered">Hotspot mobili</string>
     <string name="data_usage_menu_auto_sync">Sincronizzazione automatica dei dati</string>
@@ -1799,8 +1791,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_disable_mobile_limit">Imposta limite dati mobili</string>
     <string name="data_usage_disable_4g_limit">Imposta limite dati 4G</string>
     <string name="data_usage_disable_3g_limit">Imposta limite dati 2G-3G</string>
-    <string name="data_usage_disable_wifi_limit">Imposta limite dati Wi‑Fi</string>
-    <string name="data_usage_tab_wifi">Wi‑Fi</string>
+    <string name="data_usage_disable_wifi_limit">Imposta limite dati Wi-Fi</string>
+    <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
     <string name="data_usage_tab_mobile">Mobili</string>
     <string name="data_usage_tab_4g">4G</string>
@@ -1837,8 +1829,8 @@ Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni accou
 
 Dato che l'utilizzo dei dati è misurato dal tuo tablet e che il tuo operatore potrebbe tenere conto dell'utilizzo in modo diverso, è consigliabile utilizzare un limite conservativo."</string>
     <string name="data_usage_restrict_background_title">Limitare i dati in background?</string>
-    <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.
+    <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.</string>
+    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.
 
 Questa impostazione influisce su tutti gli utenti di questo tablet."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
@@ -1851,10 +1843,10 @@ Questa impostazione influisce su tutti gli utenti di questo tablet."</string>
     <string name="data_usage_total_during_range">%2$s: utilizzati circa %1$s.</string>
     <string name="data_usage_total_during_range_mobile">"%2$s: utilizzati quasi %1$s, misurati dal tablet. I dati possono differire da quelli dell'operatore."</string>
     <string name="data_usage_metered_title">Hotspot mobili</string>
-    <string name="data_usage_metered_body">"Seleziona le reti Wi‑Fi che sono hotspot mobili. Alle app può essere impedito l'uso di queste reti quando in background. Le app potrebbero inoltre avvisarti prima che utilizzi queste reti per download di grandi dimensioni."</string>
+    <string name="data_usage_metered_body">"Seleziona le reti Wi-Fi che sono hotspot mobili. Alle app può essere impedito l'uso di queste reti quando in background. Le app potrebbero inoltre avvisarti prima che utilizzi queste reti per download di grandi dimensioni."</string>
     <string name="data_usage_metered_mobile">Reti mobili</string>
-    <string name="data_usage_metered_wifi">Reti Wi‑Fi</string>
-    <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili, attiva il Wi‑Fi.</string>
+    <string name="data_usage_metered_wifi">Reti Wi-Fi</string>
+    <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili, attiva il Wi-Fi.</string>
     <string name="cryptkeeper_emergency_call">Chiamata di emergenza</string>
     <string name="cryptkeeper_return_to_call">Torna a chiamata</string>
     <string name="vpn_name">Nome</string>
@@ -1941,7 +1933,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
     <string name="user_add_user_item_title">Utente</string>
     <string name="user_add_profile_item_title">Profilo con limitazioni</string>
     <string name="user_add_user_title">Aggiungi nuovo utente</string>
-    <string name="user_add_user_message_long">"Puoi condividere il dispositivo con altre persone creando altri utenti. Ogni utente ha un proprio spazio personalizzabile con app, sfondo e così via. Gli utenti possono anche regolare le impostazioni del tablet, come il Wi‑Fi, che riguardano tutti.
+    <string name="user_add_user_message_long">"Puoi condividere il dispositivo con altre persone creando altri utenti. Ogni utente ha un proprio spazio personalizzabile con app, sfondo e così via. Gli utenti possono anche regolare le impostazioni del tablet, come il Wi-Fi, che riguardano tutti.
 
 Dopo la creazione di un nuovo utente, la persona in questione deve svolgere una procedura di configurazione.
 
@@ -1997,8 +1989,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="user_restrictions_controlled_by">Controllate da %1$s</string>
     <string name="app_not_supported_in_limited">Questa app non è supportata nei profili con limitazioni</string>
     <string name="app_sees_restricted_accounts">Questa app può accedere ai tuoi account</string>
-    <string name="restriction_wifi_config_title">Wi‑Fi e mobile</string>
-    <string name="restriction_wifi_config_summary">Consenti la modifica di impostazioni Wi‑Fi e rete mobile</string>
+    <string name="restriction_wifi_config_title">Wi-Fi e mobile</string>
+    <string name="restriction_wifi_config_summary">Consenti la modifica di impostazioni Wi-Fi e rete mobile</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
     <string name="restriction_bluetooth_config_summary">Consenti la modifica di impostazioni e accoppiamenti Bluetooth</string>
     <string name="restriction_nfc_enable_title">NFC</string>
@@ -2224,7 +2216,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="pref_operational_key">Tasto funzionale</string>
     <string name="pref_button_light">Luce tasti</string>
     <string name="pref_button_light_summary">Indicatore tasti Menu, Home e Indietro</string>
-    <string name="button_light_timeout">Impostazione luce tasti</string>
+    <string name="button_light_timeout">Retroilluminazione tasti</string>
+	<string name="battery_light_title">Led quando sei in carica</string>
     <string name="headset_settings">Cuffie</string>
     <string name="headset_function">Funzione del pulsante</string>
     <string name="headset_mode_volume">Controllo livello volume</string>

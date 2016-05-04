@@ -1,19 +1,18 @@
-version: 3.0.1-BZ
+version: 3.0.9-bz
 apkFileName: NetworkAssistant2.apk
 isFrameworkApk: false
 usesFramework:
   ids:
   - 1
-  - 16
   - 18
 sdkInfo:
   minSdkVersion: '16'
-  targetSdkVersion: '19'
+  targetSdkVersion: '21'
 packageInfo:
   forced-package-id: '127'
 versionInfo:
-  versionCode: '41210'
-  versionName: V6_4.12.10
+  versionCode: '51105'
+  versionName: V7.5.11.5
 sharedLibrary: false
 doNotCompress:
-- resources.arsc
+- arsc

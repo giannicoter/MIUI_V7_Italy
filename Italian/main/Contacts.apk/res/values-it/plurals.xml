@@ -129,4 +129,8 @@
         <item quantity="other">%d contatti non sono stati sincronizzati</item>
         <item quantity="one">1 contatto non è stato sincronizzato</item>
     </plurals>
+     <plurals name="number_of_items_available">
+        <item quantity="other">%1$d rimanenti</item>
+        <item quantity="one">%1$d rimanente</item>
+    </plurals>
 </resources>

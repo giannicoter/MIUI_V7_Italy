@@ -201,6 +201,7 @@
     <string name="msglist_more_refreshing">Aggiornamento…</string>
     <string name="msglist_no_more_to_refresh">Già aggiornato</string>
     <string name="view_hms_details">Dettagli</string>
+    <string name="view_hms_details_download">Download</string>
     <string name="xiaomi_service_number">Numero servizio</string>
     <string name="retrive_hms_tips">Aggiornamento…</string>
     <string name="share_img">Condivede</string>

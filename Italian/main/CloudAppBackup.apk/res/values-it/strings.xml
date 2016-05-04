@@ -59,14 +59,14 @@
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="self_phone">Questo dispositivo</string>
     <string name="process_whole_recovery">Ripristino da \"%s\"</string>
-    <string name="device_xiaomi">Mi Phone</string>
+    <string name="device_xiaomi">Dispositivo Xiaomi</string>
     <string name="miui_device_name">Android</string>
     <string name="backup_immediately">Esegui backup ora</string>
     <string name="app_installed">Installata</string>
     <string name="app_not_installed">Disinstallata</string>
     <string name="stop_backup">Ferma</string>
-    <string name="already_enable_backup">Backup già abilitato per questo dispositivo</string>
-    <string name="already_disable_backup">Backup già disabilitato per questo dispositivo</string>
+    <string name="already_enable_backup">Backup già attivato su questo dispositivo</string>
+    <string name="already_disable_backup">Backup già disattivato su questo dispositivo</string>
     <string name="enable_backup">Abilita</string>
     <string name="disable_backup">Disabilita</string>
     <string name="dialog_disable_backup">Disabilita backup</string>
@@ -111,8 +111,8 @@
     <string name="cloud_app_backup_already">" è stato salvato"</string>
     <string name="explantion_of_data_size">Spazio risparmiato utilizzando Mi App Market</string>
     <string name="about_cloud_app_backup">Informazioni backup</string>
-    <string name="download_settings">Download impostazioni Homescreen</string>
-    <string name="recover_settings">Ripristina impostazioni Homescreen</string>
+    <string name="download_settings">Download impostazioni Schermata Home</string>
+    <string name="recover_settings">Ripristina impostazioni Schermata Home</string>
     <string name="cancel_recover_settings"><u>Annulla</u></string>
     <string name="recover_settings_description">Mantieni il dispositivo acceso</string>
 </resources>

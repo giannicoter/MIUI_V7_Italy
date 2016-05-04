@@ -577,7 +577,7 @@
     <string name="airplane_mode">Modalità aereo</string>
     <string name="radio_controls_title">Impostazioni aggiuntive</string>
     <string name="wireless_networks_settings_title">Wireless e reti</string>
-    <string name="radio_controls_summary">Gestisci Wi‑Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
+    <string name="radio_controls_summary">Gestisci Wi-Fi, Bluetooth, modalità aereo, reti mobili e VPN</string>
     <string name="roaming">Roaming dati</string>
     <string name="roaming_enable">Connessione a servizi di dati in roaming</string>
     <string name="roaming_disable">Connessione a servizi di dati in roaming</string>
@@ -842,7 +842,7 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_setting_sleep_policy_title">Tieni attivo Wi-Fi durante sospensione</string>
     <string name="wifi_setting_sleep_policy_error">"Si è verificato un problema durante la modifica dell'impostazione"</string>
     <string name="wifi_suspend_optimizations">Ottimizzazione Wi-Fi</string>
-    <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando Wi‑Fi è attivo"</string>
+    <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando Wi-Fi è attivo"</string>
     <string name="wifi_add_network">Aggiungi rete</string>
     <string name="wifi_access_points">Reti Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">Pulsante di comando WPS</string>
@@ -860,7 +860,7 @@ Per riprendere a utilizzare il dispositivo devi effettuare un ripristino dei dat
     <string name="wifi_other_network">Altra rete…</string>
     <string name="wifi_more">Altro</string>
     <string name="wifi_setup_wps">Configurazione auto (WPS)</string>
-    <string name="wifi_required_info_text">Per poter completare la configurazione, il dispositivo deve poter accedere a una rete Wi‑Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi‑Fi e viceversa.</string>
+    <string name="wifi_required_info_text">Per poter completare la configurazione, il dispositivo deve poter accedere a una rete Wi-Fi. Dopo la configurazione potrai passare dalla rete di dati mobili alla rete Wi-Fi e viceversa.</string>
     <string name="wifi_show_advanced">Mostra opzioni avanzate</string>
     <string name="wifi_wps_setup_title">Imposta protezione Wi-Fi</string>
     <string name="wifi_wps_setup_msg">Avvio WPS…</string>
@@ -923,7 +923,7 @@ La configurazione del dispositivo può richiedere notevole attività di rete."</
     <string name="wifi_and_mobile_skipped_message">AVVISO. Finché non disporrai di una connessione internet, il dispositivo non sarà in grado di verificare che il software sia aggiornato.</string>
     <string name="wifi_connect_failed_message">Impossibile collegare il dispositivo alla rete Wi-Fi.</string>
     <string name="wifi_advanced_titlebar">Wi-Fi avanzate</string>
-    <string name="wifi_setting_frequency_band_title">Banda di frequenza Wi‑Fi</string>
+    <string name="wifi_setting_frequency_band_title">Banda di frequenza Wi-Fi</string>
     <string name="wifi_setting_frequency_band_summary">Specifica campo di frequenza di funzionamento</string>
     <string name="wifi_setting_frequency_band_error">Errore di impostazione della banda di frequenza.</string>
     <string name="wifi_advanced_mac_address_title">Indirizzo MAC</string>
@@ -1292,9 +1292,9 @@ Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i da
     <string name="location_mode_battery_saving_description">Usa reti Wi-Fi e mobili per stabilire la posizione</string>
     <string name="location_mode_sensors_only_description">Usa GPS per stabilire la posizione</string>
     <string name="location_loading_injected_setting">Recupero…</string>
-    <string name="location_network_based">Posizione Wi‑Fi e rete mobile</string>
+    <string name="location_network_based">Posizione Wi-Fi e rete mobile</string>
     <string name="location_neighborhood_level">Consenti alle app di usare localizzazione Google per stabilire la tua posizione. Saranno raccolti e inviati a Google dati anonimi.</string>
-    <string name="location_neighborhood_level_wifi">Posizione determinata da Wi‑Fi</string>
+    <string name="location_neighborhood_level_wifi">Posizione determinata da Wi-Fi</string>
     <string name="location_gps">Satelliti GPS</string>
     <string name="location_street_level">Consenti alle applicazioni di utilizzare il GPS per individuare la tua posizione</string>
     <string name="assisted_gps">Utilizza GPS assistito</string>
@@ -1652,15 +1652,7 @@ Alcune applicazioni potrebbero non funzionare fino all'aggiornamento da parte de
     <string name="accessibility_system_title">Sistema</string>
     <string name="accessibility_captioning_title">Sottotitoli</string>
     <string name="accessibility_screen_magnification_title">Gesti di ingrandimento</string>
-    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.
-
-Dopo avere aumentato lo zoom puoi:
-"<li><ul>"Eseguire una panoramica: trascina due o più dita sullo schermo.
-"<li>Regolare il livello di zoom: unisci due o più dita come per fare un pizzicotto o allontanale.</li></ul></li>"
-
-Puoi anche ingrandire temporaneamente l'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.
-
-Nota. Il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
+    <string name="accessibility_screen_magnification_summary">"Quando questa funzione è attiva puoi aumentare e diminuire lo zoom toccando tre volte lo schermo.\n\nDopo avere aumentato lo zoom puoi:\n"<ul><li>"Eseguire una panoramica: trascina due o più dita sullo schermo."</li>\n<li>"Regolare il livello di zoom: unisci due o più dita come per fare un pizzicotto o allontanale."</li></ul>\n\n"Puoi anche ingrandire temporaneamente l\'area su cui hai il dito toccando tre volte e tenendo premuto. Nello stato ingrandito puoi trascinare il dito per esaminare parti diverse dello schermo. Solleva il dito per tornare allo stato precedente.\n\nNota. Il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera e la barra di navigazione."</string>
     <string name="accessibility_global_gesture_preference_title">Collegamento Accessibilità</string>
     <string name="accessibility_global_gesture_preference_summary_on">Attivato</string>
     <string name="accessibility_global_gesture_preference_summary_off">Disattivato</string>
@@ -1760,8 +1752,8 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="battery_stats_wake_lock_label">Attivato</string>
     <string name="battery_stats_phone_signal_label">Segnale rete mobile</string>
     <string name="awake">Tempo di attività dispositivo</string>
-    <string name="wifi_on_time">Tempo accensione Wi‑Fi</string>
-    <string name="bluetooth_on_time">Tempo accensione Wi‑Fi</string>
+    <string name="wifi_on_time">Tempo accensione Wi-Fi</string>
+    <string name="bluetooth_on_time">Tempo accensione Wi-Fi</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>
     <string name="history_details_title">Dettagli utilizzo batteria</string>
     <string name="details_title">Dettagli di utilizzo</string>
@@ -1990,13 +1982,13 @@ Se sul dispositivo sono configurati più utenti e utilizzi questa scorciatoia ne
     <string name="wifi_setup_status_scanning">Ricerca reti…</string>
     <string name="wifi_setup_status_select_network">Tocca una rete per collegarti</string>
     <string name="wifi_setup_status_existing_network">Connetti a rete esistente</string>
-    <string name="wifi_setup_status_unsecured_network">Collegati a rete non protetta</string>
+    <string name="wifi_setup_status_unsecured_network">Collegato a rete non protetta</string>
     <string name="wifi_setup_status_edit_network">Digita configurazione di rete</string>
     <string name="wifi_setup_status_new_network">Connetti a nuova rete</string>
     <string name="wifi_setup_status_connecting">Connessione…</string>
     <string name="wifi_setup_status_proceed_to_next">Vai al passaggio successivo</string>
     <string name="wifi_setup_status_eap_not_supported">EAP non è supportato.</string>
-    <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi‑Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti."</string>
+    <string name="wifi_setup_eap_not_supported">"Impossibile configurare una connessione Wi-Fi EAP durante l'impostazione. Dopo l'impostazione potrai configurarla nella sezione Impostazioni > Wireless e reti."</string>
     <string name="wifi_setup_description_connecting">La connessione può richiedere qualche minuto…</string>
     <string name="wifi_setup_description_connected">Tocca <b>Avanti</b>" per continuare con la configurazione.
 
@@ -2108,7 +2100,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_menu_roaming">Roaming dei dati</string>
     <string name="data_usage_menu_restrict_background">Limita dati in background</string>
     <string name="data_usage_menu_split_4g">Separa utilizzo 4G</string>
-    <string name="data_usage_menu_show_wifi">Mostra utilizzo Wi‑Fi</string>
+    <string name="data_usage_menu_show_wifi">Mostra utilizzo Wi-Fi</string>
     <string name="data_usage_menu_show_ethernet">Mostra utilizzo Ethernet</string>
     <string name="data_usage_menu_metered">Hotspot mobili</string>
     <string name="data_usage_menu_auto_sync">Sincronizzazione automatica dei dati</string>
@@ -2122,7 +2114,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
     <string name="data_usage_disable_mobile_limit">Imposta limite dati mobili</string>
     <string name="data_usage_disable_4g_limit">Imposta limite dati 4G</string>
     <string name="data_usage_disable_3g_limit">Imposta limite dati 2G-3G</string>
-    <string name="data_usage_disable_wifi_limit">Imposta limite dati Wi‑Fi</string>
+    <string name="data_usage_disable_wifi_limit">Imposta limite dati Wi-Fi</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
     <string name="data_usage_tab_mobile">Mobili</string>
@@ -2160,8 +2152,8 @@ Per scegliere quali tipi di informazioni sincronizzare all'interno di ogni accou
 
 Dato che l'utilizzo dei dati è misurato dal tuo dispositivo e che il tuo operatore potrebbe tenere conto dell'utilizzo in modo diverso, è consigliabile utilizzare un limite conservativo."</string>
     <string name="data_usage_restrict_background_title">Limitare i dati in background?</string>
-    <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi‑Fi.
+    <string name="data_usage_restrict_background">Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.</string>
+    <string name="data_usage_restrict_background_multiuser">"Se limiti i dati mobili in background, alcuni servizi e app non funzioneranno senza connessione a una rete Wi-Fi.
 
 Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
     <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
@@ -2174,10 +2166,10 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="data_usage_total_during_range">%2$s: utilizzati circa %1$s.</string>
     <string name="data_usage_total_during_range_mobile">"%2$s: utilizzati quasi %1$s, misurati dal dispositivo. I dati possono differire da quelli dell'operatore."</string>
     <string name="data_usage_metered_title">Hotspot mobili</string>
-    <string name="data_usage_metered_body">"Seleziona le reti Wi‑Fi che sono hotspot mobili. Alle app può essere impedito l'uso di queste reti quando in background. Le app potrebbero inoltre avvisarti prima che utilizzi queste reti per download di grandi dimensioni."</string>
+    <string name="data_usage_metered_body">"Seleziona le reti Wi-Fi che sono hotspot mobili. Alle app può essere impedito l'uso di queste reti quando in background. Le app potrebbero inoltre avvisarti prima che utilizzi queste reti per download di grandi dimensioni."</string>
     <string name="data_usage_metered_mobile">Reti mobili</string>
-    <string name="data_usage_metered_wifi">Reti Wi‑Fi</string>
-    <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili, attiva il Wi‑Fi.</string>
+    <string name="data_usage_metered_wifi">Reti Wi-Fi</string>
+    <string name="data_usage_metered_wifi_disabled">Per selezionare hotspot mobili, attiva il Wi-Fi.</string>
     <string name="cryptkeeper_emergency_call">Chiamata di emergenza</string>
     <string name="cryptkeeper_return_to_call">Torna a chiamata</string>
     <string name="vpn_name">Nome</string>
@@ -2264,7 +2256,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
     <string name="user_add_user_item_title">Utente</string>
     <string name="user_add_profile_item_title">Profilo con limitazioni</string>
     <string name="user_add_user_title">Aggiungi nuovo utente</string>
-    <string name="user_add_user_message_long">"Puoi condividere il dispositivo con altre persone creando altri utenti. Ogni utente ha un proprio spazio personalizzabile con app, sfondo e così via. Gli utenti possono anche regolare le impostazioni del dispositivo, come il Wi‑Fi, che riguardano tutti.
+    <string name="user_add_user_message_long">"Puoi condividere il dispositivo con altre persone creando altri utenti. Ogni utente ha un proprio spazio personalizzabile con app, sfondo e così via. Gli utenti possono anche regolare le impostazioni del dispositivo, come il Wi-Fi, che riguardano tutti.
 
 Dopo la creazione di un nuovo utente, la persona in questione deve svolgere una procedura di configurazione.
 
@@ -2299,13 +2291,13 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="global_change_warning">Questa impostazione influisce su tutti gli utenti di questo dispositivo.</string>
     <string name="global_locale_change_title">Cambia lingua</string>
     <string name="global_font_change_title">Cambia le dimensioni del carattere</string>
-    <string name="nfc_payment_settings_title">Touch &amp; Pay</string>
+    <string name="nfc_payment_settings_title">Touch e Pay</string>
     <string name="nfc_payment_no_apps">Paga con un tocco</string>
     <string name="nfc_payment_learn_more">Ulteriori informazioni</string>
     <string name="nfc_payment_menu_item_add_service">Trova app</string>
     <string name="nfc_payment_set_default_label">Impostare come preferenza?</string>
-    <string name="nfc_payment_set_default">Utilizzare sempre %1$s per Touch &amp; Pay?</string>
-    <string name="nfc_payment_set_default_instead_of">Utilizzare sempre %1$s anziché %2$s per Touch &amp; Pay?</string>
+    <string name="nfc_payment_set_default">Utilizzare sempre %1$s per Touch e Pay?</string>
+    <string name="nfc_payment_set_default_instead_of">Utilizzare sempre %1$s anziché %2$s per Touch e Pay?</string>
     <string name="restriction_settings_title">Limitazioni</string>
     <string name="restriction_menu_reset">Rimuovi limitazioni</string>
     <string name="restriction_menu_change_pin">Cambia PIN</string>
@@ -2427,7 +2419,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="search_wifi_display">Schermo wifi</string>
     <string name="search_display">Schermo</string>
     <string name="search_font">Font</string>
-    <string name="search_handy_mode">Modalità mano singola</string>
+    <string name="search_handy_mode">Uso con una mano</string>
     <string name="search_battery">Batteria</string>
     <string name="search_storage">Archiviazione</string>
     <string name="search_accessibility">Accessibilità</string>
@@ -2449,7 +2441,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
     <string name="account_list">Tutti</string>
     <string name="account_add">Aggiungi</string>
-    <string name="xiaomi_account">Account Xiaomi</string>
+    <string name="xiaomi_account">Account Mi</string>
     <string name="sync_settings">Sincronizzazione</string>
     <string name="sms_received_sound_title">Messaggio ricevuto</string>
     <string name="sms_delivered_sound_title">Messaggio inviato</string>
@@ -2461,8 +2453,9 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="privacy_protect_title">Protezione privacy</string>
     <string name="privacy_mode_enable_title">Modalità Ospite</string>
     <string name="privacy_mode_enable_sum">"Nascondi all'utente messaggi, note, immagini, e chiamate ricevute"</string>
-    <string name="ac_enable_title">Permessi</string>
-    <string name="ac_set_apps_title">Blocco app</string>
+    <string name="ac_enable_title">App Lock</string>
+    <string name="ac_enable_summary">Verrà richiesta una password per accedere alle app</string>
+    <string name="ac_set_apps_title">Scegli el app da bloccare</string>
     <string name="ac_privacy_mode_title">Password</string>
     <string name="ac_privacy_mode_sum">Richiedi una password per disabilitare la modalità Ospite</string>
     <string name="access_control_password_title">Password</string>
@@ -2504,8 +2497,8 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="title_font2">Carattere</string>
     <string name="title_font_current2">Carattere di sistema</string>
     <string name="title_layout_current2">Dimensione carattere</string>
-    <string name="handy_mode">Modalità Mano Singola</string>
-    <string name="handy_mode_enter_ask">Chiedi prima di entrare in modalità Mano Singola</string>
+    <string name="handy_mode">Uso con una mano</string>
+    <string name="handy_mode_enter_ask">Chiedi prima di entrare in modalità Uso con una mano</string>
     <string name="handy_mode_tips">Scorri a sinistra o a destra dal tasto Home per ridurre le dimensioni dello schermo e portarlo da un lato.</string>
     <string name="handy_mode_size">Dimensione schermo</string>
     <string name="key_settings_title">Tasti</string>
@@ -2589,6 +2582,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="pref_button_light">Luce tasti</string>
     <string name="pref_button_light_summary">Retroilluminazione tasti Menu, Home e Indietro</string>
     <string name="button_light_timeout">Retroilluminazione tasti</string>
+	<string name="battery_light_title">Led quando sei in carica</string>
     <string name="sim_change_failed_enable_sim_lock">Abilita blocco SIM per cambiare il PIN</string>
     <string name="sim_lock_change_not_supported">Impossibile cambiare il blocco SIM.La SIM non lo supporta.</string>
     <string name="apn_new">"Nuovo punto d'accesso"</string>
@@ -3296,7 +3290,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="performance_category">Prestazioni</string>
     <string name="fluency_mode">Ottimizza le prestazioni di sistema</string>
     <string name="fluency_mode_confirm_and_reboot">Riavvia adesso</string>
-    <string name="gesture_wakeup_title">Doppo tap sullo schermo per attivarlo</string>
+    <string name="gesture_wakeup_title">Doppio tap sullo schermo per attivarlo</string>
     <string name="install_no_market_app_title">Fonti sconosciute</string>
     <string name="install_no_market_app_summary">"Consenti l'installazione di applicazioni non provenienti dal Play Store"</string>
     <string name="lock_screen_secure_after_timeout_title">Password richiesta</string>
@@ -3397,8 +3391,8 @@ Disabilitare le finestre flottanti?"</string>
     <string name="move_app_dlg_text">This may take a few minutes. Do not remove the SD card during this operation.</string>
     <string name="move_app_free_on_device">%1$s free on SHIELD</string>
     <string name="move_app_free_on_sdcard">%1$s free on SD card</string>
-    <string name="move_app_progress_to_device">Moving %1$s to SHIELD...</string>
-    <string name="move_app_progress_to_sdcard">Moving %1$s to SD card...</string>
+    <string name="move_app_progress_to_device">Moving %1$s to SHIELD…</string>
+    <string name="move_app_progress_to_sdcard">Moving %1$s to SD card…</string>
     <string name="tnhwrevision_settings_list_item_title">Mocha HW revision</string>
     <string name="tnhwrevision_settings_list_item_summary">Mocha HW revision summary</string>
     <string name="resolver_settings_label">Ordina</string>

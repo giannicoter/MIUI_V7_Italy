@@ -27,7 +27,7 @@
     <string name="month_report_network_dialog_description">Consenti a questa app di collegarsi ad internet per ricevere informazioni sui report?</string>
     <string name="month_report_network_dialog_positive">Consenti</string>
     <string name="month_report_follow_service_title">Aggiornamenti di sicurezza</string>
-    <string name="month_report_follow_service_summary">"Rimani aggiornato sulle informazioni e le novità sulla sicurezza seguendo l'account ufficiale di dell'app Sicurezza MIUI."</string>
+    <string name="month_report_follow_service_summary">"Rimani aggiornato sulle informazioni e le novità sulla sicurezza seguendo l'account ufficiale dell'app Sicurezza MIUI."</string>
     <string name="month_report_follow_service_positive">Segui</string>
     <string name="month_report_follow_service_negative">No grazie</string>
     <string name="app_not_installed_toast">Applicazione non installata sul tuo dispositivo</string>

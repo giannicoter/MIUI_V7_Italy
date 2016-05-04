@@ -208,8 +208,6 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string
     <string name="Dashboard_Perm_AutoStart_Desc">Abilita o disabilita la funzione di avvio automatico</string>
     <string name="Dashboard_HIPS_Disable_Title">Controllo Autorizzazioni</string>
     <string name="Dashboard_HIPS_Disable_Content">Disabilitando questo servizio MIUI smetterà di controllare le richieste delle applicazioni e non proteggerà più la tua sicurezza e la tua privacy.Sei sicuro di volerlo disattivare?</string>
-    <string name="Dashboard_Su_Enable_Title">Permessi di ROOT</string>
-    <string name="Dashboard_Su_Enable_Content">"Attivando questo servizio si permetterà alle applicazioni di richiedere i permessi di ROOT. Nota: Applicazioni con i permessi potrebbero causare instabilità di sistema, anche perdita di dati personali, danni all'hardware o di sistema, si prega di fare attenzione. Sicuro di volerlo abilitare?"</string>
     <string name="Dashboard_Log_Clear_Title">Cancella Registri</string>
     <string name="Dashboard_Log_Clear_Content">Tutti i registri verranno cancellati. Sei sicuro di voler procedere?</string>
     <string name="Privacy_Perm_Count">Autorizzati: %1$d Negati: %2$d</string>
@@ -265,6 +263,10 @@ Passare ad una versione MIUI Developer per abilitare i permessi di ROOT.</string
     <string name="HIPS_Perm_use_sip_Desc">Utilizzare Session Initiation Protocol per lo streaming video</string>
     <string name="HIPS_Perm_process_outgoing_calls">"Accesso all'applicazione Telefono"</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">Controllare e terminare le chiamate</string>
+    <string name="HIPS_Perm_process_nfc">NFC</string>
+    <string name="HIPS_Perm_process_nfc_Desc">Accesso hardware near field communication (NFC)</string>
+    <string name="HIPS_Perm_install_shortcut">Collegamenti home</string>
+    <string name="HIPS_Perm_install_shortcut_Desc">Aggiungi collegamenti alla home Home</string>
     <string name="permission_group_title_charges_related">Costi</string>
     <string name="permission_group_title_privacy_related">Privacy</string>
     <string name="permission_group_title_media_related">Multimedia</string>

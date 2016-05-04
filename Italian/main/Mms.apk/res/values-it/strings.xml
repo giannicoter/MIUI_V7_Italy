@@ -6,7 +6,7 @@
     <string name="pref_title_manage_sim_messages">Gestisci messaggi SIM</string>
     <string name="confirm_delete_all_SIM_messages">Tutti i messaggi sulla SIM verranno eliminati.</string>
     <string name="confirm_delete_SIM_message">Questo messaggio sulla SIM verrà eliminato.</string>
-    <string name="sim_manage_messages_title">Messaggio su SIM</string>
+    <string name="sim_manage_messages_title">Messaggi su SIM</string>
     <string name="sim_empty">Nessun messaggio sulla SIM.</string>
     <string name="sim_full_title">SIM piena</string>
     <string name="save_to_sim">Salva su SIM</string>
@@ -254,6 +254,7 @@
     <string name="add_contact">Contatto</string>
     <string name="add_nickname">Nickname</string>
     <string name="add_festival">Festival</string>
+    <string name="add_redpackage">Pacchetto Rosso</string>
     <string name="add_nickname_title">Aggiungi nickname</string>
     <string name="edit_nickname_for_nocontact">Nessun destinatario aggiunto. Aggiungere almeno un destinatario e premere per altre opzioni.</string>
     <string name="edit_nickname_for_nocontact_by_robot">Inserisci almeno un destinatario per poter modificare il nickname.</string>
@@ -331,6 +332,7 @@
     <string name="pref_title_hide_festival">Nascondi scheda Consigliati</string>
     <string name="pref_summary_hide_festival">Nascondi scheda Consigliati per le lingue diverse dal Cinese</string>
     <string name="pref_message_recovery_introduction_title">Ripristina messaggio</string>
+    <string name="pref_cell_broadcast">Trasmissioni cella</string>
     <string name="send_signature_confirm_dialog_title">Invio conferma</string>
     <string name="send_signature_confirm_dialog_message">Corpo messaggio mancante. Vuoi inviare comunque il messaggio?</string>
     <string name="enter_edit_mode">Elimina</string>
@@ -367,8 +369,8 @@
     <string name="timed_message_to">a</string>
     <string name="timed_message_in_total">… (%d in totale)</string>
     <string name="processing">Elaborazione…</string>
-    <string name="title_date_type">Orario messaggio</string>
     <string name="mx_msg">Mi Message</string>
+    <string name="mx_msg_pageview_setting_title">Impostazioni Mi Message</string>
     <string name="mx_enable">Mi Message</string>
     <string name="mx_enable_ex">Mi Message e Voce</string>
     <string name="mx_on_sim_1">Mi Message SIM slot 1</string>
@@ -376,6 +378,7 @@
     <string name="mx_btn_enable">Attiva</string>
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="ex_type_mx">Messaggio cloud</string>
+    <string name="mx_dspt_listview">Invia messaggi ad altri dispositivi MIUI gratuitamente</string>
     <string name="mx_dspt">"Invia messaggi tramite Internet tra MIUI, l'attivazione per invio tramite Operatore è fallita una volta"</string>
     <string name="mx_current_status">Stato attuale: Online</string>
     <string name="mx_count_dspt">%1$d SMS e %2$d MMS inviati</string>
@@ -404,6 +407,7 @@
     <string name="found_wild_messages_title">Scarica messaggi</string>
     <string name="found_wild_messages">Rilevati %s messaggi da altra SIM tramite Mi Cloud. Vuoi scaricarli?</string>
     <string name="found_wild_messages_guide_cloud_desc">Per sincronizzare i messaggi da Mi Cloud accedi al tuo Account Mi ed attiva la sincronizzazione SMS.</string>
+    <string name="found_wild_messages_guide_sync_not_started">Sincronizzazion non ancora avviata</string>
     <string name="found_old_messages_title">Aggiorna Messaggi</string>
     <string name="found_old_messages">Resoconto: %1$s trovati nei vecchi account. Vuoi caricarli nel tuo attuale account: %2$s?</string>
     <string name="show_all_messages">Mostra tutti i messaggi</string>
@@ -465,6 +469,8 @@
     <string name="select_recipient">Seleziona destinatario</string>
     <string name="add_attachment">Allega</string>
     <string name="send_sms">Invia messaggio</string>
+    <string name="show_sender">Mostra info mittente</string>
+    <string name="call_sender">Chiama mittente</string>
     <string name="file_share_message_description">Vorrei condividere alcuni file con te</string>
     <string name="addBlackList">Blacklist</string>
     <string name="confirm_add_blacklist_dialog_dspt">Aggiungere numero alla blacklist?</string>
@@ -488,14 +494,6 @@
     <string name="sp_category_all">Messaggi di tutti i servizi</string>
     <string name="sp_category_bank">Messaggi dei servizi bancari</string>
     <string name="refill_now">Ricarica</string>
-    <string name="toast_feedback_start">Invio dati di feedback…</string>
-    <string name="toast_feedback_finish">Il tuo feedback verrà inviato automaticamente appena sarai connesso ad una rete Wi-Fi</string>
-    <string name="toast_feedback_max">Possono essere inviati solo 3 feedback al giorno</string>
-    <string name="toast_description_required">Il feedback deve essere inviato</string>
-    <string name="pref_key_mx_feedback">Invia feedback</string>
-    <string name="pref_summary_mx_feedback">"Aiutaci a migliorare MIUI! Segnala bug ed invia feedback direttamente a Xiaomi."</string>
-    <string name="feedback_description_hint">Inserisci qui il tuo feedback</string>
-    <string name="feedback_submit">Invia</string>
     <string name="action_firewall_setting">Blacklist</string>
     <string name="user_agreement1">Leggi accuratamente le condizioni relative prima di installare software aggiuntivo o usare questo prodotto</string>
     <string name="user_agreement2">" Accordo con l'utente"</string>
@@ -618,4 +616,18 @@
     <string name="mx_filter_message_from_stranger_summary">Potrai ancora ricevere SMS normali da numeri sconosciuti</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Blocca Mi Message danumeri sconosciuti</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Potrai ancora ricevere SMS normali da numeri sconosciuti. Puoi attivare e disattivare questa funzione in qualsaisi momento da Messaggi > Impostazioni."</string>
+    <string name="wild_msg_processing">Elaborazione...</string>
+    <string name="wild_msg_title">Attiva sincronizzazione cloud</string>
+    <string name="select_message_send_sim">Scegli SIM</string>
+    <string name="card_insert_to_contact">Importa contatto</string>
+    <string name="red_package_btn">Apri</string>
+    <string name="snippet_red_package">[Red Package]</string>
+    <string name="title_red_package">Buona fortuna</string>
+    <string name="title_send_red_package">Controlla Pacchetto Rosso</string>
+    <string name="title_recv_red_package">Ottieni Pacchetto Rosso</string>
+    <string name="delete_wild_sims">Elimina numeri</string>
+    <string name="delete_wild_sims_title">Elimina numeri selezionati</string>
+    <string name="delete_wild_sims_confirm">Tutti i numeri associati a questo contatto verranno eliminati dal telefono. Puoi ripristinarli su i.mi.com.</string>
+    <string name="add_to_browser_favorite_success">aggiunto</string>
+    <string name="add_to_browser_favorite_failed">non aggiunto</string>
 </resources>

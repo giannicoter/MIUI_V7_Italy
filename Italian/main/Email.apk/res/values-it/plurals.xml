@@ -137,11 +137,11 @@
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Mostra %1$d nuovi messaggi</item>
-        <item quantity="zero">Show %1$d nuovi messaggi</item>
+        <item quantity="zero">Mostra %1$d nuovi messaggi</item>
         <item quantity="one">%1$d segnato come spam</item>
-        <item quantity="two">Show %1$d nuovi messaggi</item>
-        <item quantity="few">Show %1$d nuovi messaggi</item>
-        <item quantity="many">Show %1$d nuovi messaggi</item>
+        <item quantity="two">Mostra %1$d nuovi messaggi</item>
+        <item quantity="few">Mostra %1$d nuovi messaggi</item>
+        <item quantity="many">Mostra %1$d nuovi messaggi</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d selezionati</item>

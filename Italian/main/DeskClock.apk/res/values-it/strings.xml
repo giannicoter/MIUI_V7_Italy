@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="stat_repeat_none">Mai</string>
+    <string name="stat_repeat_everyday">Tutti i giorni</string>
+    <string name="stat_repeat_legal_workday">Giorni lavorativi</string>
+    <string name="stat_repeat_legal_off_day">Giorni di riposo</string>
+    <string name="stat_repeat_weekdays">Lun - Ven</string>
+    <string name="stat_repeat_weekends">Weekend</string>
+    <string name="stat_repeat_self_define">Personalizzato</string>
     <string name="slider_text">Scorri per silenziare</string>
     <string name="snooze_confirm_cancel">Annulla sospensione</string>
     <string name="timer_alarm_cancel_pad">Tocca per interrompere la suoneria</string>
@@ -17,7 +24,6 @@
     <string name="delete_timer_item_title">Elimina operazione</string>
     <string name="delete_selected_timer_item">"Eliminare l'operazione selezionata?"</string>
     <string name="delete_timezone_title">Elimina fuso orario</string>
-    <string name="delelte_selected_timezone">Eliminare il fuso orario selezionato?</string>
     <string name="timezone_exist_error_message">Impossibile aggiungere fuso orario. Il fuso orario è già esistente, si prega di selezionare di nuovo.</string>
     <string name="alarm_disabled">Disabilitata</string>
     <string name="alarm_ascending_mode_title">Volume crescente</string>
@@ -59,6 +65,8 @@
     <string name="legal_workday_invalidate">Data scaduta (Attualmente la sveglia suona dal Lun. al Ven.)</string>
     <string name="legal_workday_invalidate_message">(Data scaduta, aggiorna in Impostazioni)</string>
     <string name="legal_workday_message">(escluse le festività)</string>
+    <string name="legal_off_day">Escludi giorni lavorativi</string>
+    <string name="legal_off_day_message">" (Sveglie disattivate nei giorni lavorativi)"</string>
     <string name="default_alarm_alert">Imposta suoneria predefinita</string>
     <string name="default_alarm_title">Suoneria predefinita</string>
     <string name="alarm_alert">Imposta suoneria</string>
@@ -67,12 +75,13 @@
     <string name="menu_item_sort_by_name">Ordina per nome</string>
     <string name="birthday_alarm">Suoneria compleanno</string>
     <string name="birthday_alarm_summary">Riproduci \"Buon compleanno\" al posto della suoneria predefinita</string>
-	<string name="turn_off_a_repeat_alarm">Disattiva ripetizione allarme</string>
-    <string name="skip_alarm_once_hint">Spegni una volta il %s</string>
+    <string name="turn_off_a_repeat_alarm">Disattiva ripetizione allarme</string>
+    <string name="skip_alarm_once_hint">Disattiva una volta il %s</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
-    <string name="turn_off_this_repeat_alarm">Spegni la ripetizione di questo allarme</string>
+    <string name="turn_off_this_repeat_alarm">Disattiva la ripetizione di questo allarme</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">Domani</string>
+    <string name="oneshot_alarm">Elimina dopo la disattivazione</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Orologio</string>

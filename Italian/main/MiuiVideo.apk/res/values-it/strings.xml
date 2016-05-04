@@ -91,7 +91,7 @@
     <string name="temp_play_history_button_label">Mostra cronologia</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Spiacenti, il formato video selezionato non può essere riprodotto in streaming sul dispositivo.</string>
     <string name="vp_VideoView_error_text_unknown">Spiacenti, il formato video selezionato non può essere riprodotto.</string>
-    <string name="vp_VideoView_error_title">Errore di riproduzione video!</string>
+    <string name="vp_VideoView_error_title">Errore di riproduzione video.</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="about_title">Informazioni</string>
     <string name="about_app_name">Mi Player</string>
@@ -141,7 +141,7 @@
     <string name="episode_suffix">Il primo di %d</string>
     <string name="about_version_label">Versione:</string>
     <string name="nowifi_alert_dialog_title">Avviso Traffico</string>
-    <string name="nowifi_alert_dialog_message">Stai per usare la rete dati per lo stream video. Vuoi continuare?</string>
+    <string name="nowifi_alert_dialog_message">Stai per usare la rete dati per lo stream video. Continuare?</string>
     <string name="nowifi_alert_dialog_continue">Continua</string>
     <string name="nowifi_alert_dialog_exit">Esci</string>
     <string name="menu_item_enable_audio_enhance">Attiva miglioramento audio</string>
@@ -152,7 +152,7 @@
     <string name="vp_super_definition">4K (2160p)</string>
     <string name="vp_full_high_definition">Full HD (1080p)</string>
     <string name="vp_content_description">Descrizione del contenuto</string>
-    <string name="vp_get_url_error">"Impossibile ottenere l'indirizzo da riprodurre."</string>
+    <string name="vp_get_url_error">"Impossibile ottenere il link da riprodurre."</string>
     <string name="vp_exit">Esci</string>
     <string name="vp_back">Indietro</string>
     <string name="vp_newest_ep">Ultimo</string>
@@ -197,16 +197,16 @@
     <string name="vp_retry">Riprova</string>
     <string name="vp_cancel">Annulla</string>
     <string name="vp_client_message">Vuoi installare %1$s?</string>
-    <string name="vp_plugin_message">"Goditi il suono in HD, installeremo un plugin HD per te. Vuoi continuare?"</string>
+    <string name="vp_plugin_message">"Goditi il suono in HD, installeremo un plugin HD per te. Continuare?"</string>
     <string name="vp_closedialog">Conferma</string>
     <string name="vp_hint">Suggerimento</string>
-    <string name="vp_maintitlearea">"Goditi l'alta definizione, la velocità di download, ci sono molti altri show disponibili! Download componenti HD, premi OK per entrare nella home"</string>
+    <string name="vp_maintitlearea">"Goditi l'alta definizione, la velocità di download, ci sono molti altri show disponibili. Download componenti HD, premi OK per entrare nella home"</string>
     <string name="vp_toast_downloadapk">"Download dell'APK in background\u2026"</string>
     <string name="vp_video_loading"><cdata>Caricamento…</cdata></string>
     <string name="vp_video_plugin_installation">"Installazione del plugin %1$s per migliorare la qualità dell'immagine…"</string>
     <string name="vp_video_bad_network_condition">Condizioni della rete non ottimali, riprova più tardi</string>
     <string name="vp_video_invalid_cp_info">"Informazione provider non valida, riavvia l'applicazione"</string>
-    <string name="vp_datastream_alert_play">Utilizzando la tua connessione dati cellulare per vedere i video consumerai un grande quantitativo di dati. Superando la soglia prevista dal tuo piano potresti incorrere in costi aggiuntivi.</string>
+    <string name="vp_datastream_alert_play">Utilizzando la tua connessione dati cellulare per vedere i video consumerai un grande quantitativo di dati.</string>
     <string name="vp_datastream_alert_hint">Puoi disattivare le notifiche in qualsiasi momento nelle Impostazioni.</string>
     <string name="vp_datastream_alert_positive_button">Continua</string>
     <string name="vp_datastream_alert_negative_button">Annulla</string>
@@ -214,8 +214,8 @@
     <string name="alert_dialog_download_error">Errore Download</string>
     <string name="alert_dialog_download_btn_hide">Nascondi</string>
     <string name="alert_dialog_download_dup_task">Download in corso, attendere…</string>
-    <string name="vp_mobile_network_using_warning">"L'utilizzo della rete dati per la visione dei video può incrementare il traffico dati. Se superi la tua soglia dati, il tuo operatore potrebbe addebitarti dei costi aggiuntivi."</string>
-    <string name="vp_mobile_network_using_warning_line_1">"L'utilizzo della connessione dati mobile per la visione dei video aumenterà il traffico dati. Il superamento della soglia prevista del tuo piano potrebbe comportare costi aggiuntivi."</string>
+    <string name="vp_mobile_network_using_warning">"L'utilizzo della rete dati per la visione dei video può incrementare il traffico dati."</string>
+    <string name="vp_mobile_network_using_warning_line_1">"L'utilizzo della connessione dati mobile per la visione dei video aumenterà il traffico dati."</string>
     <string name="vp_mobile_network_using_warning_line_2">Il superamento della soglia prevista del tuo piano potrebbe comportare costi aggiuntivi.</string>
     <string name="vp_mobile_network_using_positive">Continua</string>
     <string name="vp_mobile_network_using_negative">Annulla</string>
@@ -223,9 +223,9 @@
     <string name="vp_player_plugin_dlg_title">Plugin Video player</string>
     <string name="vp_player_plugin_dlg_no_content">Nessun plugin Video player</string>
     <string name="vp_download_apk_from_video_ad">"Installa l'applicazione"</string>
-    <string name="vp_app_download">"Scarica l'applicazione."</string>
+    <string name="vp_app_download">"Scarica l'applicazione"</string>
     <string name="declaration_allow">OK</string>
-    <string name="declaration_content_td_custom">"Consentire la connessione ad Internet durante l'utilizzo dell'applicazione?"</string>
+    <string name="declaration_content_td_custom">"Consentire la connessione ad internet durante l'utilizzo dell'applicazione?"</string>
     <string name="declaration_content">"1. Utilizzando questo servizio accetti i "<a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">Termini di utilizzo</a>" di Sohu Video, iQiyi, ed altri provider di contenuti.
 2. Aiutaci a migliorare questo prodotto inviando automaticamente a Xiaomi dati diagnostici e sull'utilizzo.
 3. Il nostro Plugin Video HD verrà installato automaticamente.
@@ -262,7 +262,7 @@
     <string name="comment_count_less_tip">Devi scrivere almeno %1$s caratteri</string>
     <string name="comment_count_much_tip">Il tuo commento non può superare i %1$s caratteri</string>
     <string name="click_star_rate">Clicca una stella per votare</string>
-    <string name="tab_loading"><cdata>...</cdata></string>
+    <string name="tab_loading"><cdata>…</cdata></string>
     <string name="reload_title_ep">Impossibile recuperare tutta la serie</string>
     <string name="reload_title">Impossibile collegarsi alla rete</string>
     <string name="reload_sub_title">Tocca per riprovare</string>
@@ -315,6 +315,8 @@
     <string name="mipush_setting">Xiaomi push</string>
     <string name="receive_mipush">Ricezione push Xiaomi</string>
     <string name="receive_mipush_summary">Riceve notifiche di contenuti online nuovi o aggiornati</string>
+	<string name="receive_follow">Notifiche nuovi episodi</string>
+    <string name="receive_follow_summary">Ricevi le notifiche quando un nuovo episodio è disponibile</string>
     <string name="other_setting">Altri</string>
     <string name="clear_cache">Svuota la cache delle immagini</string>
     <string name="clear_cache_summary">Elimina le immagini memorizzate nella cache dal browser Video</string>
@@ -339,8 +341,8 @@
     <string name="offline_no_selected_item_hint">Scegli un video</string>
     <string name="offline_no_avail_item_hint">Non ci sono episodi disponibili</string>
     <string name="offline_alert_wifi">I download riprenderanno quando il dispositivo si connetterà al WiFi.</string>
-    <string name="datastream_alert_play">Utilizzando la connessione dati cellulare per guardare i video consumerai un notevole quantitativo di dati. Superando la soglia prevista dal tuo piano, potresti incorrere in costi aggiuntivi.</string>
-    <string name="datastream_alert_download">Utilizzando la connessione dati cellulare per scaricare i video consumerai un notevole quantitativo di dati. Superando la soglia prevista dal tuo piano, potresti incorrere in costi aggiuntivi.</string>
+    <string name="datastream_alert_play">Utilizzando la connessione dati cellulare per guardare i video consumerai un notevole quantitativo di dati.</string>
+    <string name="datastream_alert_download">Utilizzando la connessione dati cellulare per scaricare i video consumerai un notevole quantitativo di dati.</string>
     <string name="datastream_alert_hint">Puoi disattivare le notifiche in qualsiasi momento nelle Impostazioni.</string>
     <string name="datastream_alert_positive_button">Download</string>
     <string name="datastream_alert_negative_button">Annulla</string>
@@ -391,7 +393,7 @@
     <string name="ui_style_summary">La visualizzazione a lista è quella predefinita</string>
     <string name="app_upgrade_version">Nuova versione</string>
     <string name="check_app_version">"Controllo dell'ultima versione…"</string>
-    <string name="app_latest_version">"L'applicazione è già all'ultima versione"</string>
+    <string name="app_latest_version">"L'applicazione è già aggiornata"</string>
     <string name="video_bbs_url">Aiutaci a migliorare lo sviluppo di questa applicazione</string>
     <string name="video_bbs">Unisciti a noi</string>
     <string name="vertical_line"><cdata> | </cdata></string>
@@ -410,7 +412,7 @@
     <string name="debug_mode">Modalità Debug</string>
     <string name="debug_mode_desc">"Quando selezionato, mostra l'ID del video nell'angolo in alto a sinistra e mostra la pubblicità all'avvio dell'applicazione."</string>
     <string name="app_wifi_mode">Aggiorna solo in Wi-Fi</string>
-    <string name="app_wifi_mode_summary">"Aggiorna automaticamente l'app quando collegata al Wi-Fi"</string>
+    <string name="app_wifi_mode_summary">"Aggiorna automaticamente l'app quando collegato al Wi-Fi"</string>
     <string name="app_charging_wifi_mode">Aggiorna solo quando in carica</string>
     <string name="app_charging_wifi_mode_summary">Aggiorna automaticamente quando collegato alla rete Wi-Fi e in carica</string>
     <string name="performance_mode">Impostazioni prestazioni</string>
@@ -429,15 +431,15 @@
     <string name="version_select">Selezione versione</string>
     <string name="version_select_summary">Seleziona versione Alpha, Developer o Stabile</string>
     <string name="app_update_background">Aggiorna app in background.</string>
-    <string name="router_update">"Devi aggiornare l'app del Xiaomi Router."</string>
+    <string name="router_update">"Devi aggiornare l'app del Router Xiaomi."</string>
     <string name="downloading_app_plugin">Download in corso %1$s…</string>
     <string name="app_plugin_ready">%1$s installato</string>
     <string name="download_start_message">Scaricare ed installare %1$s?</string>
     <string name="hint_apk_title_update">Aggiornamento disponibile (%1$s)</string>
     <string name="hint_apk_text_update">Installa aggiornamento (%1$s) now?</string>
     <string name="miwifi_app_download_title">Xiaomi Router</string>
-    <string name="miwifi_app_download_content">Download in corso...</string>
-    <string name="miwifi_app_update_title">"Devi aggiornare l'app del router per utilizzare questa funzione. Aggiornare adesso?"</string>
+    <string name="miwifi_app_download_content">Download in corso…</string>
+    <string name="miwifi_app_update_title">"Devi aggiornare l'app del router per utilizzare questa funzione. Continuare?"</string>
     <string name="miwifi_app_update_content">Nota: questa funzione richiede un router con versione 2.0 o superiore</string>
     <string name="miwifi_app_update_button">Aggiorna</string>
     <string name="video_app_update">Aggiorna</string>
@@ -451,7 +453,7 @@
     <string name="forecasts">EPG</string>
     <string name="key_back_down_toast">Premi di nuovo Indietro per uscire</string>
     <string name="check_network">Rete non connessa, controlla la tua connessione</string>
-    <string name="empty_tv_exiting">In uscita...</string>
+    <string name="empty_tv_exiting">In uscita…</string>
     <string name="tv_cp_info_format">Supportato da %1$s</string>
     <string name="tv_channel_empty_hint">Nessun canale</string>
     <string name="defaults">Predefinito</string>
@@ -478,12 +480,12 @@
     <string name="not_buy_vip">no vip</string>
     <string name="expire_time">expire time</string>
     <string name="original_price">original price</string>
-    <string name="not_exist_openid">Recupero informazioni account, attendere prego...</string>
+    <string name="not_exist_openid">Recupero informazioni account, attendere prego…</string>
     <string name="clubber_info">Informazioni membro</string>
      <string name="notification_title">\"%s\" completamento download</string>
     <string name="notification_sub_title">%d download completato(i)</string>
     <string name="notification_ticker_text">Completamento download video offline</string>
     <string name="notification_default_title">Video offline</string>
     <string name="app_upgrade_title">"Mi Video è già aggiornato all'ultima versione."</string>
-    <string name="app_upgrade_hint">"Clicca per guardare \"The Full Polymerization\", video HD online."</string>
+    <string name="app_upgrade_hint">"Tocca per guardare \"The Full Polymerization\", video HD online."</string>
 </resources>

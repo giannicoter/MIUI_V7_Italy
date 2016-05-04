@@ -24,6 +24,10 @@
         <item>Ricezione</item>
         <item>Invio</item>
     </string-array>
+    <string-array name="entries_date_type_rightvalue">
+        <item>Ricezione</item>
+        <item>Invio</item>
+    </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Via messaggio</item>
         <item>Via messaggio Cloud</item>
@@ -44,6 +48,10 @@
         <item>Massimo</item>
         <item>2 giorni</item>
     </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Sincronizza tutti i messaggi</item>
+        <item>Sincronizza messaggi da SIM selezionate</item>
+    </string-array>
     <string-array name="select_dialog_items">
         <item>1 secondo</item>
         <item>2 secondi</item>
@@ -61,9 +69,5 @@
         <item>Sempre</item>
         <item>Solo se silenzioso</item>
         <item>Mai</item>
-    </string-array>
-	<string-array name="entries_date_type_rightvalue">
-        <item>Ricezione</item>
-        <item>Invio</item>
     </string-array>
 </resources>

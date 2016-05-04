@@ -9,13 +9,13 @@ Leggi questo documento per la tastiera: "</string>
     <string name="multisim_settings_title">Scheda SIM 2 rilevata</string>
     <string name="multisim_settings_category">Impostazioni preferite SIM</string>
     <string name="page_layout_title">Layout di sistema</string>
-    <string name="page_layout_label">Regola la dimensione del testo ed il layout per la Home, il Pannello delle Notifiche, il Telefono ed altro.</string>
-    <string name="sim_card_detection">Nessuna scheda SIM rilevata</string>
+    <string name="page_layout_label">Regola la dimensione del testo ed il layout per la Home, il Pannello delle notifiche, il Telefono ed altro.</string>
+    <string name="sim_card_detection">Nessuna SIM rilevata</string>
     <string name="sim_card_detecting_title">Cerca SIM</string>
-    <string name="sim_card_detection_info">Hai bisogno di una scheda SIM per impostare il tuo Account Mi.</string>
-    <string name="sim_card_detecting">Controllo scheda SIM in corso…</string>
+    <string name="sim_card_detection_info">Hai bisogno di una SIM per impostare il tuo Account Mi.</string>
+    <string name="sim_card_detecting">Controllo SIM in corso…</string>
     <string name="other_settings">Impostazioni aggiuntive</string>
-    <string name="other_settings_location">Accedi alla posizione</string>
+    <string name="other_settings_location">Localizzazione</string>
     <string name="other_settings_location_summary">Consenti alle applicazioni di utilizzare la tua posizione</string>
     <string name="other_settings_user_experience">Feedback utente</string>
     <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
@@ -25,10 +25,10 @@ Leggi questo documento per la tastiera: "</string>
     <string name="sim_dectection_next">Continua</string>
     <string name="shut_down">Spegni</string>
     <string name="sim_redetection">Cerca SIM</string>
-    <string name="title_congratulation">Sei pronto per iniziare!</string>
+    <string name="title_congratulation">Hai finito!</string>
     <string name="congratulation_label" />
-    <string name="pref_title_voice_slot">Scheda SIM per le chiamate vocali</string>
-    <string name="pref_title_data_slot">Scheda SIM per i dati</string>
+    <string name="pref_title_voice_slot">SIM Voce</string>
+    <string name="pref_title_data_slot">SIM Dati</string>
     <string name="summary_not_set">Non impostato</string>
     <string name="summary_sim_card">SIM %1$d</string>
     <string name="summary_sim_card_with_operator">SIM %1$d: %2$s</string>
@@ -42,11 +42,11 @@ Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di uti
     <string name="privacy_policy">Termini sulla Privacy</string>
     <string name="agree">OK</string>
     <string name="disagree">Annulla</string>
-    <string name="network_access_warning">Devi collegarti ad Internet per attivare i Servizi Mi.</string>
+    <string name="network_access_warning">Devi collegarti ad internet per attivare i Servizi Mi.</string>
     <string name="setting_locale">Impostazione Paese…</string>
     <string name="miui_terms_no_network">Nessuna connessione di rete. Leggi i termini del servizio su %s</string>
     <string name="miui_privacy_policy_no_network">"Nessuna connessione di rete. Leggi l'informativa sulla privacy su %s"</string>
-    <string name="locale_picker_title">Scegli la tua lingua</string>
+    <string name="locale_picker_title">Scegli la lingua</string>
     <string name="provision_finish">OK</string>
     <string name="provision_finish_restart">Riavvia</string>
     <string name="install_preinstall_app">Caricamento applicazioni…</string>
@@ -54,4 +54,6 @@ Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di uti
     <string name="desc_fingerprint">Utilizza le tue impronte digitali per sbloccare il dispositivo, verificare le transazioni Mi Pay o per accedere ad app e servizi.</string>
     <string name="desc_extra_fingerprint" />
     <string name="next_fingerprint">Avanti</string>
+    <string name="desc_extra_international_fingerprint" />
+    <string name="desc_international_fingerprint">Usa la tua impronta digitale per sbloccare il dispositivo o per accedere ad applicaizoni e servizi.</string>
 </resources>
