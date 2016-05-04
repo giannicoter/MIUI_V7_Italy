@@ -96,7 +96,7 @@ Più di %2$s utenti hanno eseguito l'aggiornamento a MIUI %3$s"</string>
     <string name="sign_in_info_rank_more">"La tua posizione di aggiornamento è oltre %1$s.
 Più di %2$s utenti hanno eseguito l'aggiornamento a MIUI %3$s"</string>
     <string name="sign_in_add_account">Si prega di attivare il tuo account Xiaomi</string>
-    <string name="sign_in_add_account_helper">Il tuo telefono non ha un account MIUI attivo, aggiungine uno per ricevere punti</string>
+    <string name="sign_in_add_account_helper">Il tuo telefono non ha un Mi Account attivo, aggiungine uno per ricevere punti</string>
     <string name="my_rank">Aggiorna posizione:</string>
     <string name="check_update">Controlla aggiornamenti</string>
     <string name="finish_download">Download completato</string>

@@ -237,7 +237,7 @@ Controlleremo di nuovo entro due giorni lavorativi."</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Troppi tentativi sbagliati!&lt;/font></string>
     <string name="lockpattern_need_to_unlock_footer" />
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Riprova tra  %d secondi.</string>
-    <string name="title_myaccount">Account Mi: %s</string>
+    <string name="title_myaccount">Mi Account: %s</string>
     <string name="title_gesture">Sequenza di sblocco</string>
     <string name="title_lockpattern">Richiesta sequenza di sblocco</string>
     <string name="title_visible_pattern">Rendi visibile la sequenza</string>

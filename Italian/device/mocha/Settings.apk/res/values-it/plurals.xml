@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="trans_time_format_minute">
-        <item quantity="other">%d minuti</item>
-        <item quantity="one">%d minuto</item>
-    </plurals>
-    <plurals name="trans_time_format_hours">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">%d ora</item>
-    </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%s app non possono mostrare le notifiche</item>
         <item quantity="one">"1 app non può mostrare le notifiche</item>
@@ -21,8 +13,8 @@
         <item quantity="one">Ti manca %1$d tocco per diventare uno sviluppatore</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">La password deve contenere almeno %d lettere</item>
-        <item quantity="one">La password deve contenere almeno una lettera</item>
+        <item quantity="other">La password deve contenere almeno %d lettere.</item>
+        <item quantity="one">La password deve contenere almeno una lettera.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">La password deve contenere almeno %d lettere minuscole</item>
@@ -37,24 +29,24 @@
         <item quantity="one">La password deve contenere almeno una cifra numerica</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">La password deve contenere almeno %d simboli</item>
-        <item quantity="one">La password deve contenere almeno un simbolo</item>
+        <item quantity="other">La password deve contenere almeno %d simboli speciali</item>
+        <item quantity="one">La password deve contenere almeno un simbolo speciale</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">La password deve contenere almeno %d caratteri non costituiti da lettere</item>
         <item quantity="one">La password deve contenere almeno un carattere non costituito da una lettera</item>
     </plurals>
-    <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d app possono leggere le notifiche</item>
-        <item quantity="one">%d app può leggere le notifiche</item>
-    </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Codice PIN errato. Hai ancora %d tentativi a disposizione</item>
         <item quantity="one">"Codice PIN errato. Hai ancora %d tentativo a disposizione, dopodiché dovrai contattare l'operatore per sbloccare il dispositivo"</item>
     </plurals>
-    <plurals name="print_search_result_count_utterance">
-        <item quantity="other">%1$s stampanti trovate</item>
-        <item quantity="one">%1$s stampante trovata</item>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d app possono leggere le notifiche</item>
+        <item quantity="one">%d app può leggere le notifiche</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d app forniscono condizioni</item>
+        <item quantity="one">%d app fornisce condizioni</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Ti mancano %1$d tocchi per visualizzare le info sul dispositivo</item>
@@ -65,7 +57,7 @@
         <item quantity="one">Ti manca %1$d tocco per avviare la diagnostica</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">Ti mancano %1$d tocchi per inviare una segnalazione bug</item>
-        <item quantity="one">Ti manca %1$d tocco per inviare una segnalazione bug</item>
+        <item quantity="other">Ti mancano %1$d tocchi per avviare una segnalazione bug</item>
+        <item quantity="one">Ti manca %1$d tocco per avviare una segnalazione bug</item>
     </plurals>
 </resources>

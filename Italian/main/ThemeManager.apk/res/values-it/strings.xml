@@ -118,7 +118,7 @@
     <string name="resource_account_login_title">Accedi</string>
     <string name="resource_account_fail_to_add">Impossibile aggiungere account!</string>
     <string name="resource_account_abnormal_state">Errore account, riprovare più tardi.</string>
-    <string name="resource_account_login_before_action">Accedi al tuo Account Mi.</string>
+    <string name="resource_account_login_before_action">Accedi al tuo Mi Account.</string>
     <string name="resource_send">Invia</string>
     <string name="resource_save_to_note">Salva nelle note</string>
     <string name="resource_present">Regala</string>
@@ -179,7 +179,7 @@
     <string name="resource_clear_search_history_dialog">Vuoi cancellare tutta la cronologia delle ricerche?</string>
     <string name="fail_to_add_account">Impossibile aggiungere account</string>
     <string name="account_unactivated">Account non attivato.</string>
-    <string name="to_activate_the_account">Attiva il tuo Account Mi</string>
+    <string name="to_activate_the_account">Attiva il tuo Mi Account</string>
     <string name="resource_menu_refresh">Aggiorna</string>
     <string name="resource_unknow_error">Errore sconosciuto.</string>
     <string name="resource_user_know">OK</string>
@@ -275,7 +275,7 @@
     <string name="wallpaper_decoded_error">Decodifica fallita</string>
     <string name="close">Chiudi</string>
     <string name="download_success">Scaricato correttamente</string>
-    <string name="account_info">Account Mi</string>
+    <string name="account_info">Mi Account</string>
     <string name="account_name_not_login">Accedi</string>
     <string name="account_id_not_login">Tocca per accedere</string>
     <string name="favorite_list">Preferiti</string>

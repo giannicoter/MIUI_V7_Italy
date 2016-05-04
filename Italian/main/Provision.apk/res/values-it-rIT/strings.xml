@@ -12,7 +12,7 @@ Leggi questo documento per la tastiera: "</string>
     <string name="page_layout_label">Regola la dimensione del testo ed il layout per la Home, il Pannello delle notifiche, il Telefono ed altro.</string>
     <string name="sim_card_detection">Nessuna SIM rilevata</string>
     <string name="sim_card_detecting_title">Cerca SIM</string>
-    <string name="sim_card_detection_info">Hai bisogno di una SIM per impostare il tuo Account Mi.</string>
+    <string name="sim_card_detection_info">Hai bisogno di una SIM per impostare il tuo Mi Account.</string>
     <string name="sim_card_detecting">Controllo SIM in corso…</string>
     <string name="other_settings">Impostazioni aggiuntive</string>
     <string name="other_settings_location">Localizzazione</string>

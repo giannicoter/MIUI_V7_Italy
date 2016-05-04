@@ -299,7 +299,7 @@ Per sistemare questo problema, liberati di alcuni vecchi file per fare spazio pe
     <string name="account_dspt_provision">Usa un unico account per tutti i nostri prodotti.</string>
     <string name="cloud_find_device">Trova dispositivo</string>
     <string name="find_device_dspt">Blocca o azzera questo dispositivo da remoto.</string>
-    <string name="login_title">Accedi al tuo account Mi</string>
+    <string name="login_title">Accedi al tuo Mi Account</string>
     <string name="login_step2_title">Protezione accesso</string>
     <string name="micloud_user_space_title">Spazio disponibile</string>
     <string name="micloud_welcome_skip_login_provision">Salta</string>

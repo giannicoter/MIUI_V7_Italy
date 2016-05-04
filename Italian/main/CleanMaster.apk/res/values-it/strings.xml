@@ -336,7 +336,7 @@
     <string name="title_of_garbage_data_set">Aggiornamenti database strumento di pulizia</string>
     <string name="tips_of_garbage_data_set">Aggiorna il database dello strumento di pulizia per trovare altri file da rimuovere</string>
     <string name="title_of_cloud_service">Scansione online</string>
-    <string name="tips_of_cloud_service">Accedi al tuo Account Mi per utilizzare altri servizi Mi</string>
+    <string name="tips_of_cloud_service">Accedi al tuo Mi Account per utilizzare altri servizi Mi</string>
     <string name="login_immediately">Accedi</string>
     <string name="button_text_install_now">Installa</string>
     <string name="total_clean_text">Pulisci</string>
