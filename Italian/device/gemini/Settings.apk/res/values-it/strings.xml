@@ -4108,7 +4108,7 @@ Disabilitare le finestre flottanti?"</string>
     <string name="fingerprint_list_title">Impronta</string>
     <string name="add_fingerprint_text">Aggiungi impronta digitale</string>
     <string name="delete_fingerprint_text">Rimuovi impronta digitale</string>
-    <string name="delete_fingerprint_confirm_msg">Vuoi rimuovere l'impronta digitale?</string>
+    <string name="delete_fingerprint_confirm_msg">"Vuoi rimuovere l'impronta digitale?"</string>
     <string name="fingerprint_identify_msg">Lettura dell'impronta\u2026</string>
     <string name="fingerprint_identify_input_password_msg">Inserisci password</string>
     <string name="fingerprint_identify_try_again_msg">Scansione fallita, prova di nuovo</string>
@@ -4190,9 +4190,9 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="bootloader_apply_step_1">Vuoi attivare la Modalità Fastboot?</string>
     <string name="bootloader_apply_step_2">Quando il tuo dispositivo è in modalità Fastboot ed è connesso al computer</string>
     <string name="bootloader_apply_step_3">i dati (come password e messagi) sul dispositivo potrebbero essere letti senza il tuo consenso.</string>
-    <string name="bootloader_apply_step_4">Potrebbe comportare la diffusione o la perdita dei dati, o anche danni irreparabili all'hardware.</string>
+    <string name="bootloader_apply_step_4">"Potrebbe comportare la diffusione o la perdita dei dati, o anche danni irreparabili all'hardware."</string>
     <string name="bootloader_apply_step_5">Assicurati di sapere come usare la Modalità Fastboot prima di attivarla.</string>
-    <string name="add_fingerprint_similar_fingerprint_input_error_msg"Muovi leggermente il tuo dito e posizionalo sul sensore di nuovo per aggiungere tutte le varie parti della tua impronta.</string>
+    <string name="add_fingerprint_similar_fingerprint_input_error_msg">Muovi leggermente il tuo dito e posizionalo sul sensore di nuovo per aggiungere tutte le varie parti della tua impronta.</string>
     <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
     <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
     <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
@@ -4217,6 +4217,6 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="security_encryption_diaglog_continue">Avanti</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Clicca per modificare</string>
     <string name="add_fingerprint_failed_retry_text">"Impossibile aggiungere l'impronta, riprova"</string>
-    <string name="fingerprint_for_keyguard_disabled">L'impronta è stata disattivata per via delle impostazioni di sicurezza.</string>
+    <string name="fingerprint_for_keyguard_disabled">"L'impronta è stata disattivata per via delle impostazioni di sicurezza."</string>
     <string name="fingerprint_removal_failed">"Impossibile rimuovere l'impronta, riprova più tardir"</string>
 </resources>
