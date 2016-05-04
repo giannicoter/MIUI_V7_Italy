@@ -2837,30 +2837,30 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="zen_mode_schedule_rule_days_all">Ogni giorno</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
-    <string name="summary_range_verbal_combination">%1$s to %2$s</string>
-    <string name="zen_mode_calls">Chiamata</string>
+    <string name="summary_range_verbal_combination">%1$s di %2$s</string>
+    <string name="zen_mode_calls">Chiamate</string>
     <string name="zen_mode_messages">Messaggi</string>
-    <string name="zen_mode_selected_messages">Selected messages</string>
+    <string name="zen_mode_selected_messages">Seleziona messaggi</string>
     <string name="zen_mode_from_anyone">Chiunque</string>
     <string name="zen_mode_from_contacts">Solo contatti</string>
     <string name="zen_mode_from_starred">Solo contatti preferiti</string>
     <string name="zen_mode_from_none">Nessuna</string>
     <string name="zen_mode_alarms">Allarme</string>
-    <string name="zen_mode_reminders">promemoria</string>
+    <string name="zen_mode_reminders">Promemoria</string>
     <string name="zen_mode_events">Eventi e promemoria</string>
-    <string name="zen_mode_selected_callers">Selected callers</string>
-    <string name="zen_mode_repeat_callers">Repeat callers</string>
-    <string name="zen_mode_repeat_callers_summary">If the same person calls a second time within a %d minute period, allow it</string>
+    <string name="zen_mode_selected_callers">Seleziona chiamanti</string>
+    <string name="zen_mode_repeat_callers">Ripetere i chiamanti</string>
+    <string name="zen_mode_repeat_callers_summary">Se la stessa persona chiama una seconda volta entro %d minuto, consenti di</string>
     <string name="zen_mode_when">Attivazione automatica</string>
     <string name="zen_mode_when_never">Mai</string>
     <string name="zen_mode_when_every_night">Ogni notte</string>
     <string name="zen_mode_when_weeknights">Giorni feriali</string>
     <string name="zen_mode_start_time">Inizio</string>
     <string name="zen_mode_end_time">Fine</string>
-    <string name="zen_mode_end_time_next_day_summary_format">%s next day</string>
-    <string name="zen_mode_summary_alarms_only_indefinite">Change to alarms only indefinitely</string>
-    <string name="zen_mode_summary_alarms_only_by_time">Change to alarms only until %1$s</string>
-    <string name="zen_mode_summary_always">Change to always interrupt</string>
+    <string name="zen_mode_end_time_next_day_summary_format">%s prossimo giorno</string>
+    <string name="zen_mode_summary_alarms_only_indefinite">Modifica allarmi solo a tempo indeterminato</string>
+    <string name="zen_mode_summary_alarms_only_by_time">Modifica allarmi solo fino a %1$s</string>
+    <string name="zen_mode_summary_always">Cambia per sempre o interrompi</string>
     <string name="notification_settings_apps_title">Notifiche app</string>
     <string name="notification_app_settings_button">Impostazioni di notifica</string>
     <string name="device_feedback">Invia un feedback di informazioni su questo dispositivo</string>
@@ -2905,15 +2905,15 @@ Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."
     <string name="encryption_interstitial_message_password">"È possibile proteggere ulteriormente il dispositivo richiedendo la password prima dell'avvio. Fino a quando il dispositivo è avviato, non si possono ricevere chiamate, messaggi o altri servizi.
 
 Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."</string>
-    <string name="encryption_interstitial_message_pin_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+    <string name="encryption_interstitial_message_pin_for_fingerprint">"È possibile proteggere ulteriormente il dispositivo richiedendo la sequenza di sblocco prima dell'avvio. Fino a quando il dispositivo è avviato, non si possono ricevere chiamate, messaggi o altri servizi.
 
-This helps protect data on lost or stolen devices."</string>
-    <string name="encryption_interstitial_message_pattern_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."</string>
+    <string name="encryption_interstitial_message_pattern_for_fingerprint">"È possibile proteggere ulteriormente il dispositivo richiedendo la sequenza di sblocco prima dell'avvio. Fino a quando il dispositivo è avviato, non si possono ricevere chiamate, messaggi o altri servizi.
 
-This helps protect data on lost or stolen devices."</string>
-    <string name="encryption_interstitial_message_password_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your password before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."</string>
+    <string name="encryption_interstitial_message_password_for_fingerprint">"È possibile proteggere ulteriormente il dispositivo richiedendo la sequenza di sblocco prima dell'avvio. Fino a quando il dispositivo è avviato, non si possono ricevere chiamate, messaggi o altri servizi.
 
-This helps protect data on lost or stolen devices."</string>
+Questa funzione aiuta a proteggere i propri dati su dispositivi persi o rubati."</string>
     <string name="encrypt_require_pin">Richiesto PIN per avviare il dispositivo</string>
     <string name="encrypt_require_pattern">Richiesta la sequenza di sblocco per avviare il dispositivo</string>
     <string name="encrypt_require_password">Richiesta una password per avviare il dispositivo</string>
@@ -2927,48 +2927,48 @@ This helps protect data on lost or stolen devices."</string>
     <string name="encrypt_talkback_dialog_message_pattern">Quando si inserisce la sequenza di sblocco per avviare questo dispositivo, i servizi di accessibilità come %1$s non saranno ancora disponibili.</string>
     <string name="encrypt_talkback_dialog_message_password">Quando si inserisce la password per avviare questo dispositivo, i servizi di accessibilità come %1$s non saranno ancora disponibili.</string>
     <string name="imei_information_summary">IMEI relative information</string>
-    <string name="slot_number">(Slot%1$d)</string>
-    <string name="launch_by_default">Impostazione predefinita</string>
-    <string name="storage_summary_format">%1$s used in %2$s</string>
-    <string name="app_launch_domain_links_title">App links</string>
-    <string name="app_launch_open_domain_urls_title">Apri links supportati</string>
-    <string name="app_launch_open_domain_urls_summary">Open without asking</string>
-    <string name="app_launch_supported_domain_urls_title">Links supportati</string>
+    <string name="slot_number">(Slot %1$d)</string>
+    <string name="launch_by_default">Apri predefinita</string>
+    <string name="storage_summary_format">%1$s usati in %2$s</string>
+    <string name="app_launch_domain_links_title">App link</string>
+    <string name="app_launch_open_domain_urls_title">Apri link supportati</string>
+    <string name="app_launch_open_domain_urls_summary">Apri senza chiedere</string>
+    <string name="app_launch_supported_domain_urls_title">Link supportati</string>
     <string name="app_launch_other_defaults_title">Altre impostazioni</string>
     <string name="storage_type_internal">Memoria interna</string>
     <string name="storage_type_external">Memoria esterna</string>
-    <string name="app_data_usage">App data usage</string>
-    <string name="data_summary_format">%1$s used since %2$s</string>
+    <string name="app_data_usage">Utilizzo dati App</string>
+    <string name="data_summary_format">%1$s usati fino a %2$s</string>
     <string name="storage_used">Memoria usata</string>
     <string name="change">Cambia</string>
     <string name="change_storage">Cambia memoria</string>
     <string name="notifications_label">Notifica</string>
     <string name="notifications_enabled">Normale</string>
     <string name="notifications_disabled">Blocca</string>
-    <string name="notifications_sensitive">Sensitive content hidden</string>
-    <string name="notifications_priority">Priorita</string>
-    <string name="notifications_no_peeking">No peeking</string>
+    <string name="notifications_sensitive">Nascondi dati sensibili</string>
+    <string name="notifications_priority">Priorità</string>
+    <string name="notifications_no_peeking">Nascondi completamente</string>
     <string name="notifications_two_items">%1$s / %2$s</string>
     <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-    <string name="runtime_permissions_summary_no_permissions_granted">No permissions granted</string>
-    <string name="runtime_permissions_summary_no_permissions_requested">No permissions requested</string>
-    <string name="launch_defaults_some">Some defaults set</string>
-    <string name="launch_defaults_none">No defaults set</string>
-    <string name="filter_all_apps">All apps</string>
+    <string name="runtime_permissions_summary_no_permissions_granted">Nessun permesso rilasciato</string>
+    <string name="runtime_permissions_summary_no_permissions_requested">Nessun permesso richiesto</string>
+    <string name="launch_defaults_some">Alcuni valori predefiniti impostati</string>
+    <string name="launch_defaults_none">Nessun valore predefinito impostato</string>
+    <string name="filter_all_apps">Tutte le app</string>
     <string name="filter_enabled_apps">Attivato</string>
     <string name="filter_personal_apps">Personale</string>
-    <string name="filter_work_apps">Work</string>
-    <string name="filter_notif_blocked_apps">Bloccato</string>
-    <string name="filter_notif_priority_apps">Priority</string>
-    <string name="filter_notif_sensitive_apps">Sensitive content hidden</string>
-    <string name="filter_notif_no_peeking">No peeking</string>
-    <string name="filter_with_domain_urls_apps">With domain URLs</string>
-    <string name="trust_agent_disabled_device_admin">Disabled by administrator</string>
+    <string name="filter_work_apps">Lavoro</string>
+    <string name="filter_notif_blocked_apps">Bloccate</string>
+    <string name="filter_notif_priority_apps">Priorità</string>
+    <string name="filter_notif_sensitive_apps">Nascondi dati sensibili</string>
+    <string name="filter_notif_no_peeking">Nascondi completamente</string>
+    <string name="filter_with_domain_urls_apps">Con domini URL</string>
+    <string name="trust_agent_disabled_device_admin">"Disattivate dall'amministratore"</string>
     <string name="advanced_apps">Avanzate</string>
-    <string name="configure_apps">Configura apps</string>
-    <string name="unknown_app">Unknown app</string>
+    <string name="configure_apps">Configura app</string>
+    <string name="unknown_app">App sconosciuta</string>
     <string name="choose_profile">Scegli il profilo</string>
-    <string name="app_permissions">App permissions</string>
+    <string name="app_permissions">Permessi app</string>
     <string name="app_permissions_summary" formatted="false">%d of %d apps allowed additional access</string>
     <string name="app_permissions_group_summary" formatted="false">%d of %d apps allowed</string>
     <string name="tap_to_wake">Tap to wake</string>
