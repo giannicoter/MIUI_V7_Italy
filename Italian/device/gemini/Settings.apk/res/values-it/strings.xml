@@ -2724,7 +2724,7 @@ Qualsiasi utente può accettare le autorizzazioni delle applicazioni aggiornate 
     <string name="keywords_date_and_time">clock</string>
     <string name="keywords_network_reset">reset restore factory</string>
     <string name="keywords_factory_data_reset">wipe delete</string>
-    <string name="keywords_printing">printher</string>
+    <string name="keywords_printing">stampare</string>
     <string name="keywords_sounds_and_notifications">speaker beep</string>
     <string name="keywords_sounds_and_notifications_interruptions">"dont don't disturb interrupt interruption break"</string>
     <string name="keywords_app">RAM</string>
