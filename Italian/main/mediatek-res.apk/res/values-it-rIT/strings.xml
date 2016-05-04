@@ -25,7 +25,6 @@
     <string name="pin_length_indicate">"(4-8 cifre)"</string>
     <string name="puk_length_indicate">"(8 cifre)"</string>
     <string name="one_retry_left">"1 tentativo rimanente"</string>
-    <string name="retries_left">"Restanti: <xliff:g id="number">%d</xliff:g>"</string>
     <string name="invalid_imei">"IMEI non valido"</string>
     <string name="same_imei">"Stesso IMEI"</string>
     <string name="unable_launch_the_ap">"Impossibile avviare l'applicazione."</string>
@@ -45,9 +44,6 @@
     <string name="lockscreen_sim_puk_locked_message_short">"Blocco PUK"</string>
     <string name="lockscreen_sim_locked_message_short">"Scheda SIM bloccata"</string>
     <string name="lockscreen_password_error">Errore password, riprovare</string>
-    <string name="aerr_application_lowmem">"Interruzione imprevista dell'applicazione <xliff:g id="application">%1$s</xliff:g>
-        ((processo <xliff:g id="process">%2$s</xliff:g>). Ciò potrebbe dipendere da uno scarso spazio in memoria. Liberare la memoria e riprovare."</string>
-    <string name="aerr_process_lowmem">"Interruzione imprevista del processo <xliff:g id="process">%1$s</xliff:g>. Ciò potrebbe dipendere da uno scarso spazio in memoria. Liberare la memoria e riprovare."</string>
     <string name="free_memory_btn">"Libera memoria"</string>
     <string name="free_memory_text">"Memoria scarsa. Liberare la memoria."</string>		
     <string name="mem_low_title">Liberare la memoria</string>
@@ -102,8 +98,6 @@
     <string name="new_sim_card_inserted">Nuova scheda SIM inserita</string>
     <string name="missed_call_display">Chiamata persa:</string>
     <string name="missed_message_display">Messaggio non letto:</string>
-    <string name="lockscreen_pin_too_many_failed_attempts_dialog_message">"PIN inserito in modo incorretto <xliff:g id="NUMBER_0">%d</xliff:g> volte. "\n\n"Riprova fra <xliff:g id="NUMBER_1">%d</xliff:g> secondi."</string>
-    <string name="lockscreen_password_too_many_failed_attempts_dialog_message">"Password inserita in modo incorretto <xliff:g id="NUMBER_0">%d</xliff:g> volte. "\n\n"Riprova fra <xliff:g id="NUMBER_1">%d</xliff:g> secondi."</string>
     <string name="ext_media_checking_notification_title_sd2">Preparazione scheda SD 2</string> 
     <string name="criticallowmessage" product="tablet">"Memoria del dispositivo piena. Eliminare i file inutili per evitare che l'applicazione si chiuda all'improvviso"</string>
     <string name="drm_protection_status">Stato protezione:</string>
