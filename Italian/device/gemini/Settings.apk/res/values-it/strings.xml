@@ -4204,7 +4204,7 @@ Assicurati che il dito copra l'intera superficie del sensore"</string>
     <string name="security_encryption_title">Cripta il dispositivo usando la password della schermata di blocco</string>
     <string name="security_encryption_is_used">Attivata</string>
     <string name="security_encryption_attention_title">Importante</string>
-    <string name="security_encryption_attention_info">Puoi criptare account, impostazioni, app scaricate e relativi dai, file multimediali, e altri file.</string>
+    <string name="security_encryption_attention_info">Puoi criptare account, impostazioni, app scaricate e relativi dati, file multimediali, e altri file.</string>
     <string name="security_encryption_alert_dialog_title_first">Imposta prima la schermata di blocco</string>
     <string name="security_encryption_alert_dialog_info_first">"Imposta la password della schermata di blocco per attivare questa funzionalità. Dovrai inserire la password della schermata di blocco dopo ogni riavvio per decriptare il dispositivo e usare normalmente il dispositivo."</string>
     <string name="security_encryption_attention_symbol">•</string>
