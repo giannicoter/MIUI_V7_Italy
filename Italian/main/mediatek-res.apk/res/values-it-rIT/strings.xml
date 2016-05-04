@@ -130,4 +130,4 @@
     <string name="recip_unsupport_operator">"RecipientsView non supporta operazioni di caratteri. Usare la barra degli strumenti per azionare destinatari."</string>
     <string name="recip_unsupport_selection">"Spiacenti, impossibile spostare punto di inserimento all'inizio quando vi sono destinatari in RecipientsView."</string>
     <string name="tethered_notification_message_for_hotspot">%1$d connessi, %2$d bloccati</string>
-	</resources>
+</resources>
