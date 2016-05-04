@@ -25,7 +25,7 @@
     <string name="streamloadingtext">Connessione a %s</string>
     <string name="error_title">Impossibile sincronizzare</string>
     <string name="error_unauthorized">Sincronizzazione disattivata a causa di un numero eccessivo di tentativi di accesso.</string>
-    <string name="error_forbidden">Sincronizzazione disattivata a causa di un problema con il tuo Account Mi.</string>
+    <string name="error_forbidden">Sincronizzazione disattivata a causa di un problema con il tuo Mi Account.</string>
     <string name="error_not_acceptable">Sincronizzazione disattivata.</string>
     <string name="impunity_declaration_title">Codizioni di servizio</string>
     <string name="impunity_declaration">Questa app necessità della connessione a internet per vedere e ascoltare la musica in streaming.</string>
@@ -140,7 +140,7 @@
     <string name="download_auto_when_all_network">Scarica i brani sia sotto rete dati cellulare che Wi-Fi</string>
     <string name="download_auto_quality_alert_title">Qualità musica</string>
     <string name="download_auto_quality_alert_sub_title_for_expired">"Il tuo periodo di prova o il tuo abbonamento sono scaduti. Seleziona un'altra qualità audio."</string>
-    <string name="download_auto_quality_alert_sub_title_for_login">Per attivare questa impostazioni, accedi al tuo Account Mi.</string>
+    <string name="download_auto_quality_alert_sub_title_for_login">Per attivare questa impostazioni, accedi al tuo Mi Account.</string>
     <string name="download_auto_cancel">Il download dei preferiti è disattivato</string>
     <string name="download_auto_message">I brani contrassegnati come preferiti saranno scaricati automaticamente via Wi-Fi. Puoi cambiare questa impostazione nelle impostazioni Account nella scheda Locale"</string>
     <string name="download_quality">Qualità download</string>
@@ -172,7 +172,7 @@
     <string name="normal_quality">Normale</string>
     <string name="vip_recommend_title">Ottieni musica di qualità migliore</string>
     <string name="download_completed">Scaricati</string>
-    <string name="login_first">Accedi prima al tuo account Mi</string>
+    <string name="login_first">Accedi prima al tuo Mi Account</string>
     <string name="data_usage_warning">Utilizzo dati</string>
     <string name="data_usage_warning_summary">"Lo streaming in alta qualità tramite dati cellulare può aumentare il traffico di rete e i relativi costi."</string>
     <string name="payment_success">Pagamento completato</string>
